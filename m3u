@@ -152,7 +152,6 @@ http://45.236.175.23:8000/play/a00t
 #EXTINF:-1,Zona Latina
 http://45.236.175.23:8000/play/a01v
 
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/o2BwkUJ.png" group-title="Radios Chilenas", Agricultura (92.1 FM)
 http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
 
@@ -174,10 +173,10 @@ http://audio2.tustreaming.cl:8012/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/mr5EOO3.png" group-title="Radios Chilenas", Araucana (95.9 FM Temuco)
 http://157.245.89.117:8062/;
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/AoQV59q.png" group-title="Radios Chilenas", Atractiva (FM 95.3 Concepci贸n)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/AoQV59q.png" group-title="Radios Chilenas", Atractiva (FM 95.3 Concepción)
 http://5.9.65.9:8315/atractiva
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Concepci贸n (98.1 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Concepción (98.1 FM)
 https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Los Angeles (96.7 FM)
@@ -201,7 +200,7 @@ https://unlimited3-cl.dps.live/biobiovaldivia/aac/icecast.audio
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Valparaiso (96.7 FM)
 https://unlimited3-cl.dps.live/biobiovalparaiso/aac/icecast.audio
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/6w6Nusa.png" group-title="Radios Chilenas", C谩mara de Diputados (Online)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/6w6Nusa.png" group-title="Radios Chilenas", Cámara de Diputados (Online)
 http://camara.03.wl.cdnz.cl/camara5/live/playlist.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/qAtdVTf.png" group-title="Radios Chilenas", Canal 95 (88.1 FM Antofagasta)
@@ -222,7 +221,7 @@ http://sonando.us.digitalproserver.com/caramelo_arauco.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/YMzOlVG.png" group-title="Radios Chilenas", Carnaval Antofagasta (96.5 FM)
 http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/YMzOlVG.png" group-title="Radios Chilenas", Carnaval Vi帽a del Mar (89.9 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/YMzOlVG.png" group-title="Radios Chilenas", Carnaval Viña del Mar (89.9 FM)
 http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/a5F2EwR.jpg" group-title="Radios Chilenas", Carolina (99.3 FM)
@@ -241,19 +240,19 @@ http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
 https://20323.live.streamtheworld.com/CONCIERTOAAC_SC
 
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/U6Bv4on.png" group-title="Radios Chilenas", Condell (92.7 FM Curic贸)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/U6Bv4on.png" group-title="Radios Chilenas", Condell (92.7 FM Curicó)
 http://cast.radioservicios.cl:8300/radio
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/iemaZ5k.png" group-title="Radios Chilenas", Contacto (103.9 FM Talagante)
 http://192.99.18.164:9598/;
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/iTJzK13.png" group-title="Radios Chilenas", Coraz贸n (101.3 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/iTJzK13.png" group-title="Radios Chilenas", Corazón (101.3 FM)
 https://21933.live.streamtheworld.com/CORAZON_SC
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/NMVazbf.png" group-title="Radios Chilenas", Coyhaique (95.3 FM Coyhaique)
 http://stream5.eltelon.com/radio-coyhaique.aac
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Tc828ZT.png" group-title="Radios Chilenas", Creaci贸n (99.3 FM Cabrero)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Tc828ZT.png" group-title="Radios Chilenas", Creación (99.3 FM Cabrero)
 http://archi-us.digitalproserver.com/creacion-fm.aac
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/GgMBBDL.png" group-title="Radios Chilenas", Creaciones (107.5 FM Temuco)
@@ -287,10 +286,10 @@ https://22823.live.streamtheworld.com/FUTUROAAC_SC
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/EwrjuWv.png" group-title="Radios Chilenas", Galaxia (Online)
 http://sscl.denialstream.com:8830/;stream/1.mp3
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/1JxOe49.png" group-title="Radios Chilenas", G茅nesis (96.5 FM Curacautin)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/1JxOe49.png" group-title="Radios Chilenas", Génesis (96.5 FM Curacautin)
 http://stream5.eltelon.com/genesis.aac
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/tQhOO5I.png" group-title="Radios Chilenas", Gennesis (92.7 FM  Copiap贸)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/tQhOO5I.png" group-title="Radios Chilenas", Gennesis (92.7 FM  Copiapó)
 http://atanua.broadcastchile.cl:7000/;
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/mPXszmo.png" group-title="Radios Chilenas", Imagina (88.1 FM)
@@ -302,10 +301,10 @@ https://unlimited1-us.dps.live/infinita/gotardis/audio/now/livestream1.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/5fRJ2Wf.png" group-title="Radios Chilenas", La Clave (92.9 FM)
 http://tunein.digitalproserver.com/laclavebb.aac
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/avui2Wa.png" group-title="Radios Chilenas", La Discusi贸n (94.7 FM Chillan)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/avui2Wa.png" group-title="Radios Chilenas", La Discusión (94.7 FM Chillan)
 http://stream5.eltelon.com/radio-la-discusion.aac
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/7mRhJLu.png" group-title="Radios Chilenas", Las Nieves (102.9 FM Puerto Ays茅n)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/7mRhJLu.png" group-title="Radios Chilenas", Las Nieves (102.9 FM Puerto Aysén)
 http://audio2.tustreaming.cl:8044/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/adCyBYn.jpg" group-title="Radios Chilenas", Loactual (96.7 FM Calama)
@@ -314,10 +313,10 @@ http://rs.comtic.net:8000/;
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/bFE28Ft.png" group-title="Radios Chilenas", Los 40 Principales (101.7 FM)
 https://20323.live.streamtheworld.com/LOS40_CHILE_SC
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/CpIOrw8.png" group-title="Radios Chilenas", Llacol茅n (1600 AM Concepci贸n)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/CpIOrw8.png" group-title="Radios Chilenas", Llacolén (1600 AM Concepción)
 http://sonando.us.digitalproserver.com/radiollacolen.aac
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/KxACsbP.png" group-title="Radios Chilenas",Macarena (99.7 FM Chill谩n)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/KxACsbP.png" group-title="Radios Chilenas",Macarena (99.7 FM Chillán)
 http://66.165.231.118:9306/stream/1/
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/3Wz5r3H.jpg" group-title="Radios Chilenas",Madero (102.5 FM Antofagasta)
@@ -326,10 +325,10 @@ http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/IiSH8T0.png" group-title="Radios Chilenas", Magistral (93.9 FM Galvarino)
 http://www.magistralfm.cl:9110/galvarino
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/3dmUnMc.png" group-title="Radios Chilenas", Maray (90.9 FM Copiap贸)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/3dmUnMc.png" group-title="Radios Chilenas", Maray (90.9 FM Copiapó)
 http://184.154.173.147:8000/;stream.mp3
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/BpTGghs.png" group-title="Radios Chilenas", Mar铆a (89.3 FM )
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/BpTGghs.png" group-title="Radios Chilenas", María (89.3 FM )
 http://dreamsiteradiocp.com:8066/stream/1/
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/fJTzncE.jpg" group-title="Radios Chilenas", Mirador (90.9 FM Lautaro)
@@ -371,7 +370,7 @@ http://mimix.mercurio.cl:8000/temuco2
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/oZ5GYYh.png" group-title="Radios Chilenas", Positiva (FM 99.5 Valdivia)
 http://mimix.mercurio.cl:8000/valdivia2
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LKx9K1c.jpg" group-title="Radios Chilenas", Punto Siete (90.9 FM Concepci贸n)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LKx9K1c.jpg" group-title="Radios Chilenas", Punto Siete (90.9 FM Concepción)
 http://redirector.dps.live/p7concepcion/aac/icecast.audio
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LmV8m1P.png" group-title="Radios Chilenas", Pudahuel (90.5 FM)
@@ -386,7 +385,7 @@ http://unlimited3-cl.dps.live/disney/mp364k/icecast.audio
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/k21dA8z.jpg" group-title="Radios Chilenas", Radio San Bartolome (96.7 FM La Serena)
 http://stream5.eltelon.com/san-bartolome.aac
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/HyBIdje.jpg" group-title="Radios Chilenas", Regina Coeli (95.3 FM Los 脕ngeles)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/HyBIdje.jpg" group-title="Radios Chilenas", Regina Coeli (95.3 FM Los Ángeles)
 https://server01.heplayer.com/9352/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/VqhcW5j.png" group-title="Radios Chilenas", Ritoque (107.9 FM Valparaiso)
@@ -395,10 +394,10 @@ http://sonando.us.digitalproserver.com/ritoquefm_aac
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/c5dlfCu.png" group-title="Radios Chilenas", Rock and Pop (94.1 FM)
 https://20283.live.streamtheworld.com/ROCK_AND_POP_SC
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/OQNf6jw.jpg" group-title="Radios Chilenas", Rom谩ntica (104.1 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/OQNf6jw.jpg" group-title="Radios Chilenas", Romántica (104.1 FM)
 http://unlimited11-cl.dps.live/romantica/mp3/icecast.audio
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/nflHOKo.jpg" group-title="Radios Chilenas", Radio San Crist贸bal (97.5 FM Los 脕ngeles)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/nflHOKo.jpg" group-title="Radios Chilenas", Radio San Cristóbal (97.5 FM Los Ángeles)
 http://stream5.eltelon.com:8000/archi-sancristobal.aac
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/vEYBR8D.png" group-title="Radios Chilenas", Sol (97.7 FM Antofagasta)
@@ -425,7 +424,7 @@ http://s01.midns.net/universal-aac
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/AbH9Z3j.png" group-title="Radios Chilenas", Universidad de Antofagasta (99.9 FM)
 http://185.105.4.100/proxy/radioua?mp=/stream
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/mgqpBsW.png" group-title="Radios Chilenas", Universidad de Talca Cl谩sica (102.1 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/mgqpBsW.png" group-title="Radios Chilenas", Universidad de Talca Clásica (102.1 FM)
 http://iradio.utalca.cl:8000/fm
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/DkE64X1.png" group-title="Radios Chilenas", Universo (93.7 FM)
@@ -433,4 +432,3 @@ https://unlimited4-us.dps.live/universo/aac/icecast.audio
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/HkJznx3.png" group-title="Radios Chilenas", Zonar (104.1 FM Villa Prat)
 https://sonic.portalfoxmix.cl:7131/stream/1/
-
