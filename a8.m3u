@@ -145,7 +145,12 @@ http://45.236.175.23:8000/play/a01e
 http://45.236.175.23:8000/play/a00t
 #EXTINF:-1,Zona Latina
 http://45.236.175.23:8000/play/a01v
-
+#EXTINF:-1,Playboy
+http://190.92.63.182:9090/play/a02s/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://190.92.63.182:9090/play/a09a/index.m3u8
+#EXTINF:-1,VENUS
+http://190.92.63.182:9090/play/a05g/index.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/o2BwkUJ.png" group-title="Radios Chilenas", Agricultura (92.1 FM)
 http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
