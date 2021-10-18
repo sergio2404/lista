@@ -373,8 +373,6 @@ http://190.92.63.182:9090/play/a08u/index.m3u8
 http://190.92.63.182:9090/play/a095/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://190.92.63.182:9090/play/a09a/index.m3u8
-#EXTINF:-1,Playboy
-http://190.92.63.182:9090/play/a02s/index.m3u8
 #EXTINF:-1,RCN - GUA
 http://190.92.63.182:9090/play/a08i/index.m3u8
 #EXTINF:-1,RCN Novelas
@@ -453,8 +451,6 @@ http://190.92.63.182:9090/play/a04l/index.m3u8
 http://190.92.63.182:9090/play/a07e/index.m3u8
 #EXTINF:-1,Univision HD
 http://190.92.63.182:9090/play/a09b/index.m3u8
-#EXTINF:-1,VENUS
-http://190.92.63.182:9090/play/a05g/index.m3u8
 #EXTINF:-1,WARNER HD
 http://190.92.63.182:9090/play/a06e/index.m3u8
 #EXTINF:-1,ZooMoo
