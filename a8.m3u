@@ -145,6 +145,8 @@ http://45.236.175.23:8000/play/a01e
 http://45.236.175.23:8000/play/a00t
 #EXTINF:-1,Zona Latina
 http://45.236.175.23:8000/play/a01v
+#EXTINF:-1,FilmZone HD
+http://78.58.133.179:28000/play/filmzonehd265/index.m3u8
 
 
 
