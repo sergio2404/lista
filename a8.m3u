@@ -149,6 +149,84 @@ http://45.236.175.23:8000/play/a01v
 http://78.58.133.179:28000/play/filmzonehd265/index.m3u8
 
 
+#EXTINF:-1,A&E HD
+http://45.231.134.22:8001/play/a007/index.m3u8
+#EXTINF:-1,AMC HD
+http://45.231.134.22:8001/play/a00k/index.m3u8
+#EXTINF:-1,AXN HD
+http://45.231.134.22:8001/play/a00g/index.m3u8
+#EXTINF:-1,Arte 1 HD
+http://45.231.134.22:8001/play/a00y/index.m3u8
+#EXTINF:-1,Canal Sony HD
+http://45.231.134.22:8001/play/a00f/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://45.231.134.22:8001/play/a00o/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://45.231.134.22:8001/play/a00m/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://45.231.134.22:8001/play/a00n/index.m3u8
+#EXTINF:-1,E! HD
+http://45.231.134.22:8001/play/a004/index.m3u8
+#EXTINF:-1,Food Network HD
+http://45.231.134.22:8001/play/a00h/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://45.231.134.22:8001/play/a012/index.m3u8
+#EXTINF:-1,HBO HD
+http://45.231.134.22:8001/play/a00z/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://45.231.134.22:8001/play/a014/index.m3u8
+#EXTINF:-1,HBO Signature HD
+http://45.231.134.22:8001/play/a013/index.m3u8
+#EXTINF:-1,HBO+ HD
+http://45.231.134.22:8001/play/a011/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://45.231.134.22:8001/play/a010/index.m3u8
+#EXTINF:-1,History 2 HD
+http://45.231.134.22:8001/play/a006/index.m3u8
+#EXTINF:-1,History HD
+http://45.231.134.22:8001/play/a00d/index.m3u8
+#EXTINF:-1,ID HD
+http://45.231.134.22:8001/play/a00q/index.m3u8
+#EXTINF:-1,Lifetime HD
+http://45.231.134.22:8001/play/a00j/index.m3u8
+#EXTINF:-1,Premiere 2 HD
+http://45.231.134.22:8001/play/a00b/index.m3u8
+#EXTINF:-1,Premiere 5 HD
+http://45.231.134.22:8001/play/a00c/index.m3u8
+#EXTINF:-1,Premiere Clubes HD
+http://45.231.134.22:8001/play/a00a/index.m3u8
+#EXTINF:-1,Rede Vida HD
+http://45.231.134.22:8001/play/a015/index.m3u8
+#EXTINF:-1,SYFY HD
+http://45.231.134.22:8001/play/a00i/index.m3u8
+#EXTINF:-1,Space HD
+http://45.231.134.22:8001/play/a00s/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://45.231.134.22:8001/play/a00l/index.m3u8
+#EXTINF:-1,TBS HD
+http://45.231.134.22:8001/play/a00p/index.m3u8
+#EXTINF:-1,TNT SØries HD
+http://45.231.134.22:8001/play/a00r/index.m3u8
+#EXTINF:-1,TV Aparecida
+http://45.231.134.22:8001/play/a00t/index.m3u8
+#EXTINF:-1,TV Brasil HD
+http://45.231.134.22:8001/play/a017/index.m3u8
+#EXTINF:-1,TV Cabo Branco - Globo HD
+http://45.231.134.22:8001/play/a002/index.m3u8
+#EXTINF:-1,TV Novo Tempo HD
+http://45.231.134.22:8001/play/a008/index.m3u8
+#EXTINF:-1,Telecine Action HD
+http://45.231.134.22:8001/play/a00v/index.m3u8
+#EXTINF:-1,Telecine Cult HD
+http://45.231.134.22:8001/play/a00x/index.m3u8
+#EXTINF:-1,Telecine Fun HD
+http://45.231.134.22:8001/play/a00w/index.m3u8
+#EXTINF:-1,Universal TV HD
+http://45.231.134.22:8001/play/a009/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://45.231.134.22:8001/play/a00e/index.m3u8
+
+
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/o2BwkUJ.png" group-title="Radios Chilenas", Agricultura (92.1 FM)
 http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
