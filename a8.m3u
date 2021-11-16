@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CHV HD
+http://45.225.95.170:8001/play/a033
 #EXTINF:-1,AE Mundo
 http://200.24.159.179:8500/play/a01i
 #EXTINF:-1,AXN
