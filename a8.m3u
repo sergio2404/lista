@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://i.imgur.com/0ibbHBb.png" , CHV
+http://mi.chv.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1,AE Mundo
 http://200.24.159.179:8500/play/a01i
 #EXTINF:-1,AXN
