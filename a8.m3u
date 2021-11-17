@@ -1,21 +1,4 @@
 #EXTM3U
-#EXTINF:-1,CHILE:CHV (SIN GEO)
-http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
-
-#EXTINF:-1,CHILE:CHV 1 HD
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,CHILE:CHV 2 HD
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,CHILE:CHV 3 HD
-http://mi.chv.cl/playlist/stream.m3u8?s=hd
-
-#EXTINF:-1,CHILE:CHV 4 SD
-http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,CHILE:CHV 6 LOW SD
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvLow.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,AE Mundo
 http://200.24.159.179:8500/play/a01i
 #EXTINF:-1,AXN
