@@ -97,7 +97,6 @@ http://200.24.159.179:8500/play/a02h
 http://200.24.159.179:8500/play/a01a
 
 
-#EXTM3U
 #EXTINF:-1,24 HORAS
 http://45.225.95.170:8001/play/a052
 #EXTINF:-1,AE Mundo
@@ -320,8 +319,6 @@ http://45.225.95.170:8001/play/a05e
 http://45.225.95.170:8001/play/a077
 #EXTINF:-1,Universal
 http://45.225.95.170:8001/play/a044
-#EXTINF:-1,Venus
-http://45.225.95.170:8001/play/a05h
 #EXTINF:-1,ViaX
 http://45.225.95.170:8001/play/a05m
 #EXTINF:-1,WILLAX
