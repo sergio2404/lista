@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IvyMi0N.png",CANAL 13
 http://45.181.122.17:8000/play/a019
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Chilevisi%C3%B3n_alternativo.svg/revision/latest/scale-to-width-down/1000?cb=20210602155446&path-prefix=es",CHV
+#EXTINF:-1,CHV
 http://45.181.122.17:8000/play/a018
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MZUzeab.png",Mega
 http://45.181.122.17:8000/play/a017
