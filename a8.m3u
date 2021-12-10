@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IvyMi0N.png",CANAL 13
+#EXTINF:-1,CANAL 13
 http://45.181.122.17:8000/play/a019
 #EXTINF:-1,CHV
 http://45.181.122.17:8000/play/a018
