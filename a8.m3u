@@ -1,18 +1,26 @@
 #EXTM3U
-#EXTINF:-1,24 HORAS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IvyMi0N.png",CANAL 13
+http://45.181.122.17:8000/play/a019
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ibbHBb.png",CHV
+http://45.181.122.17:8000/play/a018
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MZUzeab.png",Mega
+http://45.181.122.17:8000/play/a017
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3PYuhe.jpg",La Red
+http://45.181.122.17:8000/play/a015
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SVy05TP.png",TVN
+http://45.181.122.17:8000/play/a016
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SVy05TP.png",24 HORAS
 http://45.181.122.17:8000/play/a01l
+#EXTINF:-1,CNN Chile
+http://45.181.122.17:8000/play/a02i
+
+
 #EXTINF:-1,AE Mundo
 http://45.181.122.17:8000/play/a00u
 #EXTINF:-1,AXN
 http://45.181.122.17:8000/play/a00b
 #EXTINF:-1,Animal Planet
 http://45.181.122.17:8000/play/a00l
-#EXTINF:-1,CANAL 13
-http://45.181.122.17:8000/play/a019
-#EXTINF:-1,CHV
-http://45.181.122.17:8000/play/a018
-#EXTINF:-1,CNN Chile
-http://45.181.122.17:8000/play/a02i
 #EXTINF:-1,CNN Espanol
 http://45.181.122.17:8000/play/a014
 #EXTINF:-1,Canal Estrellas
@@ -35,7 +43,7 @@ http://45.181.122.17:8000/play/a00f
 http://45.181.122.17:8000/play/a00j
 #EXTINF:-1,Disney Jr
 http://45.181.122.17:8000/play/a01k
-#EXTINF:-1,Disney 😆
+#EXTINF:-1,Disney XD
 http://45.181.122.17:8000/play/a029
 #EXTINF:-1,E Entertainment
 http://45.181.122.17:8000/play/a00n
@@ -69,26 +77,16 @@ http://45.181.122.17:8000/play/a01q
 http://45.181.122.17:8000/play/a031
 #EXTINF:-1,HBO
 http://45.181.122.17:8000/play/a008
-#EXTINF:-1,HBO 2
-http://45.181.122.17:8000/play/a01g
-#EXTINF:-1,HBO Family
-http://45.181.122.17:8000/play/a01j
-#EXTINF:-1,HBO Plus
-http://45.181.122.17:8000/play/a01h
-#EXTINF:-1,HBO XTREME SD
-http://45.181.122.17:8000/play/a01i
+#EXTINF:-1,HBO2
+http://45.70.237.174:9000/play/a01i/index.m3u8
 #EXTINF:-1,History Channel
 http://45.181.122.17:8000/play/a02b
 #EXTINF:-1,HomeandHealth
 http://45.181.122.17:8000/play/a01t
 #EXTINF:-1,I-Sat
 http://45.181.122.17:8000/play/a02e
-#EXTINF:-1,La Red
-http://45.181.122.17:8000/play/a015
 #EXTINF:-1,MTV
 http://45.181.122.17:8000/play/a02f
-#EXTINF:-1,Mega
-http://45.181.122.17:8000/play/a017
 #EXTINF:-1,NTV
 http://45.181.122.17:8000/play/a01n
 #EXTINF:-1,Nat Geo
@@ -129,8 +127,6 @@ http://45.181.122.17:8000/play/a01b
 http://45.181.122.17:8000/play/a00t
 #EXTINF:-1,TVE
 http://45.181.122.17:8000/play/a02q
-#EXTINF:-1,TVN
-http://45.181.122.17:8000/play/a016
 #EXTINF:-1,Telemundo
 http://45.181.122.17:8000/play/a011
 #EXTINF:-1,TyC
