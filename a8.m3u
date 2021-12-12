@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="Nacionales",CHV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Chilevisi%C3%B3n_II.svg/revision/latest/scale-to-width-down/1000?cb=20210517155656" group-title="Nacionales",CHV HD
 http://167.249.31.57:8000/play/a08n
-#EXTINF:-1 group-title="Nacionales",Canal 13 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IvyMi0N.png" group-title="Nacionales",Canal 13 HD
 http://167.249.31.57:8000/play/a07a
-#EXTINF:-1 group-title="Nacionales",La Red HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3PYuhe.jpg" group-title="Nacionales",La Red HD
 http://167.249.31.57:8000/play/laredhd
-#EXTINF:-1 group-title="Nacionales",MEGA HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Logomega2020.svg/revision/latest?cb=20200228215213" group-title="Nacionales",MEGA HD
 http://167.249.31.57:8000/play/a08g
 #EXTINF:-1 group-title="Nacionales",TV! Educa Chile
 http://167.249.31.57:8000/play/a057
-#EXTINF:-1 group-title="Nacionales",TV+ HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/TV%2B_2018.svg/revision/latest/scale-to-width-down/640?cb=20210316155113&path-prefix=es" group-title="Nacionales",TV+ HD
 http://167.249.31.57:8000/play/a058
-#EXTINF:-1 group-title="Nacionales",TVN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SVy05TP.png" group-title="Nacionales",TVN HD
 http://167.249.31.57:8000/play/a06r
 #EXTINF:-1 group-title="Infantiles",Cartoon Network HD
 http://167.249.31.57:8000/play/a05i
