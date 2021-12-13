@@ -81,6 +81,10 @@ http://167.249.31.57:8000/play/a0bf
 http://167.249.31.57:8000/play/a0ap
 #EXTINF:-1 group-title="Películas y series",Warner Channel HD
 http://167.249.31.57:8000/play/a06e
+#EXTINF:-1 group-title="Entretención",TLC
+http://200.229.147.16:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Entretención",Discovery Turbo
+http://189.129.31.59:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Entretención",Comedy Central HD
 http://167.249.31.57:8000/play/a0f5
 #EXTINF:-1 group-title="Entretención",Comedy Central HD
