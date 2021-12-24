@@ -83,6 +83,8 @@ http://45.4.0.46:8000/play/a0ap
 http://45.4.0.46:8000/play/a06e
 #EXTINF:-1 group-title="Entretención", TLC
 http://200.229.147.16:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Entretención", Discovery Turbo
+http://200.229.147.16:8000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="Entretención",Comedy Central HD
 http://45.4.0.46:8000/play/a0f5
 #EXTINF:-1 group-title="Entretención",Comedy Central HD
