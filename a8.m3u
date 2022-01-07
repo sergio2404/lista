@@ -5,10 +5,11 @@ http://45.161.188.242:88/canal13/mono.m3u8
 http://45.161.188.242:88/mega/mono.m3u8
 #EXTINF:-1 group-title="Nacionales",CHV
 http://45.161.188.242:88/chv/mono.m3u8
-#EXTINF:-1 group-title="Nacionales",LA RED
-http://45.161.188.242:88/lared/mono.m3u8
 #EXTINF:-1 group-title="Nacionales",TVN
 http://45.161.188.242:88/tvn/mono.m3u8
+#EXTINF:-1 group-title="Nacionales",LA RED
+http://45.161.188.242:88/lared/mono.m3u8
+
 #EXTINF:-1,tlc
 http://45.161.188.242:88/tlc/mono.m3u8
 #EXTINF:-1,axn
