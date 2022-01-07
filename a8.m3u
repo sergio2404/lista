@@ -1,134 +1,155 @@
 #EXTM3U
-#EXTINF:-1 group-title="Nacionales",CHV HD
-http://45.4.0.46:8000/play/a08n
-#EXTINF:-1 group-title="Nacionales",Canal 13 HD
-http://45.4.0.46:8000/play/a07a
-#EXTINF:-1 group-title="Nacionales",La Red HD
-http://45.4.0.46:8000/play/laredhd
-#EXTINF:-1 group-title="Nacionales",MEGA HD
-http://45.4.0.46:8000/play/a08g
-#EXTINF:-1 group-title="Nacionales",TV! Educa Chile
-http://45.4.0.46:8000/play/a057
-#EXTINF:-1 group-title="Nacionales",TV+ HD
-http://45.4.0.46:8000/play/a058
-#EXTINF:-1 group-title="Nacionales",TVN HD
-http://45.4.0.46:8000/play/a06r
-#EXTINF:-1 group-title="Infantiles",Cartoon Network HD
-http://45.4.0.46:8000/play/a05i
-#EXTINF:-1 group-title="Infantiles",Discovery Kids HD
-http://45.4.0.46:8000/play/a0ak
-#EXTINF:-1 group-title="Infantiles",Disney HD
-http://45.4.0.46:8000/play/disneyhd
-#EXTINF:-1 group-title="Infantiles",Nat Geo Kids HD
-http://45.4.0.46:8000/play/natgeokidshd
-#EXTINF:-1 group-title="Cultura" tvg-id="animalplanethd",Animal Planet HD
-http://45.4.0.46:8000/play/animalplanethd
-#EXTINF:-1 group-title="Cultura",Discovery HD
-http://45.4.0.46:8000/play/a0e1
-#EXTINF:-1 group-title="Cultura",Discovery Theater HD
-http://45.4.0.46:8000/play/a0am
-#EXTINF:-1 group-title="Cultura",Discovery World HD
-http://45.4.0.46:8000/play/a05b
-#EXTINF:-1 group-title="Cultura",History 2 HD
-http://45.4.0.46:8000/play/a0e4
-#EXTINF:-1 group-title="Cultura",History Channel HD
-http://45.4.0.46:8000/play/a06b
-#EXTINF:-1 group-title="Cultura",Nat Geo HD
-http://45.4.0.46:8000/play/a05a
-#EXTINF:-1 group-title="Cultura",Nat Geo Wild HD
-http://45.4.0.46:8000/play/a0an
-#EXTINF:-1 group-title="Cultura",Sun Channel HD
-http://45.4.0.46:8000/play/a0aj
-#EXTINF:-1 group-title="Películas y series",A&E HD
-http://45.4.0.46:8000/play/aehd
-#EXTINF:-1 group-title="Películas y series",AMC HD
-http://45.4.0.46:8000/play/a056
-#EXTINF:-1 group-title="Películas y series",AXN HD
-http://45.4.0.46:8000/play/a06f
-#EXTINF:-1 group-title="Películas y series",Cinecanal HD
-http://45.4.0.46:8000/play/a05c
-#EXTINF:-1 group-title="Películas y series" tvg-id="CinecanalHD",Cinemax HD
-http://45.4.0.46:8000/play/cinemaxhd
-#EXTINF:-1 group-title="Películas y series",FOX HD
-http://45.4.0.46:8000/play/a0ao
-#EXTINF:-1 group-title="Películas y series",FX HD
-http://45.4.0.46:8000/play/a0aw
-#EXTINF:-1 group-title="Películas y series",FX Movies HD
-http://45.4.0.46:8000/play/a05l
-#EXTINF:-1 group-title="Películas y series",Fox Series HD
-http://45.4.0.46:8000/play/a0au
-#EXTINF:-1 group-title="Películas y series",Golden HD
-http://45.4.0.46:8000/play/goldenhd
-#EXTINF:-1 group-title="Películas y series",HBO HD
-http://45.4.0.46:8000/play/a08o
-#EXTINF:-1 group-title="Películas y series",Paramount HD
-http://45.4.0.46:8000/play/a05j
-#EXTINF:-1 group-title="Películas y series",STAR Action HD
-http://45.4.0.46:8000/play/a0bg
-#EXTINF:-1 group-title="Películas y series",Sony HD
-http://45.4.0.46:8000/play/a06d
-#EXTINF:-1 group-title="Películas y series",Space HD
-http://45.4.0.46:8000/play/a06g
-#EXTINF:-1 group-title="Películas y series",Star Fun HD
-http://45.4.0.46:8000/play/foxfamilyhd
-#EXTINF:-1 group-title="Películas y series",Studio Universal HD
-http://45.4.0.46:8000/play/studiouniversalhd
-#EXTINF:-1 group-title="Películas y series",TNT HD
-http://45.4.0.46:8000/play/a06w
-#EXTINF:-1 group-title="Películas y series",TNT Series HD
-http://45.4.0.46:8000/play/a0bf
-#EXTINF:-1 group-title="Películas y series",UNIVERSAL CHANNEL HD
-http://45.4.0.46:8000/play/a0ap
-#EXTINF:-1 group-title="Películas y series",Warner Channel HD
-http://45.4.0.46:8000/play/a06e
-#EXTINF:-1 group-title="Entretención", TLC
-http://200.229.147.16:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="Entretención", Discovery Turbo
-http://200.229.147.16:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Entretención",Comedy Central HD
-http://45.4.0.46:8000/play/a0f5
-#EXTINF:-1 group-title="Entretención",DHE HD
-http://45.4.0.46:8000/play/a0dz
-#EXTINF:-1 group-title="Entretención",Discovery H&H HD
-http://45.4.0.46:8000/play/a0al
-#EXTINF:-1 group-title="Entretención",El Gourmet HD
-http://45.4.0.46:8000/play/a074
-#EXTINF:-1 group-title="Entretención",FOX Comedy HD
-http://45.4.0.46:8000/play/a07g
-#EXTINF:-1 group-title="Entretención",Food Network HD
-http://45.4.0.46:8000/play/foodnetworkhd
-#EXTINF:-1 group-title="Entretención",ID HD
-http://45.4.0.46:8000/play/idhd
-#EXTINF:-1 group-title="Entretención",Pasiones HD
-http://45.4.0.46:8000/play/pasioneshd
-#EXTINF:-1 group-title="Entretención",Star Life HD
-http://45.4.0.46:8000/play/foxlifehd
-#EXTINF:-1 group-title="Entretención",TRUTV HD
-http://45.4.0.46:8000/play/a073
-#EXTINF:-1 group-title="Noticias",CNN Chile HD
-http://45.4.0.46:8000/play/cnnchilehd
-#EXTINF:-1 group-title="Noticias",Canal 24 Horas HD
-http://45.4.0.46:8000/play/a07d
-#EXTINF:-1 group-title="Deportes",ESPN 2 HD
-http://45.4.0.46:8000/play/a0ax
-#EXTINF:-1 group-title="Deportes",ESPN 3 HD
-http://45.4.0.46:8000/play/espn3hd
-#EXTINF:-1 group-title="Deportes",ESPN EXTRA HD
-http://45.4.0.46:8000/play/a05e
-#EXTINF:-1 group-title="Deportes",ESPN HD
-http://45.4.0.46:8000/play/a06j
-#EXTINF:-1 group-title="Deportes",FOX Sports 2 HD
-http://45.4.0.46:8000/play/a0at
-#EXTINF:-1 group-title="Deportes",Fox Sports 1 HD
-http://45.4.0.46:8000/play/a07k
-#EXTINF:-1 group-title="Deportes",Fox Sports 3 HD
-http://45.4.0.46:8000/play/foxsports3hd
-#EXTINF:-1 group-title="Deportes",TNT SPORTS HD
-http://45.4.0.46:8000/play/cdfhd
-#EXTINF:-1 group-title="-",HBO POP HD
-http://45.4.0.46:8000/play/a0g8
-#EXTINF:-1 group-title="-",NTV
-http://45.4.0.46:8000/play/a0gu
+#EXTINF:-1,canal13
+http://45.161.188.242:88/canal13/mono.m3u8
+#EXTINF:-1,mega
+http://45.161.188.242:88/mega/mono.m3u8
+#EXTINF:-1,CHV
+http://45.161.188.242:88/chv/mono.m3u8
+#EXTINF:-1,lared
+http://45.161.188.242:88/lared/mono.m3u8
+#EXTINF:-1,tvn
+http://45.161.188.242:88/tvn/mono.m3u8
+#EXTINF:-1,tlc
+http://45.161.188.242:88/tlc/mono.m3u8
+#EXTINF:-1,axn
+http://45.161.188.242:88/axn/mono.m3u8
+#EXTINF:-1,cinemax
+http://45.161.188.242:88/cinemax/mono.m3u8
+#EXTINF:-1,tnt
+http://45.161.188.242:88/tnt/mono.m3u8
+#EXTINF:-1,fxmovies
+http://45.161.188.242:88/fxmovies/mono.m3u8
+#EXTINF:-1,fx
+http://45.161.188.242:88/fx/mono.m3u8
+#EXTINF:-1,cinecanal
+http://45.161.188.242:88/cinecanal/mono.m3u8
+#EXTINF:-1,cinemax
+http://45.161.188.242:88/cinemax/mono.m3u8
+#EXTINF:-1,golden
+http://45.161.188.242:88/golden/mono.m3u8
+#EXTINF:-1,hbo2
+http://45.161.188.242:88/hbo2/mono.m3u8
+#EXTINF:-1,hboplus
+http://45.161.188.242:88/hboplus/mono.m3u8
+#EXTINF:-1,hboxtreme
+http://45.161.188.242:88/hboxtreme/mono.m3u8
+#EXTINF:-1,lasestrellas
+http://45.161.188.242:88/lasestrellas/mono.m3u8
+#EXTINF:-1,natgeokids
+http://45.161.188.242:88/natgeokids/mono.m3u8
+#EXTINF:-1,space
+http://45.161.188.242:88/space/mono.m3u8
+#EXTINF:-1,telemundo
+http://45.161.188.242:88/telemundo/mono.m3u8
+#EXTINF:-1,telenovelas
+http://45.161.188.242:88/telenovelas/mono.m3u8
+#EXTINF:-1,trutv
+http://45.161.188.242:88/trutv/mono.m3u8
+#EXTINF:-1,goltv
+http://45.161.188.242:88/goltv/mono.m3u8
+#EXTINF:-1,hbofamily
+http://45.161.188.242:88/hbofamily/mono.m3u8
+#EXTINF:-1,hbo
+http://45.161.188.242:88/hbo/mono.m3u8
+#EXTINF:-1,tooncast
+http://45.161.188.242:88/tooncast/mono.m3u8
+#EXTINF:-1,sony
+http://45.161.188.242:88/sony/mono.m3u8
+#EXTINF:-1,universal
+http://45.161.188.242:88/universal/mono.m3u8
+#EXTINF:-1,tv+
+http://45.161.188.242:88/tv+/mono.m3u8
+#EXTINF:-1,nickelodeonhd
+http://45.161.188.242:88/nickhd/mono.m3u8
+#EXTINF:-1,hbofamilyhd
+http://45.161.188.242:88/hbofamilyhd/mono.m3u8
+#EXTINF:-1,starlife
+http://45.161.188.242:88/starlife/mono.m3u8
+#EXTINF:-1,etc
+http://45.161.188.242:88/etc/mono.m3u8
+#EXTINF:-1,24horas
+http://45.161.188.242:88/24horas/mono.m3u8
+#EXTINF:-1,cnnchile
+http://45.161.188.242:88/cnnchile/mono.m3u8
+#EXTINF:-1,rectv
+http://45.161.188.242:88/rectv/mono.m3u8
+#EXTINF:-1,telecanal
+http://45.161.188.242:88/telecanal/mono.m3u8
+#EXTINF:-1,teletrak
+http://45.161.188.242:88/teletrak/mono.m3u8
+#EXTINF:-1,tntsports2
+http://45.161.188.242:88/tntsports2/mono.m3u8
+#EXTINF:-1,tntsports3
+http://45.161.188.242:88/tntsports3/mono.m3u8
+#EXTINF:-1,viax
+http://45.161.188.242:88/viax/mono.m3u8
+#EXTINF:-1,zonalatina
+http://45.161.188.242:88/zonalatina/mono.m3u8
+#EXTINF:-1,vidatv
+http://45.161.188.242:88/vidatv/mono.m3u8
+#EXTINF:-1,babytv
+http://45.161.188.242:88/babytv/mono.m3u8
+#EXTINF:-1,cartoonnetwork
+http://45.161.188.242:88/cartoonnetwork/mono.m3u8
+#EXTINF:-1,discoverychannel
+http://45.161.188.242:88/discoverychannel/mono.m3u8
+#EXTINF:-1,disneychannel
+http://45.161.188.242:88/disneychannel/mono.m3u8
+#EXTINF:-1,eentertainment
+http://45.161.188.242:88/eentertainment/mono.m3u8
+#EXTINF:-1,mtv
+http://45.161.188.242:88/mtv/mono.m3u8
+#EXTINF:-1,natgeo
+http://45.161.188.242:88/natgeo/mono.m3u8
+#EXTINF:-1,nickelodeon
+http://45.161.188.242:88/nickelodeon/mono.m3u8
+#EXTINF:-1,nickjr
+http://45.161.188.242:88/nickjr/mono.m3u8
+#EXTINF:-1,animalplanet
+http://45.161.188.242:88/animalplanet/mono.m3u8
+#EXTINF:-1,boomerang
+http://45.161.188.242:88/boomerang/mono.m3u8
+#EXTINF:-1,discoveryturbo
+http://45.161.188.242:88/discoveryturbo/mono.m3u8
+#EXTINF:-1,homeandhealth
+http://45.161.188.242:88/homeandhealth/mono.m3u8
+#EXTINF:-1,tcm
+http://45.161.188.242:88/tcm/mono.m3u8
+#EXTINF:-1,disneyjr
+http://45.161.188.242:88/disneyjr/mono.m3u8
+#EXTINF:-1,disneyxd
+http://45.161.188.242:88/disneyxd/mono.m3u8
+#EXTINF:-1,history
+http://45.161.188.242:88/history/mono.m3u8
+#EXTINF:-1,espn
+http://45.161.188.242:88/espn/mono.m3u8
+#EXTINF:-1,espn3
+http://45.161.188.242:88/espn3/mono.m3u8
+#EXTINF:-1,foxsports
+http://45.161.188.242:88/foxsports/mono.m3u8
+#EXTINF:-1,discoveryid
+http://45.161.188.242:88/discoveryid/mono.m3u8
+#EXTINF:-1,espn2
+http://45.161.188.242:88/espn2/mono.m3u8
+#EXTINF:-1,foxsports2
+http://45.161.188.242:88/foxsports2/mono.m3u8
+#EXTINF:-1,foxsports3
+http://45.161.188.242:88/foxsports3/mono.m3u8
+#EXTINF:-1,isat
+http://45.161.188.242:88/isat/mono.m3u8
+#EXTINF:-1,tbs
+http://45.161.188.242:88/tbs/mono.m3u8
+#EXTINF:-1,tycsports
+http://45.161.188.242:88/tycsports/mono.m3u8
+#EXTINF:-1,warner
+http://45.161.188.242:88/warner/mono.m3u8
+#EXTINF:-1,discoverykids
+http://45.161.188.242:88/discoverykids/mono.m3u8
+#EXTINF:-1,foxsports1
+http://45.161.188.242:88/foxsports1/mono.m3u8
+
+
+
 
 
 
