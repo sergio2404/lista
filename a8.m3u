@@ -12,6 +12,8 @@ http://45.161.188.242:88/lared/mono.m3u8
 
 #EXTINF:-1,tlc
 http://45.161.188.242:88/tlc/mono.m3u8
+#EXTINF:-1,discoveryturbo
+http://45.161.188.242:88/discoveryturbo/mono.m3u8
 #EXTINF:-1,axn
 http://45.161.188.242:88/axn/mono.m3u8
 #EXTINF:-1,cinemax
@@ -48,8 +50,6 @@ http://45.161.188.242:88/trutv/mono.m3u8
 http://45.161.188.242:88/goltv/mono.m3u8
 #EXTINF:-1,hbo
 http://45.161.188.242:88/hbo/mono.m3u8
-#EXTINF:-1,tooncast
-http://45.161.188.242:88/tooncast/mono.m3u8
 #EXTINF:-1,sony
 http://45.161.188.242:88/sony/mono.m3u8
 #EXTINF:-1,universal
@@ -108,8 +108,6 @@ http://45.161.188.242:88/nickjr/mono.m3u8
 http://45.161.188.242:88/animalplanet/mono.m3u8
 #EXTINF:-1,boomerang
 http://45.161.188.242:88/boomerang/mono.m3u8
-#EXTINF:-1,discoveryturbo
-http://45.161.188.242:88/discoveryturbo/mono.m3u8
 #EXTINF:-1,homeandhealth
 http://45.161.188.242:88/homeandhealth/mono.m3u8
 #EXTINF:-1,tcm
