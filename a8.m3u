@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1,canal13
+#EXTINF:-1 group-title="Nacionales",CANAL13
 http://45.161.188.242:88/canal13/mono.m3u8
-#EXTINF:-1,mega
+#EXTINF:-1 group-title="Nacionales",MEGA
 http://45.161.188.242:88/mega/mono.m3u8
-#EXTINF:-1,CHV
+#EXTINF:-1 group-title="Nacionales",CHV
 http://45.161.188.242:88/chv/mono.m3u8
-#EXTINF:-1,lared
+#EXTINF:-1 group-title="Nacionales",LA RED
 http://45.161.188.242:88/lared/mono.m3u8
-#EXTINF:-1,tvn
+#EXTINF:-1 group-title="Nacionales",TVN
 http://45.161.188.242:88/tvn/mono.m3u8
 #EXTINF:-1,tlc
 http://45.161.188.242:88/tlc/mono.m3u8
@@ -23,8 +23,6 @@ http://45.161.188.242:88/fxmovies/mono.m3u8
 http://45.161.188.242:88/fx/mono.m3u8
 #EXTINF:-1,cinecanal
 http://45.161.188.242:88/cinecanal/mono.m3u8
-#EXTINF:-1,cinemax
-http://45.161.188.242:88/cinemax/mono.m3u8
 #EXTINF:-1,golden
 http://45.161.188.242:88/golden/mono.m3u8
 #EXTINF:-1,hbo2
@@ -47,8 +45,6 @@ http://45.161.188.242:88/telenovelas/mono.m3u8
 http://45.161.188.242:88/trutv/mono.m3u8
 #EXTINF:-1,goltv
 http://45.161.188.242:88/goltv/mono.m3u8
-#EXTINF:-1,hbofamily
-http://45.161.188.242:88/hbofamily/mono.m3u8
 #EXTINF:-1,hbo
 http://45.161.188.242:88/hbo/mono.m3u8
 #EXTINF:-1,tooncast
@@ -57,6 +53,8 @@ http://45.161.188.242:88/tooncast/mono.m3u8
 http://45.161.188.242:88/sony/mono.m3u8
 #EXTINF:-1,universal
 http://45.161.188.242:88/universal/mono.m3u8
+#EXTINF:-1,warner
+http://45.161.188.242:88/warner/mono.m3u8
 #EXTINF:-1,tv+
 http://45.161.188.242:88/tv+/mono.m3u8
 #EXTINF:-1,nickelodeonhd
@@ -141,8 +139,6 @@ http://45.161.188.242:88/isat/mono.m3u8
 http://45.161.188.242:88/tbs/mono.m3u8
 #EXTINF:-1,tycsports
 http://45.161.188.242:88/tycsports/mono.m3u8
-#EXTINF:-1,warner
-http://45.161.188.242:88/warner/mono.m3u8
 #EXTINF:-1,discoverykids
 http://45.161.188.242:88/discoverykids/mono.m3u8
 #EXTINF:-1,foxsports1
