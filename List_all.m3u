@@ -1,142 +1,551 @@
 #EXTM3U
-#EXTINF:-1 group-title="Nacionales",CHV HD
-http://45.225.93.154:4000/play/a08n
-#EXTINF:-1 group-title="Nacionales",Canal 13 HD
-http://45.225.93.154:4000/play/a07a
-#EXTINF:-1 group-title="Nacionales",La Red HD
-http://45.225.93.154:4000/play/laredhd
-#EXTINF:-1 group-title="Nacionales",MEGA HD
-http://45.225.93.154:4000/play/a08g
-#EXTINF:-1 group-title="Nacionales",TV! Educa Chile
-http://45.225.93.154:4000/play/a057
-#EXTINF:-1 group-title="Nacionales",TV+ HD
-http://45.225.93.154:4000/play/a058
-#EXTINF:-1 group-title="Nacionales",TVN HD
-http://45.225.93.154:4000/play/a06r
-#EXTINF:-1 group-title="Infantiles",Cartoon Network HD
-http://45.225.93.154:4000/play/a05i
-#EXTINF:-1 group-title="Infantiles",Discovery Kids HD
-http://45.225.93.154:4000/play/a0ak
-#EXTINF:-1 group-title="Infantiles",Disney HD
-http://45.225.93.154:4000/play/disneyhd
-#EXTINF:-1 group-title="Infantiles",Nat Geo Kids HD
-http://45.225.93.154:4000/play/natgeokidshd
-#EXTINF:-1 group-title="Cultura" tvg-id="animalplanethd",Animal Planet HD
-http://45.225.93.154:4000/play/animalplanethd
-#EXTINF:-1 group-title="Cultura",TLC
 #EXTINF:0 type="stream" channelId="67", TLC
 http://138.36.253.12:8009/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Cultura",Discovery HD
-http://45.225.93.154:4000/play/a0e1
-#EXTINF:-1 group-title="Cultura",Discovery Theater HD
-http://45.225.93.154:4000/play/a0am
-#EXTINF:-1 group-title="Cultura",Discovery World HD
-http://45.225.93.154:4000/play/a05b
-#EXTINF:-1 group-title="Cultura",History 2 HD
-http://45.225.93.154:4000/play/a0e4
-#EXTINF:-1 group-title="Cultura",History Channel HD
-http://45.225.93.154:4000/play/a06b
-#EXTINF:-1 group-title="Cultura",Nat Geo HD
-http://45.225.93.154:4000/play/a05a
-#EXTINF:-1 group-title="Cultura",Nat Geo Wild HD
-http://45.225.93.154:4000/play/a0an
-#EXTINF:-1 group-title="Cultura",Sun Channel HD
-http://45.225.93.154:4000/play/a0aj
-#EXTINF:-1 group-title="Películas y series",A&E HD
-http://45.225.93.154:4000/play/aehd
-#EXTINF:-1 group-title="Películas y series",AMC HD
-http://45.225.93.154:4000/play/a056
-#EXTINF:-1 group-title="Películas y series",AXN HD
-http://45.225.93.154:4000/play/a06f
-#EXTINF:-1 group-title="Películas y series",Cinecanal HD
-http://45.225.93.154:4000/play/a05c
-#EXTINF:-1 group-title="Películas y series" tvg-id="CinecanalHD",Cinemax HD
-http://45.225.93.154:4000/play/cinemaxhd
-#EXTINF:-1 group-title="Películas y series",FOX HD
-http://45.225.93.154:4000/play/a0ao
-#EXTINF:-1 group-title="Películas y series",FX HD
-http://45.225.93.154:4000/play/a0aw
-#EXTINF:-1 group-title="Películas y series",FX Movies HD
-http://45.225.93.154:4000/play/a05l
-#EXTINF:-1 group-title="Películas y series",Fox Series HD
-http://45.225.93.154:4000/play/a0au
-#EXTINF:-1 group-title="Películas y series",Golden HD
-http://45.225.93.154:4000/play/goldenhd
-#EXTINF:-1 group-title="Películas y series",HBO HD
-http://45.225.93.154:4000/play/a08o
-#EXTINF:-1 group-title="Películas y series",Paramount HD
-http://45.225.93.154:4000/play/a05j
-#EXTINF:-1 group-title="Películas y series",STAR Action HD
-http://45.225.93.154:4000/play/a0bg
-#EXTINF:-1 group-title="Películas y series",Sony HD
-http://45.225.93.154:4000/play/a06d
-#EXTINF:-1 group-title="Películas y series",Space HD
-http://45.225.93.154:4000/play/a06g
-#EXTINF:-1 group-title="Películas y series",Star Fun HD
-http://45.225.93.154:4000/play/foxfamilyhd
-#EXTINF:-1 group-title="Películas y series",Studio Universal HD
-http://45.225.93.154:4000/play/studiouniversalhd
-#EXTINF:-1 group-title="Películas y series",TNT HD
-http://45.225.93.154:4000/play/a06w
-#EXTINF:-1 group-title="Películas y series",TNT Series HD
-http://45.225.93.154:4000/play/a0bf
-#EXTINF:-1 group-title="Películas y series",UNIVERSAL CHANNEL HD
-http://45.225.93.154:4000/play/a0ap
-#EXTINF:-1 group-title="Películas y series",Warner Channel HD
-http://45.225.93.154:4000/play/a06e
-#EXTINF:-1 group-title="Entretención",Discovery Turbo
-http://170.83.242.153:8000/play/a00f
-#EXTINF:-1 group-title="Entretención",Comedy Central HD
-http://45.225.93.154:4000/play/a0f5
-#EXTINF:-1 group-title="Entretención",Comedy Central HD
-http://45.225.93.154:4000/play/comedycentralhd
-#EXTINF:-1 group-title="Entretención",DHE HD
-http://45.225.93.154:4000/play/a0dz
-#EXTINF:-1 group-title="Entretención",Discovery H&H HD
-http://45.225.93.154:4000/play/a0al
-#EXTINF:-1 group-title="Entretención",El Gourmet HD
-http://45.225.93.154:4000/play/a074
-#EXTINF:-1 group-title="Entretención",FOX Comedy HD
-http://45.225.93.154:4000/play/a07g
-#EXTINF:-1 group-title="Entretención",Food Network HD
-http://45.225.93.154:4000/play/foodnetworkhd
-#EXTINF:-1 group-title="Entretención",ID HD
-http://45.225.93.154:4000/play/idhd
-#EXTINF:-1 group-title="Entretención",Pasiones HD
-http://45.225.93.154:4000/play/pasioneshd
-#EXTINF:-1 group-title="Entretención",Star Life HD
-http://45.225.93.154:4000/play/foxlifehd
-#EXTINF:-1 group-title="Entretención",TRUTV HD
-http://45.225.93.154:4000/play/a073
-#EXTINF:-1 group-title="Noticias",CNN Chile HD
-http://45.225.93.154:4000/play/cnnchilehd
-#EXTINF:-1 group-title="Noticias",Canal 24 Horas HD
-http://45.225.93.154:4000/play/a07d
-#EXTINF:-1 group-title="Deportes",ESPN 2 HD
-http://45.225.93.154:4000/play/a0ax
-#EXTINF:-1 group-title="Deportes",ESPN 3 HD
-http://45.225.93.154:4000/play/espn3hd
-#EXTINF:-1 group-title="Deportes",ESPN EXTRA HD
-http://45.225.93.154:4000/play/a05e
-#EXTINF:-1 group-title="Deportes",ESPN HD
-http://45.225.93.154:4000/play/a06j
-#EXTINF:-1 group-title="Deportes",FOX Sports 2 HD
-http://45.225.93.154:4000/play/a0at
-#EXTINF:-1 group-title="Deportes",Fox Sports 1 HD
-http://45.225.93.154:4000/play/a07k
-#EXTINF:-1 group-title="Deportes",Fox Sports 3 HD
-http://45.225.93.154:4000/play/foxsports3hd
-#EXTINF:-1 group-title="Deportes",TNT SPORTS HD
-http://45.225.93.154:4000/play/cdfhd
-#EXTINF:-1 group-title="-",HBO POP HD
-http://45.225.93.154:4000/play/a0g8
-#EXTINF:-1 group-title="-",NTV
-http://45.225.93.154:4000/play/a0gu
-#EXTINF:-1 group-title="-",MXClassic
-http://138.36.253.12:8009/play/a00a/index.m3u8
-#EXTINF:-1 group-title="-",MXFamily
-http://138.36.253.12:8009/play/a00b/index.m3u8
-#EXTINF:-1 group-title="-",MXPrime
-http://138.36.253.12:8009/play/a01n/index.m3u8
-#EXTINF:-1 group-title="-",Fitmaxx
-http://138.36.253.12:8009/play/a004/index.m3u8
+#EXTINF:0 type="stream" channelId="3986", Canal 13 HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/270
+#EXTINF:0 type="stream" channelId="3037", CHV HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/268
+#EXTINF:0 type="stream" channelId="3985", MEGA HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/300
+#EXTINF:0 type="stream" channelId="2344", TVN HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/323
+#EXTINF:0 type="stream" channelId="1745", La Red HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/299
+#EXTINF:0 type="stream" channelId="1078", NTV
+http://172.16.18.17:25461/soldecurauma/soldecurauma/201
+#EXTINF:0 type="stream" channelId="1323", 24 Horas
+http://172.16.18.17:25461/soldecurauma/soldecurauma/197
+#EXTINF:0 type="stream" channelId="152", CNN Chile
+http://172.16.18.17:25461/soldecurauma/soldecurauma/198
+#EXTINF:0 type="stream" channelId="1972", CNN Espanol
+http://172.16.18.17:25461/soldecurauma/soldecurauma/199
+#EXTINF:0 type="stream" channelId="1720", Food Network HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/291
+#EXTINF:0 type="stream" channelId="3761", FX Movies HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/290
+#EXTINF:0 type="stream" channelId="1304", FX HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/289
+#EXTINF:0 type="stream" channelId="179", FOX Sports 2 HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/288
+#EXTINF:0 type="stream" channelId="310", El Gourmet HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/287
+#EXTINF:0 type="stream" channelId="1263", ESPN HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/286
+#EXTINF:0 type="stream" channelId="4657", ESPN EXTRA HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/285
+#EXTINF:0 type="stream" channelId="357", ESPN 3 HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/284
+#EXTINF:0 type="stream" channelId="3746", ESPN 2 HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/283
+#EXTINF:0 type="stream" channelId="2720", Disney Channel HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/282
+#EXTINF:0 type="stream" channelId="2890", Discovery World HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/281
+#EXTINF:0 type="stream" channelId="2558", Discovery Theater HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/280
+#EXTINF:0 type="stream" channelId="2837", Discovery Kids HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/279
+#EXTINF:0 type="stream" channelId="-1", TV EDUCA
+http://172.16.18.17:25461/soldecurauma/soldecurauma/200
+#EXTINF:0 type="stream" channelId="40", Cartoon Network
+http://172.16.18.17:25461/soldecurauma/soldecurauma/202
+#EXTINF:0 type="stream" channelId="2505", Discovery Kids
+http://172.16.18.17:25461/soldecurauma/soldecurauma/203
+#EXTINF:0 type="stream" channelId="19", Disney Channel
+http://172.16.18.17:25461/soldecurauma/soldecurauma/204
+#EXTINF:0 type="stream" channelId="1197", Disney Jr
+http://172.16.18.17:25461/soldecurauma/soldecurauma/205
+#EXTINF:0 type="stream" channelId="1198", Disney XD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/206
+#EXTINF:0 type="stream" channelId="3778", NatGeo Kids
+http://172.16.18.17:25461/soldecurauma/soldecurauma/207
+#EXTINF:0 type="stream" channelId="322", Nick Jr
+http://172.16.18.17:25461/soldecurauma/soldecurauma/208
+#EXTINF:0 type="stream" channelId="41", Nickelodeon
+http://172.16.18.17:25461/soldecurauma/soldecurauma/209
+#EXTINF:0 type="stream" channelId="1330", HBO
+http://172.16.18.17:25461/soldecurauma/soldecurauma/210
+#EXTINF:0 type="stream" channelId="935", HBO 2
+http://172.16.18.17:25461/soldecurauma/soldecurauma/211
+#EXTINF:0 type="stream" channelId="2584", HBO Family
+http://172.16.18.17:25461/soldecurauma/soldecurauma/212
+#EXTINF:0 type="stream" channelId="2585", HBO Plus
+http://172.16.18.17:25461/soldecurauma/soldecurauma/213
+#EXTINF:0 type="stream" channelId="2587", HBO XTREME
+http://172.16.18.17:25461/soldecurauma/soldecurauma/214
+#EXTINF:0 type="stream" channelId="1052", TNT
+http://172.16.18.17:25461/soldecurauma/soldecurauma/215
+#EXTINF:0 type="stream" channelId="64", Cinecanal
+http://172.16.18.17:25461/soldecurauma/soldecurauma/216
+#EXTINF:0 type="stream" channelId="1326", Cinemax
+http://172.16.18.17:25461/soldecurauma/soldecurauma/217
+#EXTINF:0 type="stream" channelId="2638", I-Sat
+http://172.16.18.17:25461/soldecurauma/soldecurauma/218
+#EXTINF:0 type="stream" channelId="-1", AE Mundo
+http://172.16.18.17:25461/soldecurauma/soldecurauma/219
+#EXTINF:0 type="stream" channelId="188", Sony
+http://172.16.18.17:25461/soldecurauma/soldecurauma/220
+#EXTINF:0 type="stream" channelId="2557", Warner
+http://172.16.18.17:25461/soldecurauma/soldecurauma/222
+#EXTINF:0 type="stream" channelId="187", Universal
+http://172.16.18.17:25461/soldecurauma/soldecurauma/221
+#EXTINF:0 type="stream" channelId="383", Space
+http://172.16.18.17:25461/soldecurauma/soldecurauma/223
+#EXTINF:0 type="stream" channelId="-1", STAR Channel
+http://172.16.18.17:25461/soldecurauma/soldecurauma/224
+#EXTINF:0 type="stream" channelId="-1", STAR Life
+http://172.16.18.17:25461/soldecurauma/soldecurauma/225
+#EXTINF:0 type="stream" channelId="-1", STAR Action
+http://172.16.18.17:25461/soldecurauma/soldecurauma/226
+#EXTINF:0 type="stream" channelId="-1", STAR Series
+http://172.16.18.17:25461/soldecurauma/soldecurauma/227
+#EXTINF:0 type="stream" channelId="1303", FX
+http://172.16.18.17:25461/soldecurauma/soldecurauma/228
+#EXTINF:0 type="stream" channelId="4218", FX Movies
+http://172.16.18.17:25461/soldecurauma/soldecurauma/229
+#EXTINF:0 type="stream" channelId="1208", A&E
+http://172.16.18.17:25461/soldecurauma/soldecurauma/230
+#EXTINF:0 type="stream" channelId="1573", AXN
+http://172.16.18.17:25461/soldecurauma/soldecurauma/231
+#EXTINF:0 type="stream" channelId="1954", Canal de Las estrellas
+http://172.16.18.17:25461/soldecurauma/soldecurauma/232
+#EXTINF:0 type="stream" channelId="3782", RCN Novelas
+http://172.16.18.17:25461/soldecurauma/soldecurauma/233
+#EXTINF:0 type="stream" channelId="3228", TBS
+http://172.16.18.17:25461/soldecurauma/soldecurauma/234
+#EXTINF:0 type="stream" channelId="895", TCM
+http://172.16.18.17:25461/soldecurauma/soldecurauma/235
+#EXTINF:0 type="stream" channelId="1967", Telemundo
+http://172.16.18.17:25461/soldecurauma/soldecurauma/236
+#EXTINF:0 type="stream" channelId="57", Discovery
+http://172.16.18.17:25461/soldecurauma/soldecurauma/237
+#EXTINF:0 type="stream" channelId="1455", History
+http://172.16.18.17:25461/soldecurauma/soldecurauma/238
+#EXTINF:0 type="stream" channelId="59", Discovery ID
+http://172.16.18.17:25461/soldecurauma/soldecurauma/239
+#EXTINF:0 type="stream" channelId="2840", Discovery Turbo
+http://172.16.18.17:25461/soldecurauma/soldecurauma/240
+#EXTINF:0 type="stream" channelId="-1", Discovery H&H
+http://172.16.18.17:25461/soldecurauma/soldecurauma/241
+#EXTINF:0 type="stream" channelId="-1", DHE HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/242
+#EXTINF:0 type="stream" channelId="-1", Travel and Living
+http://172.16.18.17:25461/soldecurauma/soldecurauma/243
+#EXTINF:0 type="stream" channelId="-1", E Entertainment
+http://172.16.18.17:25461/soldecurauma/soldecurauma/244
+#EXTINF:0 type="stream" channelId="50", Animal Planet
+http://172.16.18.17:25461/soldecurauma/soldecurauma/245
+#EXTINF:0 type="stream" channelId="56", Nat Geo
+http://172.16.18.17:25461/soldecurauma/soldecurauma/246
+#EXTINF:0 type="stream" channelId="4569", Enlace
+http://172.16.18.17:25461/soldecurauma/soldecurauma/247
+#EXTINF:0 type="stream" channelId="3745", EsneTV
+http://172.16.18.17:25461/soldecurauma/soldecurauma/248
+#EXTINF:0 type="stream" channelId="378", TVE
+http://172.16.18.17:25461/soldecurauma/soldecurauma/249
+#EXTINF:0 type="stream" channelId="-1", TNT Sports 2
+http://172.16.18.17:25461/soldecurauma/soldecurauma/250
+#EXTINF:0 type="stream" channelId="-1", TNT Sports 3
+http://172.16.18.17:25461/soldecurauma/soldecurauma/251
+#EXTINF:0 type="stream" channelId="1328", Fox Sports
+http://172.16.18.17:25461/soldecurauma/soldecurauma/252
+#EXTINF:0 type="stream" channelId="-1", FOX Sport 2
+http://172.16.18.17:25461/soldecurauma/soldecurauma/253
+#EXTINF:0 type="stream" channelId="-1", FOX Sport 3
+http://172.16.18.17:25461/soldecurauma/soldecurauma/254
+#EXTINF:0 type="stream" channelId="-1", FOX Sport Premium
+http://172.16.18.17:25461/soldecurauma/soldecurauma/255
+#EXTINF:0 type="stream" channelId="2540", ESPN
+http://172.16.18.17:25461/soldecurauma/soldecurauma/256
+#EXTINF:0 type="stream" channelId="344", ESPN 2
+http://172.16.18.17:25461/soldecurauma/soldecurauma/257
+#EXTINF:0 type="stream" channelId="355", ESPN 3
+http://172.16.18.17:25461/soldecurauma/soldecurauma/258
+#EXTINF:0 type="stream" channelId="1686", GOL TV
+http://172.16.18.17:25461/soldecurauma/soldecurauma/259
+#EXTINF:0 type="stream" channelId="3802", TyC Sports
+http://172.16.18.17:25461/soldecurauma/soldecurauma/260
+#EXTINF:0 type="stream" channelId="1973", MTV
+http://172.16.18.17:25461/soldecurauma/soldecurauma/261
+#EXTINF:0 type="stream" channelId="-1", ViaX
+http://172.16.18.17:25461/soldecurauma/soldecurauma/262
+#EXTINF:0 type="stream" channelId="4750", Zona Latina
+http://172.16.18.17:25461/soldecurauma/soldecurauma/263
+#EXTINF:0 type="stream" channelId="2503", A&E HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/264
+#EXTINF:0 type="stream" channelId="2501", AMC HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/265
+#EXTINF:0 type="stream" channelId="2246", AXN HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/266
+#EXTINF:0 type="stream" channelId="240", Animal Planet HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/267
+#EXTINF:0 type="stream" channelId="-1", CNN Chile HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/269
+#EXTINF:0 type="stream" channelId="-1", Canal 24 Horas HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/271
+#EXTINF:0 type="stream" channelId="2719", Cartoon Network HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/272
+#EXTINF:0 type="stream" channelId="284", Cinecanal HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/273
+#EXTINF:0 type="stream" channelId="2888", Cinemax HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/274
+#EXTINF:0 type="stream" channelId="3037", CHV
+http://172.16.18.17:25461/soldecurauma/soldecurauma/193
+#EXTINF:0 type="stream" channelId="1191", Comedy Central HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/275
+#EXTINF:0 type="stream" channelId="341", Discovery Channel HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/276
+#EXTINF:0 type="stream" channelId="-1", Discovery H&H HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/277
+#EXTINF:0 type="stream" channelId="-1", Discovery ID HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/278
+#EXTINF:0 type="stream" channelId="2903", Warner Channel HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/325
+#EXTINF:0 type="stream" channelId="-1", UNIVERSAL CHANNEL HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/324
+#EXTINF:0 type="stream" channelId="-1", TV+ HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/322
+#EXTINF:0 type="stream" channelId="2636", TRUTV HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/321
+#EXTINF:0 type="stream" channelId="3797", TNT Series HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/320
+#EXTINF:0 type="stream" channelId="-1", TNT SPORTS HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/319
+#EXTINF:0 type="stream" channelId="2900", TNT HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/318
+#EXTINF:0 type="stream" channelId="1311", Sun Channel HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/317
+#EXTINF:0 type="stream" channelId="2147", Studio Universal HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/316
+#EXTINF:0 type="stream" channelId="-1", Star HITS
+http://172.16.18.17:25461/soldecurauma/soldecurauma/315
+#EXTINF:0 type="stream" channelId="2896", Space HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/314
+#EXTINF:0 type="stream" channelId="530", Sony HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/313
+#EXTINF:0 type="stream" channelId="-1", STAR SERIES HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/312
+#EXTINF:0 type="stream" channelId="-1", STAR LIFE HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/311
+#EXTINF:0 type="stream" channelId="-1", STAR HITS HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/310
+#EXTINF:0 type="stream" channelId="-1", STAR FUN HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/309
+#EXTINF:0 type="stream" channelId="-1", STAR COMEDY HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/308
+#EXTINF:0 type="stream" channelId="-1", STAR CHANNEL HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/307
+#EXTINF:0 type="stream" channelId="-1", STAR ACTION HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/306
+#EXTINF:0 type="stream" channelId="3781", Pasiones HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/305
+#EXTINF:0 type="stream" channelId="-1", Paramount HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/304
+#EXTINF:0 type="stream" channelId="206", Nat Geo Wild HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/303
+#EXTINF:0 type="stream" channelId="-1", Nat Geo Kids HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/302
+#EXTINF:0 type="stream" channelId="207", Nat Geo HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/301
+#EXTINF:0 type="stream" channelId="1456", History Channel HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/298
+#EXTINF:0 type="stream" channelId="1202", History 2 HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/297
+#EXTINF:0 type="stream" channelId="361", HBO POP HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/296
+#EXTINF:0 type="stream" channelId="1330", HBO HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/295
+#EXTINF:0 type="stream" channelId="1962", Golden HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/294
+#EXTINF:0 type="stream" channelId="213", Fox Sports 3 HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/293
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 1 HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/292
+#EXTINF:0 type="stream" channelId="1745", La Red
+http://172.16.18.17:25461/soldecurauma/soldecurauma/192
+#EXTINF:0 type="stream" channelId="2819", Mega
+http://172.16.18.17:25461/soldecurauma/soldecurauma/194
+#EXTINF:0 type="stream" channelId="2344", TVN
+http://172.16.18.17:25461/soldecurauma/soldecurauma/195
+#EXTINF:0 type="stream" channelId="3986", Canal 13
+http://172.16.18.17:25461/soldecurauma/soldecurauma/196
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/o2BwkUJ.png" group-title="Radios Chilenas", Agricultura (92.1 FM)
+http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/5vmrL2q.png" group-title="Radios Chilenas", ADN Radio (91.7 FM)
+https://20823.live.streamtheworld.com/ADNAAC.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/1zPyFEQ.png" group-title="Radios Chilenas", Alegria del Transporte (90.9 FM Calama)
+http://157.245.89.117:8028/;
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/QUTDrXE.jpg" group-title="Radios Chilenas", Almeyda (94.3 FM Diego de Almagro)
+http://192.99.18.164:9974/stream
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/58qV4pz.jpg" group-title="Radios Chilenas", Amiga (88.5 FM Vallenar)
+http://184.154.173.147:8003
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/k1qy7B7.png" group-title="Radios Chilenas", Ancoa (103.5 FM Linares)
+http://audio2.tustreaming.cl:8012/stream/1/
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/mr5EOO3.png" group-title="Radios Chilenas", Araucana (95.9 FM Temuco)
+http://157.245.89.117:8062/;
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/AoQV59q.png" group-title="Radios Chilenas", Atractiva (FM 95.3 Concepci¨®n)
+http://5.9.65.9:8315/atractiva
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Concepci¨®n (98.1 FM)
+https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Los Angeles (96.7 FM)
+https://unlimited11-cl.dps.live/biobiolosangeles/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Osorno (106.5 FM)
+https://unlimited3-cl.dps.live/biobioosorno/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Puerto Montt (94.9 FM)
+https://unlimited3-cl.dps.live/biobiopuertomontt/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Santiago (99.7 FM)
+http://unlimited11-cl.dps.live/biobiosantiago/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Temuco (88.1 FM)
+https://unlimited3-cl.dps.live/biobiotemuco/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Valdivia (88.9 FM)
+https://unlimited3-cl.dps.live/biobiovaldivia/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Valparaiso (96.7 FM)
+https://unlimited3-cl.dps.live/biobiovalparaiso/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/6w6Nusa.png" group-title="Radios Chilenas", C¨¢mara de Diputados (Online)
+http://camara.03.wl.cdnz.cl/camara5/live/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/qAtdVTf.png" group-title="Radios Chilenas", Canal 95 (88.1 FM Antofagasta)
+http://sonando.us.digitalproserver.com/canal95_aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/NqVOKDU.png" group-title="Radios Chilenas", Candela FM (95.3 FM)
+http://unlimited11-cl.dps.live/candela/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/1VXykGv.png" group-title="Radios Chilenas", Carabineros (98.1 FM)
+http://5.9.65.9:9978/;
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Qyek0iK.png" group-title="Radios Chilenas", Caramelo (93.1 FM Angol)
+http://sonando.us.digitalproserver.com/caramelo_angol.mp3
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Qyek0iK.png" group-title="Radios Chilenas", Caramelo (90.7 FM Arauco)
+http://sonando.us.digitalproserver.com/caramelo_arauco.mp3
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/YMzOlVG.png" group-title="Radios Chilenas", Carnaval Antofagasta (96.5 FM)
+http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/YMzOlVG.png" group-title="Radios Chilenas", Carnaval Vi?a del Mar (89.9 FM)
+http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/a5F2EwR.jpg" group-title="Radios Chilenas", Carolina (99.3 FM)
+http://unlimited3-cl.dps.live/carolinafm/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/DS4hL02.png" group-title="Radios Chilenas", Centro FM (103.3 FM Antofagasta)
+http://stream5.eltelon.com/centro.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/lEAwOeq.jpg" group-title="Radios Chilenas", Centro FM (91.7 FM Gorbea)
+https://s01.azuracast.cl/radio/8210/fmcentro
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/PXKhC7v.jpg" group-title="Radios Chilenas", Cooperativa (93.3 FM)
+http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/MSa6ryE.png" group-title="Radios Chilenas", Concierto (88.5 FM)
+https://20323.live.streamtheworld.com/CONCIERTOAAC_SC
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/U6Bv4on.png" group-title="Radios Chilenas", Condell (92.7 FM Curic¨®)
+http://cast.radioservicios.cl:8300/radio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/iemaZ5k.png" group-title="Radios Chilenas", Contacto (103.9 FM Talagante)
+http://192.99.18.164:9598/;
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/iTJzK13.png" group-title="Radios Chilenas", Coraz¨®n (101.3 FM)
+https://21933.live.streamtheworld.com/CORAZON_SC
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/NMVazbf.png" group-title="Radios Chilenas", Coyhaique (95.3 FM Coyhaique)
+http://stream5.eltelon.com/radio-coyhaique.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Tc828ZT.png" group-title="Radios Chilenas", Creaci¨®n (99.3 FM Cabrero)
+http://archi-us.digitalproserver.com/creacion-fm.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/GgMBBDL.png" group-title="Radios Chilenas", Creaciones (107.5 FM Temuco)
+https://acastream.us:25807/stream
+
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/25ivxZS.png" group-title="Radios Chilenas", Digital FM ( 91.1 FM)
+https://unlimited4-us.dps.live/digitalfm/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Kv80KuJ.png" group-title="Radios Chilenas", Duna (89.7 FM)
+http://unlimited11-cl.dps.live/duna/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/koqFkUU.jpg" group-title="Radios Chilenas", El Conquistador (91.3 FM Santiago)
+https://stream10.usastreams.com:10998/stream/1/
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/5BSbHhC.png" group-title="Radios Chilenas", Esperanza (106.9 FM Temuco)
+http://audio2.tustreaming.cl:8048/stream
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/zxzIRYx.png" group-title="Radios Chilenas", FM Dos (98.5 FM)
+https://20283.live.streamtheworld.com/FMDOSAAC_SC
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/rX6Gr2B.png" group-title="Radios Chilenas", FM Mas (89.1 Arica)
+http://cast.radioservicios.cl:8026/fmmas
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/zyP5nXz.jpg" group-title="Radios Chilenas", FM Tiempo (95.9 FM)
+http://unlimited11-cl.dps.live/fmtiempo/mp3/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/B7RTx6e.png" group-title="Radios Chilenas", Futuro (88.9 FM)
+https://22823.live.streamtheworld.com/FUTUROAAC_SC
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/EwrjuWv.png" group-title="Radios Chilenas", Galaxia (Online)
+http://sscl.denialstream.com:8830/;stream/1.mp3
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/1JxOe49.png" group-title="Radios Chilenas", G¨¦nesis (96.5 FM Curacautin)
+http://stream5.eltelon.com/genesis.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/tQhOO5I.png" group-title="Radios Chilenas", Gennesis (92.7 FM  Copiap¨®)
+http://atanua.broadcastchile.cl:7000/;
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/mPXszmo.png" group-title="Radios Chilenas", Imagina (88.1 FM)
+https://20823.live.streamtheworld.com/IMAGINA_SC
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/bYKsIvP.png" group-title="Radios Chilenas", Infinita (100.1 FM)
+https://unlimited1-us.dps.live/infinita/gotardis/audio/now/livestream1.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/5fRJ2Wf.png" group-title="Radios Chilenas", La Clave (92.9 FM)
+http://tunein.digitalproserver.com/laclavebb.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/avui2Wa.png" group-title="Radios Chilenas", La Discusi¨®n (94.7 FM Chillan)
+http://stream5.eltelon.com/radio-la-discusion.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/7mRhJLu.png" group-title="Radios Chilenas", Las Nieves (102.9 FM Puerto Ays¨¦n)
+http://audio2.tustreaming.cl:8044/stream
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/adCyBYn.jpg" group-title="Radios Chilenas", Loactual (96.7 FM Calama)
+http://rs.comtic.net:8000/;
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/bFE28Ft.png" group-title="Radios Chilenas", Los 40 Principales (101.7 FM)
+https://20323.live.streamtheworld.com/LOS40_CHILE_SC
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/CpIOrw8.png" group-title="Radios Chilenas", Llacol¨¦n (1600 AM Concepci¨®n)
+http://sonando.us.digitalproserver.com/radiollacolen.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/KxACsbP.png" group-title="Radios Chilenas",Macarena (99.7 FM Chill¨¢n)
+http://66.165.231.118:9306/stream/1/
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/3Wz5r3H.jpg" group-title="Radios Chilenas",Madero (102.5 FM Antofagasta)
+http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/IiSH8T0.png" group-title="Radios Chilenas", Magistral (93.9 FM Galvarino)
+http://www.magistralfm.cl:9110/galvarino
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/3dmUnMc.png" group-title="Radios Chilenas", Maray (90.9 FM Copiap¨®)
+http://184.154.173.147:8000/;stream.mp3
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/BpTGghs.png" group-title="Radios Chilenas", Mar¨ªa (89.3 FM )
+http://dreamsiteradiocp.com:8066/stream/1/
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/fJTzncE.jpg" group-title="Radios Chilenas", Mirador (90.9 FM Lautaro)
+https://stream.edelweiss.fm/radio/8030/radio.mp3
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/9koBcXv.jpg" group-title="Radios Chilenas", Nacimiento (98.7 FM Nacimiento)
+http://stream5.eltelon.com:8000/archi-nacimiento.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/C0Itkp2.png" group-title="Radios Chilenas", Nostalgica (88.1 FM Copiapo)
+http://unlimited11-cl.dps.live/nostalgica/mp3/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/lnL0vXo.png" group-title="Radios Chilenas", Nuevo Amanecer (93.3 FM Fresia)
+http://163.172.209.91:7077/stream/1/
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/lxTRWGB.png" group-title="Radios Chilenas", Nuevo Mundo (88.9 FM Ovalle)
+http://190.82.105.90:8012/stream/1/
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/KAFko72.png" group-title="Radios Chilenas", Okey (89.3 FM Antofagasta)
+http://streaming.fmokey.cl:8000/FmOkAT.mp3
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/qitoHFB.png" group-title="Radios Chilenas", Okey (103.1 FM Copiapo)
+http://streaming.fmokey.cl:8000/FmOkCP.mp3
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/PatS4WC.jpg" group-title="Radios Chilenas", Paloma (97.5 FM Talca)
+http://192.99.18.164:9622/,
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/DKl7QVP.jpg" group-title="Radios Chilenas", Paula FM (100.5 FM)
+https://unlimited3-cl.dps.live/radiopaula/gotardis/audio/now/livestream1.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Z8eyX4G.png" group-title="Radios Chilenas", Plus FM (106.7 FM Antofagasta)
+http://sonando.us.digitalproserver.com/fmplus_aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/fOuBa6N.jpg" group-title="Radios Chilenas", Portales (1180 AM)
+http://s6.jcwebnew.com:8060/stream
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/oZ5GYYh.png" group-title="Radios Chilenas", Positiva (98.5 FM Temuco)
+http://mimix.mercurio.cl:8000/temuco2
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/oZ5GYYh.png" group-title="Radios Chilenas", Positiva (FM 99.5 Valdivia)
+http://mimix.mercurio.cl:8000/valdivia2
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LKx9K1c.jpg" group-title="Radios Chilenas", Punto Siete (90.9 FM Concepci¨®n)
+http://redirector.dps.live/p7concepcion/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LmV8m1P.png" group-title="Radios Chilenas", Pudahuel (90.5 FM)
+https://20823.live.streamtheworld.com/PUDAHUEL_SC
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/qbvBIZd.jpg" group-title="Radios Chilenas", RadioActiva (100.9 FM La Serena)
+https://20833.live.streamtheworld.com/ACTIVA_SC
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/9rTXN18.png" group-title="Radios Chilenas", Radio Disney (104.9 FM)
+http://unlimited3-cl.dps.live/disney/mp364k/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/k21dA8z.jpg" group-title="Radios Chilenas", Radio San Bartolome (96.7 FM La Serena)
+http://stream5.eltelon.com/san-bartolome.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/HyBIdje.jpg" group-title="Radios Chilenas", Regina Coeli (95.3 FM Los ¨¢ngeles)
+https://server01.heplayer.com/9352/stream
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/VqhcW5j.png" group-title="Radios Chilenas", Ritoque (107.9 FM Valparaiso)
+http://sonando.us.digitalproserver.com/ritoquefm_aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/c5dlfCu.png" group-title="Radios Chilenas", Rock and Pop (94.1 FM)
+https://20283.live.streamtheworld.com/ROCK_AND_POP_SC
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/OQNf6jw.jpg" group-title="Radios Chilenas", Rom¨¢ntica (104.1 FM)
+http://unlimited11-cl.dps.live/romantica/mp3/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/nflHOKo.jpg" group-title="Radios Chilenas", Radio San Crist¨®bal (97.5 FM Los ¨¢ngeles)
+http://stream5.eltelon.com:8000/archi-sancristobal.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/vEYBR8D.png" group-title="Radios Chilenas", Sol (97.7 FM Antofagasta)
+http://online.radiosol.cl:8000/;
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/jLVLB6J.jpg" group-title="Radios Chilenas", Sol Austral (97.7 FM Aysen)
+https://rsolaustral.tustreamings4.cl/stream
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/wEm8Puq.png" group-title="Radios Chilenas", Sur FM (92.1 FM Los Angeles)
+http://ww3.radiosur.cl:5074/rsur
+
+#EXTINF:-1 radio="true"  tvg-logo="https://i.imgur.com/yzcVXfN.png" group-title="Radios Chilenas", Tele13 Radio (103.3 FM)
+https://us-b4-p-e-az1-audio.cdn.mdstrm.com/live-audio/5c58a34e176c2c0813b22e4b/5c915613519bce27671c4caa/chunks.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/qyyij8r.png" group-title="Radios Chilenas", UCV FM (103.5 FM Valparaiso)
+http://sonando.us.digitalproserver.com/ucvradio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/6KxKhOu.png" group-title="Radios Chilenas", Udec (95.1 FM Concepcion)
+https://unlimited4-us.dps.live/udec/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/aiGcki2.png" group-title="Radios Chilenas", Universal (94.7 FM Pitrufquen)
+http://s01.midns.net/universal-aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/AbH9Z3j.png" group-title="Radios Chilenas", Universidad de Antofagasta (99.9 FM)
+http://185.105.4.100/proxy/radioua?mp=/stream
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/mgqpBsW.png" group-title="Radios Chilenas", Universidad de Talca Cl¨¢sica (102.1 FM)
+http://iradio.utalca.cl:8000/fm
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/DkE64X1.png" group-title="Radios Chilenas", Universo (93.7 FM)
+https://unlimited4-us.dps.live/universo/aac/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/HkJznx3.png" group-title="Radios Chilenas", Zonar (104.1 FM Villa Prat)
+https://sonic.portalfoxmix.cl:7131/stream/1/
