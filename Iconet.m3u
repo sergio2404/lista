@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="67", TLC
-http://170.83.242.153:8000/play/a010
+http://172.16.18.17:25461/soldecurauma/soldecurauma/243
 #EXTINF:0 type="stream" channelId="3986", Canal 13 HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/270
 #EXTINF:0 type="stream" channelId="3037", CHV HD
