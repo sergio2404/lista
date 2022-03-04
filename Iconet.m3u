@@ -11,6 +11,10 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/300
 http://172.16.18.17:25461/soldecurauma/soldecurauma/323
 #EXTINF:0 type="stream" channelId="1745", La Red HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/299
+#EXTINF:0 type="stream" channelId="-1", CNN Chile HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/269
+#EXTINF:0 type="stream" channelId="-1", Canal 24 Horas HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/271
 #EXTINF:0 type="stream" channelId="3761", FX Movies HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/290
 #EXTINF:0 type="stream" channelId="1304", FX HD
@@ -47,10 +51,6 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/223
 http://172.16.18.17:25461/soldecurauma/soldecurauma/224
 #EXTINF:0 type="stream" channelId="-1", STAR Life
 http://172.16.18.17:25461/soldecurauma/soldecurauma/225
-#EXTINF:0 type="stream" channelId="-1", STAR Action
-http://172.16.18.17:25461/soldecurauma/soldecurauma/226
-#EXTINF:0 type="stream" channelId="-1", STAR Series
-http://172.16.18.17:25461/soldecurauma/soldecurauma/227
 #EXTINF:0 type="stream" channelId="1303", FX
 http://172.16.18.17:25461/soldecurauma/soldecurauma/228
 #EXTINF:0 type="stream" channelId="4218", FX Movies
@@ -77,30 +77,18 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/324
 http://172.16.18.17:25461/soldecurauma/soldecurauma/304
 #EXTINF:0 type="stream" channelId="-1", STAR CHANNEL HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/307
-#EXTINF:0 type="stream" channelId="-1", STAR ACTION HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/306
 #EXTINF:0 type="stream" channelId="2900", TNT HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/318
 #EXTINF:0 type="stream" channelId="1311", Sun Channel HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/317
 #EXTINF:0 type="stream" channelId="2147", Studio Universal HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/316
-#EXTINF:0 type="stream" channelId="-1", Star HITS
-http://172.16.18.17:25461/soldecurauma/soldecurauma/315
 #EXTINF:0 type="stream" channelId="2896", Space HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/314
 #EXTINF:0 type="stream" channelId="530", Sony HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/313
-#EXTINF:0 type="stream" channelId="-1", STAR SERIES HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/312
 #EXTINF:0 type="stream" channelId="-1", STAR LIFE HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/311
-#EXTINF:0 type="stream" channelId="-1", STAR HITS HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/310
-#EXTINF:0 type="stream" channelId="-1", STAR FUN HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/309
-#EXTINF:0 type="stream" channelId="-1", STAR COMEDY HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/308
 #EXTINF:0 type="stream" channelId="361", HBO POP HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/296
 #EXTINF:0 type="stream" channelId="1330", HBO HD
@@ -111,10 +99,6 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/294
 http://172.16.18.17:25461/soldecurauma/soldecurauma/320
 #EXTINF:0 type="stream" channelId="895", TCM
 http://172.16.18.17:25461/soldecurauma/soldecurauma/235
-#EXTINF:0 type="stream" channelId="-1", CNN Chile HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/269
-#EXTINF:0 type="stream" channelId="-1", Canal 24 Horas HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/271
 #EXTINF:0 type="stream" channelId="1323", 24 Horas
 http://172.16.18.17:25461/soldecurauma/soldecurauma/197
 #EXTINF:0 type="stream" channelId="152", CNN Chile
