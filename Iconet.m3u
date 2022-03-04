@@ -55,8 +55,6 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/225
 http://172.16.18.17:25461/soldecurauma/soldecurauma/228
 #EXTINF:0 type="stream" channelId="4218", FX Movies
 http://172.16.18.17:25461/soldecurauma/soldecurauma/229
-#EXTINF:0 type="stream" channelId="1208", A&E
-http://172.16.18.17:25461/soldecurauma/soldecurauma/230
 #EXTINF:0 type="stream" channelId="1573", AXN
 http://172.16.18.17:25461/soldecurauma/soldecurauma/231
 #EXTINF:0 type="stream" channelId="2503", A&E HD
