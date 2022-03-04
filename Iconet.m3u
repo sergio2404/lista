@@ -11,58 +11,10 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/300
 http://172.16.18.17:25461/soldecurauma/soldecurauma/323
 #EXTINF:0 type="stream" channelId="1745", La Red HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/299
-#EXTINF:0 type="stream" channelId="1078", NTV
-http://172.16.18.17:25461/soldecurauma/soldecurauma/201
-#EXTINF:0 type="stream" channelId="1323", 24 Horas
-http://172.16.18.17:25461/soldecurauma/soldecurauma/197
-#EXTINF:0 type="stream" channelId="152", CNN Chile
-http://172.16.18.17:25461/soldecurauma/soldecurauma/198
-#EXTINF:0 type="stream" channelId="1972", CNN Espanol
-http://172.16.18.17:25461/soldecurauma/soldecurauma/199
-#EXTINF:0 type="stream" channelId="1720", Food Network HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/291
 #EXTINF:0 type="stream" channelId="3761", FX Movies HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/290
 #EXTINF:0 type="stream" channelId="1304", FX HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/289
-#EXTINF:0 type="stream" channelId="179", FOX Sports 2 HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/288
-#EXTINF:0 type="stream" channelId="310", El Gourmet HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/287
-#EXTINF:0 type="stream" channelId="1263", ESPN HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/286
-#EXTINF:0 type="stream" channelId="4657", ESPN EXTRA HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/285
-#EXTINF:0 type="stream" channelId="357", ESPN 3 HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/284
-#EXTINF:0 type="stream" channelId="3746", ESPN 2 HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/283
-#EXTINF:0 type="stream" channelId="2720", Disney Channel HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/282
-#EXTINF:0 type="stream" channelId="2890", Discovery World HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/281
-#EXTINF:0 type="stream" channelId="2558", Discovery Theater HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/280
-#EXTINF:0 type="stream" channelId="2837", Discovery Kids HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/279
-#EXTINF:0 type="stream" channelId="-1", TV EDUCA
-http://172.16.18.17:25461/soldecurauma/soldecurauma/200
-#EXTINF:0 type="stream" channelId="40", Cartoon Network
-http://172.16.18.17:25461/soldecurauma/soldecurauma/202
-#EXTINF:0 type="stream" channelId="2505", Discovery Kids
-http://172.16.18.17:25461/soldecurauma/soldecurauma/203
-#EXTINF:0 type="stream" channelId="19", Disney Channel
-http://172.16.18.17:25461/soldecurauma/soldecurauma/204
-#EXTINF:0 type="stream" channelId="1197", Disney Jr
-http://172.16.18.17:25461/soldecurauma/soldecurauma/205
-#EXTINF:0 type="stream" channelId="1198", Disney XD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/206
-#EXTINF:0 type="stream" channelId="3778", NatGeo Kids
-http://172.16.18.17:25461/soldecurauma/soldecurauma/207
-#EXTINF:0 type="stream" channelId="322", Nick Jr
-http://172.16.18.17:25461/soldecurauma/soldecurauma/208
-#EXTINF:0 type="stream" channelId="41", Nickelodeon
-http://172.16.18.17:25461/soldecurauma/soldecurauma/209
 #EXTINF:0 type="stream" channelId="1330", HBO
 http://172.16.18.17:25461/soldecurauma/soldecurauma/210
 #EXTINF:0 type="stream" channelId="935", HBO 2
@@ -107,14 +59,106 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/229
 http://172.16.18.17:25461/soldecurauma/soldecurauma/230
 #EXTINF:0 type="stream" channelId="1573", AXN
 http://172.16.18.17:25461/soldecurauma/soldecurauma/231
+#EXTINF:0 type="stream" channelId="2503", A&E HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/264
+#EXTINF:0 type="stream" channelId="2501", AMC HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/265
+#EXTINF:0 type="stream" channelId="2246", AXN HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/266
+#EXTINF:0 type="stream" channelId="284", Cinecanal HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/273
+#EXTINF:0 type="stream" channelId="2888", Cinemax HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/274
+#EXTINF:0 type="stream" channelId="2903", Warner Channel HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/325
+#EXTINF:0 type="stream" channelId="-1", UNIVERSAL CHANNEL HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/324
+#EXTINF:0 type="stream" channelId="-1", Paramount HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/304
+#EXTINF:0 type="stream" channelId="-1", STAR CHANNEL HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/307
+#EXTINF:0 type="stream" channelId="-1", STAR ACTION HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/306
+#EXTINF:0 type="stream" channelId="2900", TNT HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/318
+#EXTINF:0 type="stream" channelId="1311", Sun Channel HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/317
+#EXTINF:0 type="stream" channelId="2147", Studio Universal HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/316
+#EXTINF:0 type="stream" channelId="-1", Star HITS
+http://172.16.18.17:25461/soldecurauma/soldecurauma/315
+#EXTINF:0 type="stream" channelId="2896", Space HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/314
+#EXTINF:0 type="stream" channelId="530", Sony HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/313
+#EXTINF:0 type="stream" channelId="-1", STAR SERIES HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/312
+#EXTINF:0 type="stream" channelId="-1", STAR LIFE HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/311
+#EXTINF:0 type="stream" channelId="-1", STAR HITS HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/310
+#EXTINF:0 type="stream" channelId="-1", STAR FUN HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/309
+#EXTINF:0 type="stream" channelId="-1", STAR COMEDY HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/308
+#EXTINF:0 type="stream" channelId="361", HBO POP HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/296
+#EXTINF:0 type="stream" channelId="1330", HBO HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/295
+#EXTINF:0 type="stream" channelId="1962", Golden HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/294
+#EXTINF:0 type="stream" channelId="3797", TNT Series HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/320
+#EXTINF:0 type="stream" channelId="895", TCM
+http://172.16.18.17:25461/soldecurauma/soldecurauma/235
+#EXTINF:0 type="stream" channelId="-1", CNN Chile HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/269
+#EXTINF:0 type="stream" channelId="-1", Canal 24 Horas HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/271
+#EXTINF:0 type="stream" channelId="1323", 24 Horas
+http://172.16.18.17:25461/soldecurauma/soldecurauma/197
+#EXTINF:0 type="stream" channelId="152", CNN Chile
+http://172.16.18.17:25461/soldecurauma/soldecurauma/198
+#EXTINF:0 type="stream" channelId="1972", CNN Espanol
+http://172.16.18.17:25461/soldecurauma/soldecurauma/199
+#EXTINF:0 type="stream" channelId="1078", NTV
+http://172.16.18.17:25461/soldecurauma/soldecurauma/201
+#EXTINF:0 type="stream" channelId="1720", Food Network HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/291
+#EXTINF:0 type="stream" channelId="310", El Gourmet HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/287
+#EXTINF:0 type="stream" channelId="2720", Disney Channel HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/282
+#EXTINF:0 type="stream" channelId="2890", Discovery World HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/281
+#EXTINF:0 type="stream" channelId="2558", Discovery Theater HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/280
+#EXTINF:0 type="stream" channelId="2837", Discovery Kids HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/279
+#EXTINF:0 type="stream" channelId="-1", TV EDUCA
+http://172.16.18.17:25461/soldecurauma/soldecurauma/200
+#EXTINF:0 type="stream" channelId="40", Cartoon Network
+http://172.16.18.17:25461/soldecurauma/soldecurauma/202
+#EXTINF:0 type="stream" channelId="2505", Discovery Kids
+http://172.16.18.17:25461/soldecurauma/soldecurauma/203
+#EXTINF:0 type="stream" channelId="19", Disney Channel
+http://172.16.18.17:25461/soldecurauma/soldecurauma/204
+#EXTINF:0 type="stream" channelId="1197", Disney Jr
+http://172.16.18.17:25461/soldecurauma/soldecurauma/205
+#EXTINF:0 type="stream" channelId="1198", Disney XD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/206
+#EXTINF:0 type="stream" channelId="3778", NatGeo Kids
+http://172.16.18.17:25461/soldecurauma/soldecurauma/207
+#EXTINF:0 type="stream" channelId="322", Nick Jr
+http://172.16.18.17:25461/soldecurauma/soldecurauma/208
+#EXTINF:0 type="stream" channelId="41", Nickelodeon
+http://172.16.18.17:25461/soldecurauma/soldecurauma/209
 #EXTINF:0 type="stream" channelId="1954", Canal de Las estrellas
 http://172.16.18.17:25461/soldecurauma/soldecurauma/232
 #EXTINF:0 type="stream" channelId="3782", RCN Novelas
 http://172.16.18.17:25461/soldecurauma/soldecurauma/233
 #EXTINF:0 type="stream" channelId="3228", TBS
 http://172.16.18.17:25461/soldecurauma/soldecurauma/234
-#EXTINF:0 type="stream" channelId="895", TCM
-http://172.16.18.17:25461/soldecurauma/soldecurauma/235
 #EXTINF:0 type="stream" channelId="1967", Telemundo
 http://172.16.18.17:25461/soldecurauma/soldecurauma/236
 #EXTINF:0 type="stream" channelId="57", Discovery
@@ -143,6 +187,40 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/247
 http://172.16.18.17:25461/soldecurauma/soldecurauma/248
 #EXTINF:0 type="stream" channelId="378", TVE
 http://172.16.18.17:25461/soldecurauma/soldecurauma/249
+#EXTINF:0 type="stream" channelId="1973", MTV
+http://172.16.18.17:25461/soldecurauma/soldecurauma/261
+#EXTINF:0 type="stream" channelId="-1", ViaX
+http://172.16.18.17:25461/soldecurauma/soldecurauma/262
+#EXTINF:0 type="stream" channelId="4750", Zona Latina
+http://172.16.18.17:25461/soldecurauma/soldecurauma/263
+#EXTINF:0 type="stream" channelId="240", Animal Planet HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/267
+#EXTINF:0 type="stream" channelId="2719", Cartoon Network HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/272
+#EXTINF:0 type="stream" channelId="1191", Comedy Central HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/275
+#EXTINF:0 type="stream" channelId="341", Discovery Channel HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/276
+#EXTINF:0 type="stream" channelId="-1", Discovery H&H HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/277
+#EXTINF:0 type="stream" channelId="-1", Discovery ID HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/278
+#EXTINF:0 type="stream" channelId="-1", TV+ HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/322
+#EXTINF:0 type="stream" channelId="2636", TRUTV HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/321
+#EXTINF:0 type="stream" channelId="3781", Pasiones HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/305
+#EXTINF:0 type="stream" channelId="206", Nat Geo Wild HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/303
+#EXTINF:0 type="stream" channelId="-1", Nat Geo Kids HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/302
+#EXTINF:0 type="stream" channelId="207", Nat Geo HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/301
+#EXTINF:0 type="stream" channelId="1456", History Channel HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/298
+#EXTINF:0 type="stream" channelId="1202", History 2 HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/297
 #EXTINF:0 type="stream" channelId="-1", TNT Sports 2
 http://172.16.18.17:25461/soldecurauma/soldecurauma/250
 #EXTINF:0 type="stream" channelId="-1", TNT Sports 3
@@ -165,104 +243,26 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/258
 http://172.16.18.17:25461/soldecurauma/soldecurauma/259
 #EXTINF:0 type="stream" channelId="3802", TyC Sports
 http://172.16.18.17:25461/soldecurauma/soldecurauma/260
-#EXTINF:0 type="stream" channelId="1973", MTV
-http://172.16.18.17:25461/soldecurauma/soldecurauma/261
-#EXTINF:0 type="stream" channelId="-1", ViaX
-http://172.16.18.17:25461/soldecurauma/soldecurauma/262
-#EXTINF:0 type="stream" channelId="4750", Zona Latina
-http://172.16.18.17:25461/soldecurauma/soldecurauma/263
-#EXTINF:0 type="stream" channelId="2503", A&E HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/264
-#EXTINF:0 type="stream" channelId="2501", AMC HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/265
-#EXTINF:0 type="stream" channelId="2246", AXN HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/266
-#EXTINF:0 type="stream" channelId="240", Animal Planet HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/267
-#EXTINF:0 type="stream" channelId="-1", CNN Chile HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/269
-#EXTINF:0 type="stream" channelId="-1", Canal 24 Horas HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/271
-#EXTINF:0 type="stream" channelId="2719", Cartoon Network HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/272
-#EXTINF:0 type="stream" channelId="284", Cinecanal HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/273
-#EXTINF:0 type="stream" channelId="2888", Cinemax HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/274
-#EXTINF:0 type="stream" channelId="3037", CHV
-http://172.16.18.17:25461/soldecurauma/soldecurauma/193
-#EXTINF:0 type="stream" channelId="1191", Comedy Central HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/275
-#EXTINF:0 type="stream" channelId="341", Discovery Channel HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/276
-#EXTINF:0 type="stream" channelId="-1", Discovery H&H HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/277
-#EXTINF:0 type="stream" channelId="-1", Discovery ID HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/278
-#EXTINF:0 type="stream" channelId="2903", Warner Channel HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/325
-#EXTINF:0 type="stream" channelId="-1", UNIVERSAL CHANNEL HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/324
-#EXTINF:0 type="stream" channelId="-1", TV+ HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/322
-#EXTINF:0 type="stream" channelId="2636", TRUTV HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/321
-#EXTINF:0 type="stream" channelId="3797", TNT Series HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/320
+#EXTINF:0 type="stream" channelId="179", FOX Sports 2 HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/288
+#EXTINF:0 type="stream" channelId="1263", ESPN HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/286
+#EXTINF:0 type="stream" channelId="4657", ESPN EXTRA HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/285
+#EXTINF:0 type="stream" channelId="357", ESPN 3 HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/284
+#EXTINF:0 type="stream" channelId="3746", ESPN 2 HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/283
 #EXTINF:0 type="stream" channelId="-1", TNT SPORTS HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/319
-#EXTINF:0 type="stream" channelId="2900", TNT HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/318
-#EXTINF:0 type="stream" channelId="1311", Sun Channel HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/317
-#EXTINF:0 type="stream" channelId="2147", Studio Universal HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/316
-#EXTINF:0 type="stream" channelId="-1", Star HITS
-http://172.16.18.17:25461/soldecurauma/soldecurauma/315
-#EXTINF:0 type="stream" channelId="2896", Space HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/314
-#EXTINF:0 type="stream" channelId="530", Sony HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/313
-#EXTINF:0 type="stream" channelId="-1", STAR SERIES HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/312
-#EXTINF:0 type="stream" channelId="-1", STAR LIFE HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/311
-#EXTINF:0 type="stream" channelId="-1", STAR HITS HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/310
-#EXTINF:0 type="stream" channelId="-1", STAR FUN HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/309
-#EXTINF:0 type="stream" channelId="-1", STAR COMEDY HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/308
-#EXTINF:0 type="stream" channelId="-1", STAR CHANNEL HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/307
-#EXTINF:0 type="stream" channelId="-1", STAR ACTION HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/306
-#EXTINF:0 type="stream" channelId="3781", Pasiones HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/305
-#EXTINF:0 type="stream" channelId="-1", Paramount HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/304
-#EXTINF:0 type="stream" channelId="206", Nat Geo Wild HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/303
-#EXTINF:0 type="stream" channelId="-1", Nat Geo Kids HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/302
-#EXTINF:0 type="stream" channelId="207", Nat Geo HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/301
-#EXTINF:0 type="stream" channelId="1456", History Channel HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/298
-#EXTINF:0 type="stream" channelId="1202", History 2 HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/297
-#EXTINF:0 type="stream" channelId="361", HBO POP HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/296
-#EXTINF:0 type="stream" channelId="1330", HBO HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/295
-#EXTINF:0 type="stream" channelId="1962", Golden HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/294
 #EXTINF:0 type="stream" channelId="213", Fox Sports 3 HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/293
 #EXTINF:0 type="stream" channelId="-1", Fox Sports 1 HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/292
 #EXTINF:0 type="stream" channelId="1745", La Red
 http://172.16.18.17:25461/soldecurauma/soldecurauma/192
+#EXTINF:0 type="stream" channelId="3037", CHV
+http://172.16.18.17:25461/soldecurauma/soldecurauma/193
 #EXTINF:0 type="stream" channelId="2819", Mega
 http://172.16.18.17:25461/soldecurauma/soldecurauma/194
 #EXTINF:0 type="stream" channelId="2344", TVN
