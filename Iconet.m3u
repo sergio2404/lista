@@ -95,6 +95,16 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/295
 http://172.16.18.17:25461/soldecurauma/soldecurauma/294
 #EXTINF:0 type="stream" channelId="3797", TNT Series HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/320
+
+#EXTINF:-1 ,MXClassic
+http://138.36.253.12:8009/play/a00a/index.m3u8
+#EXTINF:-1 ,MXFamily
+http://138.36.253.12:8009/play/a00b/index.m3u8
+#EXTINF:-1 ,MXPrime
+http://138.36.253.12:8009/play/a01n/index.m3u8
+#EXTINF:-1 ,Fitmaxx
+http://138.36.253.12:8009/play/a004/index.m3u8
+
 #EXTINF:0 type="stream" channelId="895", TCM
 http://172.16.18.17:25461/soldecurauma/soldecurauma/235
 #EXTINF:0 type="stream" channelId="1323", 24 Horas
