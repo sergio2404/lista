@@ -11,6 +11,8 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/300
 http://172.16.18.17:25461/soldecurauma/soldecurauma/323
 #EXTINF:0 type="stream" channelId="1745", La Red HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/299
+#EXTINF:0 type="stream" channelId="-1", Discovery H&H HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/277
 #EXTINF:0 type="stream" channelId="-1", CNN Chile HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/269
 #EXTINF:0 type="stream" channelId="-1", Canal 24 Horas HD
