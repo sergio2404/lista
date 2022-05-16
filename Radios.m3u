@@ -7,8 +7,6 @@ http://unlimited11-cl.dps.live/duna/aac/icecast.audio
 https://sonic.portalfoxmix.cl:7131/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/zyP5nXz.jpg" group-title="Radios Chilenas", FM Tiempo (95.9 FM)
 http://unlimited11-cl.dps.live/fmtiempo/mp3/icecast.audio
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/qitoHFB.png" group-title="Radios Chilenas", Okey (103.1 FM Copiapo)
-http://streaming.fmokey.cl:8000/FmOkCP.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/oZ5GYYh.png" group-title="Radios Chilenas", Positiva (FM 99.5 Valdivia)
 http://mimix.mercurio.cl:8000/valdivia2
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/qbvBIZd.jpg" group-title="Radios Chilenas", RadioActiva (100.9 FM La Serena)
