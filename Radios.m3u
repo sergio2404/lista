@@ -3,8 +3,6 @@
 http://unlimited3-cl.dps.live/carolinafm/aac/icecast.audio
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Kv80KuJ.png" group-title="Radios Chilenas", Duna (89.7 FM)
 http://unlimited11-cl.dps.live/duna/aac/icecast.audio
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/HkJznx3.png" group-title="Radios Chilenas", Zonar (104.1 FM Villa Prat)
-https://sonic.portalfoxmix.cl:7131/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/zyP5nXz.jpg" group-title="Radios Chilenas", FM Tiempo (95.9 FM)
 http://unlimited11-cl.dps.live/fmtiempo/mp3/icecast.audio
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/oZ5GYYh.png" group-title="Radios Chilenas", Positiva (FM 99.5 Valdivia)
