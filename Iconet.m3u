@@ -266,15 +266,6 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/195
 #EXTINF:0 type="stream" channelId="3986", Canal 13
 http://172.16.18.17:25461/soldecurauma/soldecurauma/196
 
-#EXTINF:-1 group-title="-",MXClassic
-http://138.36.253.12:8009/play/a00a/index.m3u8
-#EXTINF:-1 group-title="-",MXFamily
-http://138.36.253.12:8009/play/a00b/index.m3u8
-#EXTINF:-1 group-title="-",MXPrime
-http://138.36.253.12:8009/play/a01n/index.m3u8
-#EXTINF:-1 group-title="-",Fitmaxx
-http://138.36.253.12:8009/play/a004/index.m3u8
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/o2BwkUJ.png" group-title="Radios Chilenas", Agricultura (92.1 FM)
 http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
 
