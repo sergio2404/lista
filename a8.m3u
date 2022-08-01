@@ -3,13 +3,14 @@
 http://138.36.253.14:8010/play/a024/index.m3u8
 #EXTINF:-1,Canal 13
 http://138.36.253.14:8010/play/a02d/index.m3u8
+#EXTINF:-1,Mega
+http://138.36.253.14:8010/play/a01u/index.m3u8
 #EXTINF:-1,La Red
 http://138.36.253.14:8010/play/a01c/index.m3u8
 #EXTINF:-1,TVN
 http://138.36.253.14:8010/play/a01b/index.m3u8
 #EXTINF:-1,Discovery Turbo
 http://138.36.253.14:8010/play/a01x/index.m3u8
-
 #EXTINF:-1,24 Horas
 http://138.36.253.14:8010/play/a022/index.m3u8
 #EXTINF:-1,AE Mundo
@@ -76,8 +77,6 @@ http://138.36.253.14:8010/play/a01f/index.m3u8
 http://138.36.253.14:8010/play/a02x/index.m3u8
 #EXTINF:-1,MTV
 http://138.36.253.14:8010/play/a029/index.m3u8
-#EXTINF:-1,Mega
-http://138.36.253.14:8010/play/a01u/index.m3u8
 #EXTINF:-1,Mundo y Sabor
 http://138.36.253.14:8010/play/a00q/index.m3u8
 #EXTINF:-1,Nat Geo
