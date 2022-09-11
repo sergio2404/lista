@@ -341,6 +341,9 @@ http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/a5F2EwR.jpg" group-title="Radios Chilenas", Carolina (99.3 FM)
 http://unlimited3-cl.dps.live/carolinafm/aac/icecast.audio
 
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/a5F2EwR.jpg" group-title="Radios Chilenas", Carolina TV (99.3 FM)
+http://190.107.20.94:8000/play/a018
+
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/DS4hL02.png" group-title="Radios Chilenas", Centro FM (103.3 FM Antofagasta)
 http://stream5.eltelon.com/centro.aac
 
