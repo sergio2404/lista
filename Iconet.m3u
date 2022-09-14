@@ -23,42 +23,6 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/271
 http://172.16.18.17:25461/soldecurauma/soldecurauma/242
 #EXTINF:0 type="stream" channelId="1304", FX HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/289
-#EXTINF:0 type="stream" channelId="1330", HBO
-http://172.16.18.17:25461/soldecurauma/soldecurauma/210
-#EXTINF:0 type="stream" channelId="935", HBO 2
-http://172.16.18.17:25461/soldecurauma/soldecurauma/211
-#EXTINF:0 type="stream" channelId="2584", HBO Family
-http://172.16.18.17:25461/soldecurauma/soldecurauma/212
-#EXTINF:0 type="stream" channelId="2585", HBO Plus
-http://172.16.18.17:25461/soldecurauma/soldecurauma/213
-#EXTINF:0 type="stream" channelId="2587", HBO XTREME
-http://172.16.18.17:25461/soldecurauma/soldecurauma/214
-#EXTINF:0 type="stream" channelId="1052", TNT
-http://172.16.18.17:25461/soldecurauma/soldecurauma/215
-#EXTINF:0 type="stream" channelId="64", Cinecanal
-http://172.16.18.17:25461/soldecurauma/soldecurauma/216
-#EXTINF:0 type="stream" channelId="1326", Cinemax
-http://172.16.18.17:25461/soldecurauma/soldecurauma/217
-#EXTINF:0 type="stream" channelId="2638", I-Sat
-http://172.16.18.17:25461/soldecurauma/soldecurauma/218
-#EXTINF:0 type="stream" channelId="-1", AE Mundo
-http://172.16.18.17:25461/soldecurauma/soldecurauma/219
-#EXTINF:0 type="stream" channelId="188", Sony
-http://172.16.18.17:25461/soldecurauma/soldecurauma/220
-#EXTINF:0 type="stream" channelId="2557", Warner
-http://172.16.18.17:25461/soldecurauma/soldecurauma/222
-#EXTINF:0 type="stream" channelId="187", Universal
-http://172.16.18.17:25461/soldecurauma/soldecurauma/221
-#EXTINF:0 type="stream" channelId="383", Space
-http://172.16.18.17:25461/soldecurauma/soldecurauma/223
-#EXTINF:0 type="stream" channelId="-1", STAR Channel
-http://172.16.18.17:25461/soldecurauma/soldecurauma/224
-#EXTINF:0 type="stream" channelId="-1", STAR Life HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/311
-#EXTINF:0 type="stream" channelId="1303", FX
-http://172.16.18.17:25461/soldecurauma/soldecurauma/228
-#EXTINF:0 type="stream" channelId="1573", AXN
-http://172.16.18.17:25461/soldecurauma/soldecurauma/231
 #EXTINF:0 type="stream" channelId="2503", A&E HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/264
 #EXTINF:0 type="stream" channelId="2501", AMC HD
@@ -95,9 +59,42 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/296
 http://172.16.18.17:25461/soldecurauma/soldecurauma/295
 #EXTINF:0 type="stream" channelId="1962", Golden HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/294
+#EXTINF:0 type="stream" channelId="1330", HBO
+http://172.16.18.17:25461/soldecurauma/soldecurauma/210
+#EXTINF:0 type="stream" channelId="935", HBO 2
+http://172.16.18.17:25461/soldecurauma/soldecurauma/211
+#EXTINF:0 type="stream" channelId="2584", HBO Family
+http://172.16.18.17:25461/soldecurauma/soldecurauma/212
+#EXTINF:0 type="stream" channelId="2585", HBO Plus
+http://172.16.18.17:25461/soldecurauma/soldecurauma/213
+#EXTINF:0 type="stream" channelId="2587", HBO XTREME
+http://172.16.18.17:25461/soldecurauma/soldecurauma/214
+#EXTINF:0 type="stream" channelId="1052", TNT
+http://172.16.18.17:25461/soldecurauma/soldecurauma/215
+#EXTINF:0 type="stream" channelId="64", Cinecanal
+http://172.16.18.17:25461/soldecurauma/soldecurauma/216
+#EXTINF:0 type="stream" channelId="1326", Cinemax
+http://172.16.18.17:25461/soldecurauma/soldecurauma/217
+#EXTINF:0 type="stream" channelId="2638", I-Sat
+http://172.16.18.17:25461/soldecurauma/soldecurauma/218
+#EXTINF:0 type="stream" channelId="-1", AE Mundo
+http://172.16.18.17:25461/soldecurauma/soldecurauma/219
+#EXTINF:0 type="stream" channelId="188", Sony
+http://172.16.18.17:25461/soldecurauma/soldecurauma/220
+#EXTINF:0 type="stream" channelId="2557", Warner
+http://172.16.18.17:25461/soldecurauma/soldecurauma/222
+#EXTINF:0 type="stream" channelId="187", Universal
+http://172.16.18.17:25461/soldecurauma/soldecurauma/221
+#EXTINF:0 type="stream" channelId="383", Space
+http://172.16.18.17:25461/soldecurauma/soldecurauma/223
+#EXTINF:0 type="stream" channelId="-1", STAR Channel
+http://172.16.18.17:25461/soldecurauma/soldecurauma/224
+#EXTINF:0 type="stream" channelId="1303", FX
+http://172.16.18.17:25461/soldecurauma/soldecurauma/228
+#EXTINF:0 type="stream" channelId="1573", AXN
+http://172.16.18.17:25461/soldecurauma/soldecurauma/231
 #EXTINF:0 type="stream" channelId="3797", TNT Series HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/320
-
 #EXTINF:0 type="stream" channelId="895", TCM
 http://172.16.18.17:25461/soldecurauma/soldecurauma/235
 #EXTINF:0 type="stream" channelId="661", 24 Horas
