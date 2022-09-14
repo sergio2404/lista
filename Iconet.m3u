@@ -51,8 +51,6 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/316
 http://172.16.18.17:25461/soldecurauma/soldecurauma/314
 #EXTINF:0 type="stream" channelId="530", Sony HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/313
-#EXTINF:0 type="stream" channelId="-1", CLOVER HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/311
 #EXTINF:0 type="stream" channelId="361", HBO POP HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/296
 #EXTINF:0 type="stream" channelId="1330", HBO HD
@@ -73,6 +71,8 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/215
 http://172.16.18.17:25461/soldecurauma/soldecurauma/216
 #EXTINF:0 type="stream" channelId="1326", Cinemax
 http://172.16.18.17:25461/soldecurauma/soldecurauma/217
+#EXTINF:0 type="stream" channelId="-1", CLOVER HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/311
 #EXTINF:0 type="stream" channelId="1962", Golden HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/294
 #EXTINF:0 type="stream" channelId="2638", I-Sat
