@@ -19,8 +19,8 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/277
 http://172.16.18.17:25461/soldecurauma/soldecurauma/269
 #EXTINF:0 type="stream" channelId="661", Canal 24 Horas HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/271
-#EXTINF:0 type="stream" channelId="3761", FX Movies HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/290
+#EXTINF:0 type="stream" channelId="3743", DHE HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/242
 #EXTINF:0 type="stream" channelId="1304", FX HD
 http://172.16.18.17:25461/soldecurauma/soldecurauma/289
 #EXTINF:0 type="stream" channelId="1330", HBO
@@ -53,12 +53,10 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/221
 http://172.16.18.17:25461/soldecurauma/soldecurauma/223
 #EXTINF:0 type="stream" channelId="-1", STAR Channel
 http://172.16.18.17:25461/soldecurauma/soldecurauma/224
-#EXTINF:0 type="stream" channelId="-1", STAR Life
-http://172.16.18.17:25461/soldecurauma/soldecurauma/225
+#EXTINF:0 type="stream" channelId="-1", STAR Life HD
+http://172.16.18.17:25461/soldecurauma/soldecurauma/311
 #EXTINF:0 type="stream" channelId="1303", FX
 http://172.16.18.17:25461/soldecurauma/soldecurauma/228
-#EXTINF:0 type="stream" channelId="4218", FX Movies
-http://172.16.18.17:25461/soldecurauma/soldecurauma/229
 #EXTINF:0 type="stream" channelId="1573", AXN
 http://172.16.18.17:25461/soldecurauma/soldecurauma/231
 #EXTINF:0 type="stream" channelId="2503", A&E HD
@@ -158,8 +156,6 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/239
 http://172.16.18.17:25461/soldecurauma/soldecurauma/240
 #EXTINF:0 type="stream" channelId="2724", Discovery H&H
 http://172.16.18.17:25461/soldecurauma/soldecurauma/241
-#EXTINF:0 type="stream" channelId="3743", DHE HD
-http://172.16.18.17:25461/soldecurauma/soldecurauma/242
 #EXTINF:0 type="stream" channelId="67", Travel and Living
 http://172.16.18.17:25461/soldecurauma/soldecurauma/243
 #EXTINF:0 type="stream" channelId="-1", E Entertainment
