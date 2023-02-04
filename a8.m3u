@@ -139,3 +139,51 @@ http://45.232.210.1:8062/play/a07k/index.m3u8
 http://45.232.210.1:8062/play/a0ca/index.m3u8
 #EXTINF:-1,Zona Latina
 http://45.232.210.1:8062/play/a09h/index.m3u8
+
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/radio-carolina.png" group-title="Radios Chilenas", Carolina (99.3 FM)
+https://jireh-1-hls-audio-cl-isp.dps.live/hls-audio/716888c72e2079612211a7130f67a27d/carolina/playlist/index1-edge.m3u8?dpssid=b435154225163ddbbfc7f9e4&sid=ba5t1l1xb430483361163ddbbfc7f9e1&ndvc=1
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/40-principales.png" group-title="Radios Chilenas", Los 40 Chile (101.7 FM)
+https://26593.live.streamtheworld.com/LOS40_CHILEAAC.aac?csegid=12000&gdpr=0&dist=los40-web-live_streaming_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=eb902b77-e7f5-4aba-c897-0cc2498e235d
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/disney.png" group-title="Radios Chilenas", Radio Disney (95.3 FM)
+https://26583.live.streamtheworld.com/DISNEY_CHI_SA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/radio-activa.png" group-title="Radios Chilenas", Radio Activa (92.5 FM)
+https://24503.live.streamtheworld.com/ACTIVA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/rock-and-pop.png" group-title="Radios Chilenas", Rock and Pop (94.1 FM)
+https://26643.live.streamtheworld.com/ROCK_AND_POP_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/futuro.png" group-title="Radios Chilenas", Futuro FM (88.9 FM)
+http://22823.live.streamtheworld.com/FUTUROAAC.aac?csegid=2000&dist=futuro-web-tod-permanente&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=814470b6-efaf-4250-9d91-212941691832
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/okey.png" group-title="Radios Chilenas", FM Okey (89.9 FM)
+https://streaming.fmokey.cl/moviles.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/duna.png" group-title="Radios Chilenas", Duna (89.7 FM)
+https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/nimble-absolute-url-livestream1-edge.m3u8?nimblesessionid=34038428&nimbleabsoluteurl=h9XHUqtqbdd6aUBUk0ZM9FrHNSNP38KJe6pm2TJTt55uDwm2XOhlMkni0UNMIaoOEncUnfuMWe9+vhj0gGyAnyRLfK4qNjOZQLjMmwk4fh8qkM5TZQfEJLOFrZGN+XBo&nimbleurlhash=Ln7+ZBvN3gyd7vNK%2Ffor7A==&nimbleurliv=7I5YRnk+1Y+uK992+gwquA==
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/fm-dos.png" group-title="Radios Chilenas", FM Dos (98.5 FM)
+https://26643.live.streamtheworld.com/FMDOSAAC.aac?csegid=12000&gdpr=0&dist=fmdos_cl-web-live_streaming_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=630ad756-48d6-467b-e5e7-5ebe4449df51
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/tiempo.png" group-title="Radios Chilenas", FM Tiempo (95.9 FM)
+https://jireh-2-hls-audio-cl-isp.dps.live/hls-audio/bfdec2347a82df9cd5d34ffdd11df6f3/fmtiempo/playlist/index1-edge.m3u8?dpssid=b4188427530763ddb77864fb6&sid=ba5t1l1xb2191926632263ddfc85cbe6d&ndvc=0
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/romantica.png" group-title="Radios Chilenas", Romántica (104.1 FM)
+https://jireh-2-hls-audio-cl-isp.dps.live/hls-audio/bfdec2347a82df9cd5d34ffdd11df6f3/romantica/playlist/index1-edge.m3u8?dpssid=b466213937963de2bb363272&sid=ba5t1l1xb4148482687063de2bd7c49aa&ndvc=0
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/imagina.png" group-title="Radios Chilenas", Imagina (88.1 FM)
+https://26673.live.streamtheworld.com/IMAGINA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/armonia.png" group-title="Radios Chilenas", Armonia (106.3 FM)
+http://encoder.armoniaoficina.cl:3032/1.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/universo.png" group-title="Radios Chilenas", Universo (93.7 FM)
+https://unlimited3-cl.dps.live/universo/mp3/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/infinita.png" group-title="Radios Chilenas", Infinita (100.1 FM)
+https://mdstrm.com/audio/639b791cea22540890cd1d8b/live.m3u8?_=1675494650399&dnt=true&player=63ab488f481cc70861bcbc41&uid=ahdlvlt1dQdbvnwLmZBzGfE9V83h21kT&sid=O8UFl6XlZVosfq0VGM6jpzXoIVCwSqSe&pid=tvXJrpIXu8PmKTzEUleSfhQjG3gTAQQh&an=lightning-player&at=web-app&av=v0.0.200&sc=0&ref=www.infinita.cl&res=1366x768
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/radio-paula.png" group-title="Radios Chilenas", Paula (100.5 FM)
+https://hls-audio-cl-1-isp.dps.live/radiopaula/gotardis/audio/now/nimble-absolute-url-livestream1-edge.m3u8?nimblesessionid=34038479&nimbleabsoluteurl=L3IM9XmZh01NYF8JycFX%2FD4FD0idZ8jOlQsGABKUEc1V3T5JI1kFLx7DHGNd0o2rI77BWW1Zs4a5mXpsVZWP0uTeM49SUD0nkv5K+38dhX3t55jd%2FYL4Y+uzyRIiRTEV&nimbleurlhash=tG5o1dDWHL+YfzphZD5cuA==&nimbleurliv=Lw7SBZx7a+H6JB6Ncz7wDA==
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/digital.png" group-title="Radios Chilenas", Digital FM (91.1 FM)
+https://radio.digitalfm.cl:8000/valparaiso1
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/bio-bio.png" group-title="Radios Chilenas", Bio Bio Valparaiso (96.7 FM)
+https://unlimited3-cl.dps.live/biobiovalparaiso/aac/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/agricultura.png" group-title="Radios Chilenas", Agricultura (92.1 FM)
+https://hls-audio-cl-2-isp.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/adn.png" group-title="Radios Chilenas", ADN (91.7 FM)
+https://18163.live.streamtheworld.com/ADNAAC.aac?csegid=12000&gdpr=0&dist=adn_cl-web-live_streaming_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=84263023-e643-4eb0-ab06-16e7a1a5588d
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/cooperativa.png" group-title="Radios Chilenas", Cooperativa (106.7 FM)
+https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/carnaval-vina.png" group-title="Radios Chilenas", Carnaval Viña del Mar (98.1 FM)
+https://sonando-us.digitalproserver.com/carnaval_vinadelmar.aac
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/romantica.png" group-title="Radios Chilenas", Corazón (101.3 FM)
+https://22823.live.streamtheworld.com/CORAZON_SC
