@@ -259,8 +259,14 @@ https://26593.live.streamtheworld.com/LOS40_CHILEAAC.aac?csegid=12000&gdpr=0&dis
 https://26583.live.streamtheworld.com/DISNEY_CHI_SA_SC
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/cooperativa.png" group-title="Radios Chilenas", Radio Cooperativa (106.7 FM)
 https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/o2BwkUJ.png" group-title="Radios Chilenas", Agricultura (92.1 FM)
-http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/radio-activa.png" group-title="Radios Chilenas", Radio Activa (92.5 FM)
+https://24503.live.streamtheworld.com/ACTIVA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/rock-and-pop.png" group-title="Radios Chilenas", Rock and Pop (94.1 FM)
+https://26643.live.streamtheworld.com/ROCK_AND_POP_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/futuro.png" group-title="Radios Chilenas", Futuro FM (88.9 FM)
+http://22823.live.streamtheworld.com/FUTUROAAC.aac?csegid=2000&dist=futuro-web-tod-permanente&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=814470b6-efaf-4250-9d91-212941691832
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/okey.png" group-title="Radios Chilenas", FM Okey (89.9 FM)
+https://streaming.fmokey.cl/moviles.mp3
 
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/5vmrL2q.png" group-title="Radios Chilenas", ADN Radio (91.7 FM)
