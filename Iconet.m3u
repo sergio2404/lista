@@ -250,8 +250,18 @@ http://172.16.18.17:25461/soldecurauma/soldecurauma/195
 #EXTINF:0 type="stream" channelId="3986", Canal 13
 http://172.16.18.17:25461/soldecurauma/soldecurauma/196
 
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/radio-carolina.png" group-title="Radios Chilenas", Carolina (99.3 FM)
+https://jireh-1-hls-audio-cl-isp.dps.live/hls-audio/716888c72e2079612211a7130f67a27d/carolina/playlist/index1-edge.m3u8?dpssid=b435154225163ddbbfc7f9e4&sid=ba5t1l1xb430483361163ddbbfc7f9e1&ndvc=1
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/40-principales.png" group-title="Radios Chilenas", Los 40 Chile (101.7 FM)
+https://26593.live.streamtheworld.com/LOS40_CHILEAAC.aac?csegid=12000&gdpr=0&dist=los40-web-live_streaming_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=eb902b77-e7f5-4aba-c897-0cc2498e235d
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/disney.png" group-title="Radios Chilenas", Radio Disney (95.3 FM)
+https://26583.live.streamtheworld.com/DISNEY_CHI_SA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/cooperativa.png" group-title="Radios Chilenas", Radio Cooperativa (106.7 FM)
+https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/o2BwkUJ.png" group-title="Radios Chilenas", Agricultura (92.1 FM)
 http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
+
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/5vmrL2q.png" group-title="Radios Chilenas", ADN Radio (91.7 FM)
 https://20823.live.streamtheworld.com/ADNAAC.aac
