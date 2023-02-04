@@ -32,26 +32,3 @@ https://hls-audio-cl-1-isp.dps.live/radiopaula/gotardis/audio/now/nimble-absolut
 
 
 
-
-
-
-
-
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Kv80KuJ.png" group-title="Radios Chilenas", Duna (89.7 FM)
-http://unlimited11-cl.dps.live/duna/aac/icecast.audio
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/EwrjuWv.png" group-title="Radios Chilenas", Galaxia (Online)
-http://sscl.denialstream.com:8830/;stream/1.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/zyP5nXz.jpg" group-title="Radios Chilenas", FM Tiempo (95.9 FM)
-http://unlimited11-cl.dps.live/fmtiempo/mp3/icecast.audio
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/oZ5GYYh.png" group-title="Radios Chilenas", Positiva (FM 99.5 Valdivia)
-http://mimix.mercurio.cl:8000/valdivia2
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/qbvBIZd.jpg" group-title="Radios Chilenas", RadioActiva (100.9 FM La Serena)
-https://20833.live.streamtheworld.com/ACTIVA_SC
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/VqhcW5j.png" group-title="Radios Chilenas", Ritoque (107.9 FM Valparaiso)
-http://sonando.us.digitalproserver.com/ritoquefm_aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/qyyij8r.png" group-title="Radios Chilenas", UCV FM (103.5 FM Valparaiso)
-http://sonando.us.digitalproserver.com/ucvradio
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Valparaiso (96.7 FM)
-https://unlimited3-cl.dps.live/biobiovalparaiso/aac/icecast.audio
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/YMzOlVG.png" group-title="Radios Chilenas", Carnaval Viña del Mar (89.9 FM)
-http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
