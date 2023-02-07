@@ -140,7 +140,7 @@ http://45.232.210.1:8062/play/a09h/index.m3u8
 
 
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/radio-carolina.png" group-title="Radios Chilenas", Carolina (99.3 FM)
-https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/637f68ddce4b1208597d8a86/playlist.m3u8?listeningSessionID=63dd929825af2816_271508_arplknSz__0000000AhgU&downloadSessionID=0&aid=53bc2bcae41e2d9c662e1ba7&dnt=true&uid=5CAo1mmnEq4rC3wqX8i3XH1x8X8FoF96&sid=1ZCHDH5hfvVMJjueDDAwsbMC8IkU6aSL&pid=gyzXv5w00sZkT0V73gOmuPWtRZP4kFXs&ref=www.carolina.cl&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1675823262460&ot=jOsf2PM5m1zcHz1kEBz6dA&proto=https&pz=us&cP=128000&awCollectionId=53bc2bcae41e2d9c662e1ba7&aw_0_1st.playerId=lightning-player&liveId=637f68ddce4b1208597d8a86&referer=https%3A%2F%2Fwww.carolina.cl%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.200
+https://mdstrm.com/audio/637f68ddce4b1208597d8a86/live.m3u8?_=1675737119177&dnt=true&player=638e5d2c9cfc240853c4fb83&uid=5CAo1mmnEq4rC3wqX8i3XH1x8X8FoF96&sid=1ZCHDH5hfvVMJjueDDAwsbMC8IkU6aSL&pid=K4UxCohoWilkE3U8FE9zWe3NAwYKBx5K&an=lightning-player&at=web-app&av=v0.0.200&sc=0&ref=www.carolina.cl&res=1366x768
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/40-principales.png" group-title="Radios Chilenas", Los 40 Chile (101.7 FM)
 https://26593.live.streamtheworld.com/LOS40_CHILEAAC.aac?csegid=12000&gdpr=0&dist=los40-web-live_streaming_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=eb902b77-e7f5-4aba-c897-0cc2498e235d
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/disney.png" group-title="Radios Chilenas", Radio Disney (95.3 FM)
