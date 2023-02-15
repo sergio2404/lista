@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="67", TLC
 http://tv.iconex.cl:25461/hd/iconex/243
-#EXTINF:0 type="stream" channelId="3986", Canal 13_HD
+#EXTINF:0 type="stream" channelId="3986", Canal 13 HD
 http://tv.iconex.cl:25461/hd/iconex/353
-#EXTINF:0 type="stream" channelId="3037", CHV_HD
+#EXTINF:0 type="stream" channelId="3037", CHV HD
 http://tv.iconex.cl:25461/hd/iconex/355
-#EXTINF:0 type="stream" channelId="3985", Mega_HD
+#EXTINF:0 type="stream" channelId="3985", Mega HD
 http://tv.iconex.cl:25461/hd/iconex/352
-#EXTINF:0 type="stream" channelId="2344", TVN_HD
+#EXTINF:0 type="stream" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png", TVN HD
 http://tv.iconex.cl:25461/hd/iconex/354
 #EXTINF:0 type="stream" channelId="1745", La Red HD
 http://tv.iconex.cl:25461/hd/iconex/299
