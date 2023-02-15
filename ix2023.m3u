@@ -65,7 +65,7 @@ http://tv.iconex.cl:25461/hd/iconex/316
 http://tv.iconex.cl:25461/hd/iconex/311
 #EXTINF:0 type="stream" channelId="3743", DHE HD
 http://tv.iconex.cl:25461/hd/iconex/242
-#EXTINF:0 type="stream" tvg-logo="https://media.sanoma.fi/sites/default/files/styles/icon_lg/public/2023-01/Star%20channel.png", STAR HD
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR HD
 http://tv.iconex.cl:25461/hd/iconex/307
 #EXTINF:0 type="stream" channelId="2903", Warner HD
 http://tv.iconex.cl:25461/hd/iconex/325
@@ -233,7 +233,7 @@ http://tv.iconex.cl:25461/hd/iconex/221
 http://tv.iconex.cl:25461/hd/iconex/223
 #EXTINF:0 type="stream" channelId="1303", FX
 http://tv.iconex.cl:25461/hd/iconex/228
-#EXTINF:0 type="stream" tvg-logo="https://media.sanoma.fi/sites/default/files/styles/icon_lg/public/2023-01/Star%20channel.png", STAR
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR
 http://tv.iconex.cl:25461/hd/iconex/224
 #EXTINF:0 type="stream" channelId="2557", Warner
 http://tv.iconex.cl:25461/hd/iconex/222
