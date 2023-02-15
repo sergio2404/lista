@@ -1,0 +1,311 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="67", TLC
+http://tv.iconex.cl:25461/hd/iconex/243
+#EXTINF:0 type="stream" channelId="3986", Canal 13_HD
+http://tv.iconex.cl:25461/hd/iconex/353
+#EXTINF:0 type="stream" channelId="3037", CHV_HD
+http://tv.iconex.cl:25461/hd/iconex/355
+#EXTINF:0 type="stream" channelId="3985", Mega_HD
+http://tv.iconex.cl:25461/hd/iconex/352
+#EXTINF:0 type="stream" channelId="2344", TVN_HD
+http://tv.iconex.cl:25461/hd/iconex/354
+#EXTINF:0 type="stream" channelId="1745", La Red HD
+http://tv.iconex.cl:25461/hd/iconex/299
+#EXTINF:0 type="stream" channelId="1278", TV+ HD
+http://tv.iconex.cl:25461/hd/iconex/322
+#EXTINF:0 type="stream" channelId="2724", Discovery H&H HD
+http://tv.iconex.cl:25461/hd/iconex/277
+#EXTINF:0 type="stream" channelId="661", 24 Horas HD
+http://tv.iconex.cl:25461/hd/iconex/271
+#EXTINF:0 type="stream" channelId="152", CNN Chile HD
+http://tv.iconex.cl:25461/hd/iconex/269
+#EXTINF:0 type="stream" channelId="1972", CNN Espanol
+http://tv.iconex.cl:25461/hd/iconex/199
+#EXTINF:0 type="stream" channelId="2883", CNN Internacional
+http://tv.iconex.cl:25461/hd/iconex/338
+#EXTINF:0 type="stream" channelId="1719", Paramount HD
+http://tv.iconex.cl:25461/hd/iconex/304
+#EXTINF:0 type="stream" channelId="361", HBO POP HD
+http://tv.iconex.cl:25461/hd/iconex/296
+#EXTINF:0 type="stream" channelId="1330", HBO HD
+http://tv.iconex.cl:25461/hd/iconex/295
+#EXTINF:0 type="stream" channelId="935", HBO 2
+http://tv.iconex.cl:25461/hd/iconex/211
+#EXTINF:0 type="stream" channelId="2584", HBO Family
+http://tv.iconex.cl:25461/hd/iconex/212
+#EXTINF:0 type="stream" channelId="2587", HBO Xtreme
+http://tv.iconex.cl:25461/hd/iconex/214
+#EXTINF:0 type="stream" channelId="2585", HBO Plus
+http://tv.iconex.cl:25461/hd/iconex/213
+#EXTINF:0 type="stream" channelId="2900", TNT HD
+http://tv.iconex.cl:25461/hd/iconex/318
+#EXTINF:0 type="stream" channelId="3797", TNT Series HD
+http://tv.iconex.cl:25461/hd/iconex/320
+#EXTINF:0 type="stream" channelId="284", Cinecanal HD
+http://tv.iconex.cl:25461/hd/iconex/273
+#EXTINF:0 type="stream" channelId="2888", Cinemax HD
+http://tv.iconex.cl:25461/hd/iconex/274
+#EXTINF:0 type="stream" channelId="3765", Golden Plus HD
+http://tv.iconex.cl:25461/hd/iconex/294
+#EXTINF:0 type="stream" channelId="2502", Golden Edge HD
+http://tv.iconex.cl:25461/hd/iconex/348
+#EXTINF:0 type="stream" channelId="530", Sony HD
+http://tv.iconex.cl:25461/hd/iconex/313
+#EXTINF:0 type="stream" channelId="3317", Universal HD
+http://tv.iconex.cl:25461/hd/iconex/324
+#EXTINF:0 type="stream" channelId="2638", I-Sat
+http://tv.iconex.cl:25461/hd/iconex/218
+#EXTINF:0 type="stream" channelId="2896", Space HD
+http://tv.iconex.cl:25461/hd/iconex/314
+#EXTINF:0 type="stream" channelId="1304", FX HD
+http://tv.iconex.cl:25461/hd/iconex/289
+#EXTINF:0 type="stream" channelId="2147", Studio Universal HD
+http://tv.iconex.cl:25461/hd/iconex/316
+#EXTINF:0 type="stream" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png", Clover HD
+http://tv.iconex.cl:25461/hd/iconex/311
+#EXTINF:0 type="stream" channelId="3743", DHE HD
+http://tv.iconex.cl:25461/hd/iconex/242
+#EXTINF:0 type="stream" tvg-logo="https://media.sanoma.fi/sites/default/files/styles/icon_lg/public/2023-01/Star%20channel.png", STAR HD
+http://tv.iconex.cl:25461/hd/iconex/307
+#EXTINF:0 type="stream" channelId="2903", Warner HD
+http://tv.iconex.cl:25461/hd/iconex/325
+#EXTINF:0 type="stream" channelId="2501", AMC HD
+http://tv.iconex.cl:25461/hd/iconex/265
+#EXTINF:0 type="stream" channelId="1208", A&E
+http://tv.iconex.cl:25461/hd/iconex/219
+#EXTINF:0 type="stream" channelId="2503", A&E HD
+http://tv.iconex.cl:25461/hd/iconex/264
+#EXTINF:0 type="stream" channelId="2246", AXN HD
+http://tv.iconex.cl:25461/hd/iconex/266
+#EXTINF:0 type="stream" channelId="1311", Sun HD
+http://tv.iconex.cl:25461/hd/iconex/317
+#EXTINF:0 type="stream" channelId="1952", De Pelicula
+http://tv.iconex.cl:25461/hd/iconex/334
+#EXTINF:0 type="stream" channelId="1078", NTV HD
+http://tv.iconex.cl:25461/hd/iconex/201
+#EXTINF:0 type="stream" channelId="4020", FunBox
+http://tv.iconex.cl:25461/hd/iconex/344
+#EXTINF:0 type="stream" channelId="2719", Cartoon Network HD
+http://tv.iconex.cl:25461/hd/iconex/272
+#EXTINF:0 type="stream" channelId="2837", Discovery Kids HD
+http://tv.iconex.cl:25461/hd/iconex/279
+#EXTINF:0 type="stream" channelId="2720", Disney HD
+http://tv.iconex.cl:25461/hd/iconex/282
+#EXTINF:0 type="stream" channelId="1197", Disney Jr
+http://tv.iconex.cl:25461/hd/iconex/205
+#EXTINF:0 type="stream" channelId="322", Nick Jr
+http://tv.iconex.cl:25461/hd/iconex/208
+#EXTINF:0 type="stream" channelId="334", Nick HD
+http://tv.iconex.cl:25461/hd/iconex/347
+#EXTINF:0 type="stream" channelId="1305", Cartoonito
+http://tv.iconex.cl:25461/hd/iconex/337
+#EXTINF:0 type="stream" channelId="2639", Tooncast
+http://tv.iconex.cl:25461/hd/iconex/341
+#EXTINF:0 type="stream" channelId="-1", ETC HD
+http://tv.iconex.cl:25461/hd/iconex/329
+#EXTINF:0 type="stream" channelId="1191", Comedy Central HD
+http://tv.iconex.cl:25461/hd/iconex/275
+#EXTINF:0 type="stream" channelId="2636", truTV HD
+http://tv.iconex.cl:25461/hd/iconex/321
+#EXTINF:0 type="stream" channelId="-1", Canal de las Estrellas  HD
+http://tv.iconex.cl:25461/hd/iconex/346
+#EXTINF:0 type="stream" channelId="3713", Hola TV HD
+http://tv.iconex.cl:25461/hd/iconex/345
+#EXTINF:0 type="stream" channelId="-1", Televisa Novelas
+http://tv.iconex.cl:25461/hd/iconex/351
+#EXTINF:0 type="stream" channelId="3782", RCN Novelas
+http://tv.iconex.cl:25461/hd/iconex/233
+#EXTINF:0 type="stream" channelId="-1", Kanal D Drama HD
+http://tv.iconex.cl:25461/hd/iconex/332
+#EXTINF:0 type="stream" channelId="3228", TBS
+http://tv.iconex.cl:25461/hd/iconex/234
+#EXTINF:0 type="stream" channelId="895", TCM
+http://tv.iconex.cl:25461/hd/iconex/235
+#EXTINF:0 type="stream" channelId="1967", Telemundo
+http://tv.iconex.cl:25461/hd/iconex/236
+#EXTINF:0 type="stream" channelId="3209", Univision HD
+http://tv.iconex.cl:25461/hd/iconex/349
+#EXTINF:0 type="stream" channelId="3781", Pasiones HD
+http://tv.iconex.cl:25461/hd/iconex/305
+#EXTINF:0 type="stream" channelId="1456", History HD
+http://tv.iconex.cl:25461/hd/iconex/298
+#EXTINF:0 type="stream" channelId="1202", History 2 HD
+http://tv.iconex.cl:25461/hd/iconex/297
+#EXTINF:0 type="stream" channelId="341", Discovery HD
+http://tv.iconex.cl:25461/hd/iconex/276
+#EXTINF:0 type="stream" channelId="2890", Discovery World HD
+http://tv.iconex.cl:25461/hd/iconex/281
+#EXTINF:0 type="stream" channelId="2558", Discovery Theater HD
+http://tv.iconex.cl:25461/hd/iconex/280
+#EXTINF:0 type="stream" channelId="59", Discovery ID
+http://tv.iconex.cl:25461/hd/iconex/239
+#EXTINF:0 type="stream" channelId="2840", Discovery Turbo
+http://tv.iconex.cl:25461/hd/iconex/240
+#EXTINF:0 type="stream" channelId="59", Discovery ID HD
+http://tv.iconex.cl:25461/hd/iconex/278
+#EXTINF:0 type="stream" channelId="58", Discovery Science
+http://tv.iconex.cl:25461/hd/iconex/335
+#EXTINF:0 type="stream" channelId="1418", HGTV HD
+http://tv.iconex.cl:25461/hd/iconex/342
+#EXTINF:0 type="stream" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.E-Entertainment-Logo.png.48ac164a4fda8a995b93d1917bb2fed2.png", E Entertainment
+http://tv.iconex.cl:25461/hd/iconex/244
+#EXTINF:0 type="stream" channelId="2409", El Trece Internacional
+http://tv.iconex.cl:25461/hd/iconex/339
+#EXTINF:0 type="stream" channelId="3763", Glitz
+http://tv.iconex.cl:25461/hd/iconex/340
+#EXTINF:0 type="stream" channelId="240", Animal Planet HD
+http://tv.iconex.cl:25461/hd/iconex/267
+#EXTINF:0 type="stream" channelId="2035", Love Nature HD
+http://tv.iconex.cl:25461/hd/iconex/303
+#EXTINF:0 type="stream" channelId="310", El Gourmet HD
+http://tv.iconex.cl:25461/hd/iconex/287
+#EXTINF:0 type="stream" channelId="1720", Food Network HD
+http://tv.iconex.cl:25461/hd/iconex/291
+#EXTINF:0 type="stream" channelId="4569", Enlace
+http://tv.iconex.cl:25461/hd/iconex/247
+#EXTINF:0 type="stream" channelId="3745", EsneTV
+http://tv.iconex.cl:25461/hd/iconex/248
+#EXTINF:0 type="stream" channelId="378", TVE
+http://tv.iconex.cl:25461/hd/iconex/249
+#EXTINF:0 type="stream" channelId="143", RT
+http://tv.iconex.cl:25461/hd/iconex/336
+#EXTINF:0 type="stream" channelId="4668", TNT Sports HD
+http://tv.iconex.cl:25461/hd/iconex/319
+#EXTINF:0 type="stream" channelId="4668", TNT Sports 2
+http://tv.iconex.cl:25461/hd/iconex/250
+#EXTINF:0 type="stream" channelId="4668", TNT Sports 3
+http://tv.iconex.cl:25461/hd/iconex/251
+#EXTINF:0 type="stream" channelId="1328", Fox Sports 1 HD
+http://tv.iconex.cl:25461/hd/iconex/292
+#EXTINF:0 type="stream" channelId="179", Fox Sports 2 HD
+http://tv.iconex.cl:25461/hd/iconex/288
+#EXTINF:0 type="stream" channelId="213", Fox Sports 3 HD
+http://tv.iconex.cl:25461/hd/iconex/293
+#EXTINF:0 type="stream" channelId="1263", ESPN Extra HD
+http://tv.iconex.cl:25461/hd/iconex/285
+#EXTINF:0 type="stream" channelId="1263", ESPN HD
+http://tv.iconex.cl:25461/hd/iconex/286
+#EXTINF:0 type="stream" channelId="3746", ESPN 2 HD
+http://tv.iconex.cl:25461/hd/iconex/283
+#EXTINF:0 type="stream" channelId="357", ESPN 3 HD
+http://tv.iconex.cl:25461/hd/iconex/284
+#EXTINF:0 type="stream" channelId="1432", ESPN 4
+http://tv.iconex.cl:25461/hd/iconex/252
+#EXTINF:0 type="stream" channelId="1686", GOL TV
+http://tv.iconex.cl:25461/hd/iconex/259
+#EXTINF:0 type="stream" channelId="3802", TyC Sports
+http://tv.iconex.cl:25461/hd/iconex/260
+#EXTINF:0 type="stream" channelId="4695", Teletrak
+http://tv.iconex.cl:25461/hd/iconex/333
+#EXTINF:0 type="stream" channelId="1973", MTV
+http://tv.iconex.cl:25461/hd/iconex/261
+#EXTINF:0 type="stream" channelId="-1", ViaX
+http://tv.iconex.cl:25461/hd/iconex/262
+#EXTINF:0 type="stream" channelId="4750", Zona Latina
+http://tv.iconex.cl:25461/hd/iconex/263
+#EXTINF:0 type="stream" channelId="152", CNN Chile
+http://tv.iconex.cl:25461/hd/iconex/327
+#EXTINF:0 type="stream" channelId="661", 24 Horas
+http://tv.iconex.cl:25461/hd/iconex/197
+#EXTINF:0 type="stream" channelId="1078", NTV
+http://tv.iconex.cl:25461/hd/iconex/200
+#EXTINF:0 type="stream" channelId="40", Cartoon Network
+http://tv.iconex.cl:25461/hd/iconex/202
+#EXTINF:0 type="stream" channelId="2505", Discovery Kids
+http://tv.iconex.cl:25461/hd/iconex/203
+#EXTINF:0 type="stream" channelId="19", Disney
+http://tv.iconex.cl:25461/hd/iconex/204
+#EXTINF:0 type="stream" channelId="41", Nick
+http://tv.iconex.cl:25461/hd/iconex/209
+#EXTINF:0 type="stream" channelId="1330", HBO
+http://tv.iconex.cl:25461/hd/iconex/210
+#EXTINF:0 type="stream" channelId="1052", TNT
+http://tv.iconex.cl:25461/hd/iconex/215
+#EXTINF:0 type="stream" channelId="64", Cinecanal
+http://tv.iconex.cl:25461/hd/iconex/216
+#EXTINF:0 type="stream" channelId="1326", Cinemax
+http://tv.iconex.cl:25461/hd/iconex/217
+#EXTINF:0 type="stream" channelId="188", Sony
+http://tv.iconex.cl:25461/hd/iconex/220
+#EXTINF:0 type="stream" channelId="187", Universal
+http://tv.iconex.cl:25461/hd/iconex/221
+#EXTINF:0 type="stream" channelId="383", Space
+http://tv.iconex.cl:25461/hd/iconex/223
+#EXTINF:0 type="stream" channelId="1303", FX
+http://tv.iconex.cl:25461/hd/iconex/228
+#EXTINF:0 type="stream" tvg-logo="https://media.sanoma.fi/sites/default/files/styles/icon_lg/public/2023-01/Star%20channel.png", STAR
+http://tv.iconex.cl:25461/hd/iconex/224
+#EXTINF:0 type="stream" channelId="2557", Warner
+http://tv.iconex.cl:25461/hd/iconex/222
+#EXTINF:0 type="stream" channelId="1573", AXN
+http://tv.iconex.cl:25461/hd/iconex/231
+#EXTINF:0 type="stream" channelId="1954", Canal de Las estrellas
+http://tv.iconex.cl:25461/hd/iconex/232
+#EXTINF:0 type="stream" channelId="1455", History
+http://tv.iconex.cl:25461/hd/iconex/238
+#EXTINF:0 type="stream" channelId="57", Discovery
+http://tv.iconex.cl:25461/hd/iconex/237
+#EXTINF:0 type="stream" channelId="2620", Discovery H&H
+http://tv.iconex.cl:25461/hd/iconex/241
+#EXTINF:0 type="stream" channelId="50", Animal Planet
+http://tv.iconex.cl:25461/hd/iconex/245
+#EXTINF:0 type="stream" channelId="56", Nat Geo
+http://tv.iconex.cl:25461/hd/iconex/246
+#EXTINF:0 type="stream" channelId="170", Fox Sport 2
+http://tv.iconex.cl:25461/hd/iconex/253
+#EXTINF:0 type="stream" channelId="180", Fox Sport 3
+http://tv.iconex.cl:25461/hd/iconex/254
+#EXTINF:0 type="stream" channelId="2540", ESPN
+http://tv.iconex.cl:25461/hd/iconex/256
+#EXTINF:0 type="stream" channelId="344", ESPN 2
+http://tv.iconex.cl:25461/hd/iconex/257
+#EXTINF:0 type="stream" channelId="355", ESPN 3
+http://tv.iconex.cl:25461/hd/iconex/258
+#EXTINF:0 type="stream" channelId="207", Nat Geo HD
+http://tv.iconex.cl:25461/hd/iconex/301
+#EXTINF:0 type="stream" channelId="3802", TyC Sports HD
+http://tv.iconex.cl:25461/hd/iconex/350
+
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/radio-carolina.png" group-title="Radios Chilenas", Carolina (99.3 FM)
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?uid=5CAo1mmnEq4rC3wqX8i3XH1x8X8FoF96&sid=vQSC2eaGDeqMIPppVID07c9gwTLoDeMF&pid=UDIJnsV2iP6mwfsukNxFt7e8LeuYmiwW&an=screen&at=web-app&av=v5.2.316&ref=https%3A%2F%2Fwww.carolina.cl%2F&res=0x0&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/40-principales.png" group-title="Radios Chilenas", Los 40 Chile (101.7 FM)
+https://26593.live.streamtheworld.com/LOS40_CHILEAAC.aac?csegid=12000&gdpr=0&dist=los40-web-live_streaming_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=eb902b77-e7f5-4aba-c897-0cc2498e235d
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/disney.png" group-title="Radios Chilenas", Radio Disney (95.3 FM)
+https://26583.live.streamtheworld.com/DISNEY_CHI_SA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/radio-activa.png" group-title="Radios Chilenas", Radio Activa (92.5 FM)
+https://24503.live.streamtheworld.com/ACTIVA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/rock-and-pop.png" group-title="Radios Chilenas", Rock and Pop (94.1 FM)
+https://26643.live.streamtheworld.com/ROCK_AND_POP_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/futuro.png" group-title="Radios Chilenas", Futuro FM (88.9 FM)
+http://22823.live.streamtheworld.com/FUTUROAAC.aac?csegid=2000&dist=futuro-web-tod-permanente&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=814470b6-efaf-4250-9d91-212941691832
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/okey.png" group-title="Radios Chilenas", FM Okey (89.9 FM)
+https://streaming.fmokey.cl/moviles.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/duna.png" group-title="Radios Chilenas", Duna (89.7 FM)
+https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/nimble-absolute-url-livestream1-edge.m3u8?nimblesessionid=34085188&nimbleabsoluteurl=VzCUryVCjfn4%2FHQgUvtsoryvXPfAl08CR+RjQkJkB15Ug4AdgSWHCQr8j%2FOaeb+ov9gPju8lhO4zYMQbFNBwM7CUTNnKYJ9L4XjwBDiw+ZvMgI2BRb025b%2F%2F5A5WJa4e&nimbleurlhash=Q+lKD+leWiLn4+6FHPyI9A==&nimbleurliv=SsFDX5Ehmv35DmMsUjOydg==
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/fm-dos.png" group-title="Radios Chilenas", FM Dos (98.5 FM)
+https://26643.live.streamtheworld.com/FMDOSAAC.aac?csegid=12000&gdpr=0&dist=fmdos_cl-web-live_streaming_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=630ad756-48d6-467b-e5e7-5ebe4449df51
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/romantica.png" group-title="Radios Chilenas", Romántica (104.1 FM)
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/639b78f7ff35df084fa7f964/4Jp13vWPnwv-335147109-5015.aac?listeningSessionID=63dd929825af2816_270108_kWiGy8yM__0000000A3yY&downloadSessionID=0&aid=53bc2bcae41e2d9c662e1ba7&dnt=true&uid=A3Ns2WNIWqcUeudCr0Zs26qGWsKAjW2m&sid=srVtk1q34bsnhioD9PP31f1uOLmzCANp&pid=Y3ybFAEjof0jeyvypo0wqxmP1LynIoFE&ref=www.romantica.cl&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1675821871758&ot=NRmL9dk1HV0uSerE9iBo8w&proto=https&pz=us&cP=128000&awCollectionId=53bc2bcae41e2d9c662e1ba7&aw_0_1st.playerId=lightning-player&liveId=639b78f7ff35df084fa7f964&referer=https%3A%2F%2Fwww.romantica.cl%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.200
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/imagina.png" group-title="Radios Chilenas", Imagina (88.1 FM)
+https://26673.live.streamtheworld.com/IMAGINA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/armonia.png" group-title="Radios Chilenas", Armonia (106.3 FM)
+http://encoder.armoniaoficina.cl:3032/1.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/universo.png" group-title="Radios Chilenas", Universo (93.7 FM)
+https://unlimited3-cl.dps.live/universo/mp3/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/infinita.png" group-title="Radios Chilenas", Infinita (100.1 FM)
+https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/639b791cea22540890cd1d8b/4vp3ov83qGU-335147143-5015.aac?listeningSessionID=63dd929825af2816_270388_Z0yqQvKF__0000000A6pq&downloadSessionID=0&aid=53bc2bcae41e2d9c662e1ba7&dnt=true&uid=AJligDatiCZv2hzbc1UC8OF8NhQQbWVb&sid=AfIOeaDa7dOJd7i21FAmFnBO30KYKMvl&pid=bvvsvVOozccAzitAoLexz6HGYopUYEvX&ref=www.infinita.cl&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1675822150998&ot=aF8wEqPB5TRzm2d_HFSk1Q&proto=https&pz=us&cP=128000&awCollectionId=53bc2bcae41e2d9c662e1ba7&aw_0_1st.playerId=lightning-player&liveId=639b791cea22540890cd1d8b&referer=https%3A%2F%2Fwww.infinita.cl%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.200
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/digital.png" group-title="Radios Chilenas", Digital FM (91.1 FM)
+https://radio.digitalfm.cl:8000/valparaiso1
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/bio-bio.png" group-title="Radios Chilenas", Bio Bio Valparaiso (96.7 FM)
+https://unlimited3-cl.dps.live/biobiovalparaiso/aac/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/agricultura.png" group-title="Radios Chilenas", Agricultura (92.1 FM)
+https://hls-audio-cl-2-isp.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/adn.png" group-title="Radios Chilenas", ADN (91.7 FM)
+https://18163.live.streamtheworld.com/ADNAAC.aac?csegid=12000&gdpr=0&dist=adn_cl-web-live_streaming_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=84263023-e643-4eb0-ab06-16e7a1a5588d
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/cooperativa.png" group-title="Radios Chilenas", Cooperativa (106.7 FM)
+https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/carnaval-vina.png" group-title="Radios Chilenas", Carnaval Viña del Mar (98.1 FM)
+https://sonando-us.digitalproserver.com/carnaval_vinadelmar.aac
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/romantica.png" group-title="Radios Chilenas", Corazón (101.3 FM)
+https://22823.live.streamtheworld.com/CORAZON_SC
