@@ -153,20 +153,16 @@ https://26643.live.streamtheworld.com/ROCK_AND_POP_SC
 http://22823.live.streamtheworld.com/FUTUROAAC.aac?csegid=2000&dist=futuro-web-tod-permanente&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=814470b6-efaf-4250-9d91-212941691832
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/okey.png" group-title="Radios Chilenas", FM Okey (89.9 FM)
 https://streaming.fmokey.cl/moviles.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/duna.png" group-title="Radios Chilenas", Duna (89.7 FM)
-https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/nimble-absolute-url-livestream1-edge.m3u8?nimblesessionid=34085188&nimbleabsoluteurl=VzCUryVCjfn4%2FHQgUvtsoryvXPfAl08CR+RjQkJkB15Ug4AdgSWHCQr8j%2FOaeb+ov9gPju8lhO4zYMQbFNBwM7CUTNnKYJ9L4XjwBDiw+ZvMgI2BRb025b%2F%2F5A5WJa4e&nimbleurlhash=Q+lKD+leWiLn4+6FHPyI9A==&nimbleurliv=SsFDX5Ehmv35DmMsUjOydg==
+#EXTINF:-1 radio="true" tvg-logo="https://crop-platform-static.cdn.mdstrm.com/show/images/5c58a34e176c2c0813b22e4b_634ee7f46c22b808668425ea_1666115574666.jpg?w=400&h=400&fit=crop&crop=entropy&crop=faces" group-title="Radios Chilenas", Play FM (100.9 FM)
+https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/live.m3u8?_=1676855005331&dnt=true&player=6346e8b725bf4b08af242bfb&uid=2DeGWmpIxZMTUYynYdXdX5if5jjx8lkR&sid=b3WFpsImhDClI6r1UhqF00YKHXvxkjqL&pid=anJ5dxVJOhI7PSv7fpKtoRh8116GLecW&an=play-fm-app-web&at=web-app&av=vv0.1.4&sc=0&ds=5d28c78c1d9ef1550f8583c6&ref=playfm.cl&res=1366x768
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/fm-dos.png" group-title="Radios Chilenas", FM Dos (98.5 FM)
 https://26643.live.streamtheworld.com/FMDOSAAC.aac?csegid=12000&gdpr=0&dist=fmdos_cl-web-live_streaming_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=630ad756-48d6-467b-e5e7-5ebe4449df51
-#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/romantica.png" group-title="Radios Chilenas", Romántica (104.1 FM)
-https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/639b78f7ff35df084fa7f964/4Jp13vWPnwv-335147109-5015.aac?listeningSessionID=63dd929825af2816_270108_kWiGy8yM__0000000A3yY&downloadSessionID=0&aid=53bc2bcae41e2d9c662e1ba7&dnt=true&uid=A3Ns2WNIWqcUeudCr0Zs26qGWsKAjW2m&sid=srVtk1q34bsnhioD9PP31f1uOLmzCANp&pid=Y3ybFAEjof0jeyvypo0wqxmP1LynIoFE&ref=www.romantica.cl&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1675821871758&ot=NRmL9dk1HV0uSerE9iBo8w&proto=https&pz=us&cP=128000&awCollectionId=53bc2bcae41e2d9c662e1ba7&aw_0_1st.playerId=lightning-player&liveId=639b78f7ff35df084fa7f964&referer=https%3A%2F%2Fwww.romantica.cl%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.200
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/imagina.png" group-title="Radios Chilenas", Imagina (88.1 FM)
 https://26673.live.streamtheworld.com/IMAGINA_SC
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/armonia.png" group-title="Radios Chilenas", Armonia (106.3 FM)
 http://encoder.armoniaoficina.cl:3032/1.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/universo.png" group-title="Radios Chilenas", Universo (93.7 FM)
 https://unlimited3-cl.dps.live/universo/mp3/icecast.audio
-#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/infinita.png" group-title="Radios Chilenas", Infinita (100.1 FM)
-https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/639b791cea22540890cd1d8b/4vp3ov83qGU-335147143-5015.aac?listeningSessionID=63dd929825af2816_270388_Z0yqQvKF__0000000A6pq&downloadSessionID=0&aid=53bc2bcae41e2d9c662e1ba7&dnt=true&uid=AJligDatiCZv2hzbc1UC8OF8NhQQbWVb&sid=AfIOeaDa7dOJd7i21FAmFnBO30KYKMvl&pid=bvvsvVOozccAzitAoLexz6HGYopUYEvX&ref=www.infinita.cl&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1675822150998&ot=aF8wEqPB5TRzm2d_HFSk1Q&proto=https&pz=us&cP=128000&awCollectionId=53bc2bcae41e2d9c662e1ba7&aw_0_1st.playerId=lightning-player&liveId=639b791cea22540890cd1d8b&referer=https%3A%2F%2Fwww.infinita.cl%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.200
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/digital.png" group-title="Radios Chilenas", Digital FM (91.1 FM)
 https://radio.digitalfm.cl:8000/valparaiso1
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/bio-bio.png" group-title="Radios Chilenas", Bio Bio Valparaiso (96.7 FM)
