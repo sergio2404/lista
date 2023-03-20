@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1,24 Horas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/24h.jpg", 24 Horas
 http://45.232.210.1:8062/play/a08l/index.m3u8
-#EXTINF:-1,AE Mundo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/ae.jpg", AE Mundo
 http://45.232.210.1:8062/play/a08y/index.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/aplanet.jpg", Animal Planet
 http://45.232.210.1:8062/play/a08p/index.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/axn.jpg", AXN
 http://45.232.210.1:8062/play/a0b6/index.m3u8
-#EXTINF:-1,Canal 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/c13.jpg", Canal 13
 http://45.232.210.1:8062/play/a088/index.m3u8
-#EXTINF:-1,Canal de Las estrellas
-http://45.232.210.1:8062/play/a093/index.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/cn.jpg", Cartoon Network
 http://45.232.210.1:8062/play/a09m/index.m3u8
-#EXTINF:-1,CDF Basico
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tntsport.jpg", TNT Sports 3
 http://45.232.210.1:8062/play/a08x/index.m3u8
 #EXTINF:-1,CDF HD
 http://45.232.210.1:8062/play/a05l/index.m3u8
