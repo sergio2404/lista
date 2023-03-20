@@ -13,13 +13,13 @@ http://45.232.210.1:8062/play/a088/index.m3u8
 http://45.232.210.1:8062/play/a09m/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tntsport.jpg", TNT Sports 3
 http://45.232.210.1:8062/play/a08x/index.m3u8
-#EXTINF:-1,CDF HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tntsporthd.jpg", TNT Sports HD
 http://45.232.210.1:8062/play/a05l/index.m3u8
-#EXTINF:-1,CDF PREMIUM
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tntsport.jpg", TNT Sports 2
 http://45.232.210.1:8062/play/a08a/index.m3u8
-#EXTINF:-1,CHV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/chv.jpg", CHV
 http://45.232.210.1:8062/play/a087/index.m3u8
-#EXTINF:-1,CHV HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/chv.jpg", CHV HD
 http://45.232.210.1:8062/play/a07d/index.m3u8
 #EXTINF:-1,Cinecanal
 http://45.232.210.1:8062/play/a09c/index.m3u8
