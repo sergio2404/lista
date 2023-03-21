@@ -109,7 +109,7 @@ http://45.232.210.1:8062/play/a092/index.m3u8
 http://45.232.210.1:8062/play/a08q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tnt.jpg" group-title="HD", TNT HD
 http://45.232.210.1:8062/play/tnthd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/c13" group-title="HD", CANAL 13 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/c13.jpg" group-title="HD", CANAL 13 HD
 http://45.232.210.1:8062/play/a07g/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/mega.jpg" group-title="HD", MEGA HD
 http://45.232.210.1:8062/play/a07f/index.m3u8
