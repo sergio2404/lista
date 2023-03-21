@@ -47,7 +47,7 @@ http://45.232.210.1:8062/play/a091/index.m3u8
 http://45.232.210.1:8062/play/a09d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/wbtv.jpg" group-title="SD", Warner
 http://45.232.210.1:8062/play/a08q/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/ae.jpg" group-title="SD", AE Mundo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/a&e.jpg" group-title="SD", AE Mundo
 http://45.232.210.1:8062/play/a08y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/aplanet.jpg" group-title="SD", Animal Planet
 http://45.232.210.1:8062/play/a08p/index.m3u8
