@@ -1,139 +1,127 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/24h.jpg", 24 Horas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/24h.jpg" group-title="SD", 24 Horas
 http://45.232.210.1:8062/play/a08l/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/ae.jpg", AE Mundo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/ae.jpg" group-title="SD", AE Mundo
 http://45.232.210.1:8062/play/a08y/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/aplanet.jpg", Animal Planet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/aplanet.jpg" group-title="SD", Animal Planet
 http://45.232.210.1:8062/play/a08p/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/axn.jpg", AXN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/axn.jpg" group-title="SD", AXN
 http://45.232.210.1:8062/play/a0b6/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/c13.jpg", Canal 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/c13.jpg" group-title="SD", Canal 13
 http://45.232.210.1:8062/play/a088/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/cn.jpg", Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/cn.jpg" group-title="SD", Cartoon Network
 http://45.232.210.1:8062/play/a09m/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tntsport.jpg", TNT Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tntsport.jpg" group-title="SD", TNT Sports 3
 http://45.232.210.1:8062/play/a08x/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tntsporthd.jpg", TNT Sports HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tntsporthd.jpg" group-title="HD", TNT Sports HD
 http://45.232.210.1:8062/play/a05l/index.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tntsport.jpg", TNT Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tntsport.jpg" group-title="SD", TNT Sports 2
 http://45.232.210.1:8062/play/a08a/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/chv.jpg", CHV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/chv.jpg" group-title="SD", CHV
 http://45.232.210.1:8062/play/a087/index.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/chv.jpg", CHV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/chv.jpg" group-title="HD", CHV HD
 http://45.232.210.1:8062/play/a07d/index.m3u8
-#EXTINF:-1,Cinecanal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/ccanal.jpg" group-title="SD", Cinecanal
 http://45.232.210.1:8062/play/a09c/index.m3u8
-#EXTINF:-1,Cinemax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/cmax.jpg" group-title="SD", Cinemax
 http://45.232.210.1:8062/play/a0b4/index.m3u8
-#EXTINF:-1,CNN Chile
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/cnnch.jpg" group-title="SD", CNN Chile
 http://45.232.210.1:8062/play/a09j/index.m3u8
-#EXTINF:-1,CNN Espanol
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/cnnes.jpg" group-title="SD", CNN Espanol
 http://45.232.210.1:8062/play/a083/index.m3u8
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/discovery.jpg" group-title="SD", Discovery Channel
 http://45.232.210.1:8062/play/a08o/index.m3u8
-#EXTINF:-1,Discovery ID
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/id.jpg" group-title="SD", Discovery ID
 http://45.232.210.1:8062/play/a09v/index.m3u8
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/dkids.jpg" group-title="SD", Discovery Kids
 http://45.232.210.1:8062/play/a082/index.m3u8
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/dturbo.jpg" group-title="SD", Discovery Turbo
 http://45.232.210.1:8062/play/a0bh/index.m3u8
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/disney.jpg" group-title="SD", Disney Channel
 http://45.232.210.1:8062/play/a08n/index.m3u8
-#EXTINF:-1,Disney Jr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/disneyjr.jpg" group-title="SD", Disney Jr
 http://45.232.210.1:8062/play/a08j/index.m3u8
-#EXTINF:-1,E Entertainment
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/e!.jpg" group-title="SD", E Entertainment
 http://45.232.210.1:8062/play/a08r/index.m3u8
-#EXTINF:-1,Enlace
-http://45.232.210.1:8062/play/a09r/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/espn.jpg" group-title="SD", ESPN
 http://45.232.210.1:8062/play/a08t/index.m3u8
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/espn2.jpg" group-title="SD", ESPN 2
 http://45.232.210.1:8062/play/a08u/index.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/espn3.jpg" group-title="SD", ESPN 3
 http://45.232.210.1:8062/play/a0bj/index.m3u8
-#EXTINF:-1,Fox Channel
-http://45.232.210.1:8062/play/a09e/index.m3u8
-#EXTINF:-1,HBO
-http://45.232.210.1:8062/play/a0b3/index.m3u8
-#EXTINF:-1,HBO 2
-http://45.232.210.1:8062/play/a08f/index.m3u8
-#EXTINF:-1,HBO Family
-http://45.232.210.1:8062/play/a08i/index.m3u8
-#EXTINF:-1,HBO Plus
-http://45.232.210.1:8062/play/a08g/index.m3u8
-#EXTINF:-1,Fox Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/espn4.jpg" group-title="SD", ESPN 4
 http://45.232.210.1:8062/play/a08s/index.m3u8
-#EXTINF:-1,History Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/starch.jpg" group-title="SD", Star Channel
+http://45.232.210.1:8062/play/a09e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/hbo.jpg" group-title="SD", HBO
+http://45.232.210.1:8062/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/hbo2.jpg" group-title="SD", HBO 2
+http://45.232.210.1:8062/play/a08f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/hbof.jpg" group-title="SD", HBO Family
+http://45.232.210.1:8062/play/a08i/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/hbo+.jpg" group-title="SD", HBO Plus
+http://45.232.210.1:8062/play/a08g/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/history.jpg" group-title="SD", History Channel
 http://45.232.210.1:8062/play/a09b/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://45.232.210.1:8062/play/a094/index.m3u8
-#EXTINF:-1,Home and Health
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/h&h.jpg" group-title="SD", Home and Health
 http://45.232.210.1:8062/play/a09z/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://45.232.210.1:8062/play/a095/index.m3u8
-#EXTINF:-1,I-Sat
-http://45.232.210.1:8062/play/a09f/index.m3u8
-#EXTINF:-1,Fox Sports Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/foxsport1.jpg" group-title="SD", Fox Sports Premium
 http://45.232.210.1:8062/play/a08b/index.m3u8
-#EXTINF:-1,La Red
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/foxsport2.jpg" group-title="SD", Fox Sports 2
+http://45.232.210.1:8062/play/a094/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/foxsport3.jpg" group-title="SD", Fox Sports 3
+http://45.232.210.1:8062/play/a095/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/lared.jpg" group-title="HD", La Red HD
 http://45.232.210.1:8062/play/a084/index.m3u8
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/fx.jpg" group-title="SD", FX
 http://45.232.210.1:8062/play/a0b8/index.m3u8
-#EXTINF:-1,Max Prime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/hboxt.jpg" group-title="SD", HBO Xtreme
 http://45.232.210.1:8062/play/a08h/index.m3u8
-#EXTINF:-1,Mega
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/mega.jpg" group-title="SD", Mega
 http://45.232.210.1:8062/play/a086/index.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/mtv.jpg" group-title="SD", MTV
 http://45.232.210.1:8062/play/a09g/index.m3u8
-#EXTINF:-1,Nat Geo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/natgeo.jpg" group-title="SD", Nat Geo
 http://45.232.210.1:8062/play/a09a/index.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/nickjr.jpg" group-title="SD", Nick Jr
 http://45.232.210.1:8062/play/a0bg/index.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/nickelodeon.jpg" group-title="SD", Nickelodeon
 http://45.232.210.1:8062/play/a098/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://45.232.210.1:8062/play/a09u/index.m3u8
-#EXTINF:-1,Sin Limites
-http://45.232.210.1:8062/play/a0a9/index.m3u8
-#EXTINF:-1,Sony
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/sonychannel.jpg" group-title="SD", Sony
 http://45.232.210.1:8062/play/a0b5/index.m3u8
-#EXTINF:-1,Space
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/space.jpg" group-title="SD", Space
 http://45.232.210.1:8062/play/a0b7/index.m3u8
-#EXTINF:-1,TBS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tbs.jpg" group-title="SD", TBS
 http://45.232.210.1:8062/play/a09y/index.m3u8
-#EXTINF:-1,TCM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tcm.jpg" group-title="SD", TCM
 http://45.232.210.1:8062/play/a09k/index.m3u8
-#EXTINF:-1,Telemundo
-http://45.232.210.1:8062/play/a096/index.m3u8
-#EXTINF:-1,TNT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tnt.jpg" group-title="SD", TNT
 http://45.232.210.1:8062/play/a09n/index.m3u8
-#EXTINF:-1,Travel and Living
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tlc.jpg" group-title="SD", TLC
 http://45.232.210.1:8062/play/a091/index.m3u8
-#EXTINF:-1,TVE
-http://45.232.210.1:8062/play/a09s/index.m3u8
-#EXTINF:-1,TVN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tvn.jpg" group-title="SD", TVN
 http://45.232.210.1:8062/play/a085/index.m3u8
-#EXTINF:-1,Universal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/universal.jpg" group-title="SD", Universal
 http://45.232.210.1:8062/play/a09d/index.m3u8
-#EXTINF:-1,ViaX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/viax.jpg" group-title="SD", ViaX
 http://45.232.210.1:8062/play/a092/index.m3u8
-#EXTINF:-1,Warner
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/wbtv.jpg" group-title="SD", Warner
 http://45.232.210.1:8062/play/a08q/index.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tnt.jpg" group-title="HD", TNT HD
 http://45.232.210.1:8062/play/tnthd/index.m3u8
-#EXTINF:-1,CANAL 13 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/c13" group-title="HD", CANAL 13 HD
 http://45.232.210.1:8062/play/a07g/index.m3u8
-#EXTINF:-1,MEGA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/mega.jpg" group-title="HD", MEGA HD
 http://45.232.210.1:8062/play/a07f/index.m3u8
-#EXTINF:-1,LA RED HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/lared.jpg" group-title="HD", LA RED HD
 http://45.232.210.1:8062/play/a07e/index.m3u8
-#EXTINF:-1,NTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/ntv.jpg" group-title="SD", NTV
 http://45.232.210.1:8062/play/a0cl/index.m3u8
-#EXTINF:-1,TVEDUCA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tveduca.jpg" group-title="SD", TVEDUCA
 http://45.232.210.1:8062/play/a0c9/index.m3u8
-#EXTINF:-1,UCV
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tv+.jpg" group-title="SD", TV+
 http://45.232.210.1:8062/play/a07k/index.m3u8
-#EXTINF:-1,Zona Latina
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/zl.jpg" group-title="SD", Zona Latina
 http://45.232.210.1:8062/play/a09h/index.m3u8
 
 
