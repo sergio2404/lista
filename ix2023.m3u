@@ -15,8 +15,6 @@ http://tv.iconex.cl:25461/hd/iconex/299
 http://tv.iconex.cl:25461/hd/iconex/322
 #EXTINF:0 type="stream" channelId="2724", Discovery H&H HD
 http://tv.iconex.cl:25461/hd/iconex/277
-#EXTINF:0 type="stream" channelId="3986", Canal 13.2 HD
-https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="661", 24 Horas HD
 http://tv.iconex.cl:25461/hd/iconex/271
 #EXTINF:0 type="stream" channelId="152", CNN Chile HD
