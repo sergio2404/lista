@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-chno="21" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Nuevo en Pluto TV" , NCIS
+#EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-chno="21" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/ncis.jpg" group-title="Nuevo en Pluto TV" , NCIS
 https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/c13.jpg" group-title="SD", Canal 13
 http://45.232.210.1:8062/play/a088/index.m3u8
