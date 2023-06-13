@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
+#EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-chno="21" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Nuevo en Pluto TV" , NCIS
+https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Películas" , Pluto TV Cine Acción
 https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Películas" , Pluto TV Cine Comedia
@@ -277,8 +279,6 @@ https://i.mjh.nz/PlutoTV/63eb907651f5d000085e4778-alt.m3u8
 https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63eb93a1c111bc0008fe6f5b" tvg-id="63eb93a1c111bc0008fe6f5b" tvg-chno="25" tvg-logo="https://images.pluto.tv/channels/63eb93a1c111bc0008fe6f5b/colorLogoPNG.png" group-title="Nuevo en Pluto TV" , Beverly Hills 90210
 https://i.mjh.nz/PlutoTV/63eb93a1c111bc0008fe6f5b-alt.m3u8
-#EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-chno="21" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Nuevo en Pluto TV" , NCIS
-https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-chno="24" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="Nuevo en Pluto TV" , MacGyver
 https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-chno="420" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="Deportes" , ITV Deportes
