@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Playboy HD
+http://45.4.3.75:7700/play/a00t
+#EXTINF:-1,Playboy
+http://45.4.3.75:8005/play/a08b
+#EXTINF:-1,Sextreme
+http://45.4.3.75:8005/play/a04k
+#EXTINF:-1,Venus
+http://45.4.3.75:8005/play/a04l
