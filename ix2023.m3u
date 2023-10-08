@@ -2,13 +2,13 @@
 #EXTINF:0 type="stream" channelId="67", TLC
 http://tv.iconex.cl:25461/hd/iconex/243
 #EXTINF:0 type="stream" channelId="3986", Canal 13 HD
-http://tv.iconex.cl:25461/hd/iconex/353
+http://45.232.210.1:8062/play/a088/index.m3u8
 #EXTINF:0 type="stream" channelId="3037", CHV HD
-http://tv.iconex.cl:25461/hd/iconex/355
+http://45.232.210.1:8062/play/a087/index.m3u8
 #EXTINF:0 type="stream" channelId="3985", Mega HD
-http://tv.iconex.cl:25461/hd/iconex/352
+http://45.232.210.1:8062/play/a086/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotipo_de_TVN_HD_%282016-2020%29.png/800px-Logotipo_de_TVN_HD_%282016-2020%29.png", TVN HD
-http://tv.iconex.cl:25461/hd/iconex/354
+http://45.232.210.1:8062/play/a085/index.m3u8
 #EXTINF:0 type="stream" channelId="1745", La Red HD
 http://tv.iconex.cl:25461/hd/iconex/299
 #EXTINF:0 type="stream" channelId="1278", TV+ HD
