@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="67", TLC
-http://tv.iconex.cl:25461/hd/iconex/243
+http://tv.iconex.cl:25461/hd/iconex/343
 #EXTINF:0 type="stream" channelId="3986", Canal 13 HD
-http://45.232.210.1:8062/play/a088/index.m3u8
+http://tv.iconex.cl:25461/hd/iconex/270
 #EXTINF:0 type="stream" channelId="3037", CHV HD
-http://45.232.210.1:8062/play/a087/index.m3u8
+http://tv.iconex.cl:25461/hd/iconex/268
 #EXTINF:0 type="stream" channelId="3985", Mega HD
-http://45.232.210.1:8062/play/a086/index.m3u8
+http://tv.iconex.cl:25461/hd/iconex/300
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotipo_de_TVN_HD_%282016-2020%29.png/800px-Logotipo_de_TVN_HD_%282016-2020%29.png", TVN HD
-http://45.232.210.1:8062/play/a085/index.m3u8
+http://tv.iconex.cl:25461/hd/iconex/363
 #EXTINF:0 type="stream" channelId="1745", La Red HD
 http://tv.iconex.cl:25461/hd/iconex/299
 #EXTINF:0 type="stream" channelId="1278", TV+ HD
@@ -39,8 +39,8 @@ http://tv.iconex.cl:25461/hd/iconex/214
 http://tv.iconex.cl:25461/hd/iconex/213
 #EXTINF:0 type="stream" channelId="2900", TNT HD
 http://tv.iconex.cl:25461/hd/iconex/318
-#EXTINF:0 type="stream" channelId="3797", TNT Series HD
-http://tv.iconex.cl:25461/hd/iconex/320
+#EXTINF:0 type="stream" channelId="1304", FX HD
+http://tv.iconex.cl:25461/hd/iconex/289
 #EXTINF:0 type="stream" channelId="284", Cinecanal HD
 http://tv.iconex.cl:25461/hd/iconex/273
 #EXTINF:0 type="stream" channelId="2888", Cinemax HD
@@ -57,18 +57,20 @@ http://tv.iconex.cl:25461/hd/iconex/324
 http://tv.iconex.cl:25461/hd/iconex/218
 #EXTINF:0 type="stream" channelId="2896", Space HD
 http://tv.iconex.cl:25461/hd/iconex/314
-#EXTINF:0 type="stream" channelId="1304", FX HD
-http://tv.iconex.cl:25461/hd/iconex/289
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/800px-Star_Channel_2021.png", STAR HD
+http://tv.iconex.cl:25461/hd/iconex/307
+#EXTINF:0 type="stream" channelId="2903", Warner HD
+http://tv.iconex.cl:25461/hd/iconex/325
+#EXTINF:0 type="stream" channelId="3077", Kanal D Drama HD
+http://tv.iconex.cl:25461/hd/iconex/332
+#EXTINF:0 type="stream" channelId="3797", TNT Series HD
+http://tv.iconex.cl:25461/hd/iconex/320
 #EXTINF:0 type="stream" channelId="2147", Studio Universal HD
 http://tv.iconex.cl:25461/hd/iconex/316
 #EXTINF:0 type="stream" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png", Clover HD
 http://tv.iconex.cl:25461/hd/iconex/311
 #EXTINF:0 type="stream" channelId="3743", DHE HD
 http://tv.iconex.cl:25461/hd/iconex/242
-#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/800px-Star_Channel_2021.png", STAR HD
-http://tv.iconex.cl:25461/hd/iconex/307
-#EXTINF:0 type="stream" channelId="2903", Warner HD
-http://tv.iconex.cl:25461/hd/iconex/325
 #EXTINF:0 type="stream" channelId="2501", AMC HD
 http://tv.iconex.cl:25461/hd/iconex/265
 #EXTINF:0 type="stream" channelId="1208", A&E
@@ -115,8 +117,8 @@ http://tv.iconex.cl:25461/hd/iconex/345
 http://tv.iconex.cl:25461/hd/iconex/351
 #EXTINF:0 type="stream" channelId="3782", RCN Novelas
 http://tv.iconex.cl:25461/hd/iconex/233
-#EXTINF:0 type="stream" channelId="-1", Kanal D Drama HD
-http://tv.iconex.cl:25461/hd/iconex/332
+#EXTINF:0 type="stream" channelId="-1", TNT Novelas
+http://tv.iconex.cl:25461/hd/iconex/234
 #EXTINF:0 type="stream" channelId="3228", TBS
 http://tv.iconex.cl:25461/hd/iconex/234
 #EXTINF:0 type="stream" channelId="895", TCM
