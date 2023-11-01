@@ -167,3 +167,10 @@ https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
 https://sonando-us.digitalproserver.com/carnaval_vinadelmar.aac
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/corazon.jpg" group-title="Radios Chilenas", Corazón (101.3 FM)
 https://22823.live.streamtheworld.com/CORAZON_SC
+
+#EXTINF:-1,VENUS
+http://190.149.66.90:4000/play/a02p/index.m3u8
+#EXTINF:-1,Playboy HD
+http://190.187.247.206:17070/play/a08f/index.m3u8
+#EXTINF:-1,Sextreme
+http://190.187.247.206:17070/play/a0cw/index.m3u8
