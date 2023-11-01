@@ -130,6 +130,17 @@ http://45.232.210.1:8062/play/a09h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/carolina.jpg" group-title="SD", Carolina (VIDEO)
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?uid=5CAo1mmnEq4rC3wqX8i3XH1x8X8FoF96&sid=vQSC2eaGDeqMIPppVID07c9gwTLoDeMF&pid=UDIJnsV2iP6mwfsukNxFt7e8LeuYmiwW&an=screen&at=web-app&av=v5.2.316&ref=https%3A%2F%2Fwww.carolina.cl%2F&res=0x0&without_cookies=false&listenerid=&dnt=true
 
+#EXTINF:-1,1040_MX PRIME
+http://45.191.196.10:8000/play/a004
+#EXTINF:-1,1050_MX FAMILY
+http://45.191.196.10:8000/play/a005
+#EXTINF:-1,1060_MX CLASIC
+http://45.191.196.10:8000/play/a006
+#EXTINF:-1,1061_MX SERIES
+http://45.191.196.10:8000/play/a01k
+#EXTINF:-1,A42-G-MoviePLAY
+http://200.114.68.133:8999/play/a0ss/index.m3u8
+
 
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/carolina.jpg" group-title="Radios Chilenas", Carolina (99.3 FM)
 https://mdstrm.com/audio/637f68ddce4b1208597d8a86/live.m3u8?_=1680990615481&dnt=true&player=638e5d2c9cfc240853c4fb83&uid=5CAo1mmnEq4rC3wqX8i3XH1x8X8FoF96&sid=3J2b7x4wowMKel0b6YuTlQlnxhWvHXyc&pid=mtoKSizmA1I5tkpRz9oFdEcoWFP682mB&an=lightning-player&at=web-app&av=vv0.1.4&sc=0&ref=www.carolina.cl&res=1366x768
@@ -167,21 +178,3 @@ https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
 https://sonando-us.digitalproserver.com/carnaval_vinadelmar.aac
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/corazon.jpg" group-title="Radios Chilenas", Corazón (101.3 FM)
 https://22823.live.streamtheworld.com/CORAZON_SC
-
-#EXTINF:-1,VENUS
-http://190.149.66.90:4000/play/a02p/index.m3u8
-#EXTINF:-1,Playboy HD
-http://190.187.247.206:17070/play/a08f/index.m3u8
-#EXTINF:-1,Sextreme
-http://190.187.247.206:17070/play/a0cw/index.m3u8
-
-#EXTINF:-1,1040_MX PRIME
-http://45.191.196.10:8000/play/a004
-#EXTINF:-1,1050_MX FAMILY
-http://45.191.196.10:8000/play/a005
-#EXTINF:-1,1060_MX CLASIC
-http://45.191.196.10:8000/play/a006
-#EXTINF:-1,1061_MX SERIES
-http://45.191.196.10:8000/play/a01k
-#EXTINF:-1,A42-G-MoviePLAY
-http://200.114.68.133:8999/play/a0ss/index.m3u8
