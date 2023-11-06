@@ -138,8 +138,15 @@ http://45.191.196.10:8000/play/a005
 http://45.191.196.10:8000/play/a006
 #EXTINF:-1,1061_MX SERIES
 http://45.191.196.10:8000/play/a01k
-#EXTINF:-1,A42-G-MoviePLAY
-http://200.114.68.133:8999/play/a0ss/index.m3u8
+
+#EXTINF:-1,FANPOP
+http://160.20.165.246:8000/play/a01g/index.m3u8
+
+#EXTINF:-1,FMHFAMILY
+http://160.20.165.246:8000/play/a01j/index.m3u8
+
+#EXTINF:-1,FMHKIDS
+http://160.20.165.246:8000/play/a01f/index.m3u8
 
 
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/carolina.jpg" group-title="Radios Chilenas", Carolina (99.3 FM)
