@@ -160,7 +160,7 @@ https://24503.live.streamtheworld.com/ACTIVA_SC
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/rock.jpg" group-title="Radios Chilenas", Rock and Pop (94.1 FM)
 https://26643.live.streamtheworld.com/ROCK_AND_POP_SC
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/futuro.jpg" group-title="Radios Chilenas", Futuro FM (88.9 FM)
-http://22823.live.streamtheworld.com/FUTUROAAC.aac?csegid=2000&dist=futuro-web-tod-permanente&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=814470b6-efaf-4250-9d91-212941691832
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/ok.jpg" group-title="Radios Chilenas", FM Okey (89.9 FM)
 https://streaming.fmokey.cl/moviles.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/play.jpg" group-title="Radios Chilenas", Play FM (100.9 FM)
