@@ -1,133 +1,133 @@
 #EXTM3U
 #EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" tvg-chno="108" group-title="Series" , NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/c13.jpg" group-title="SD", Canal 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/c13.jpg" group-title="SD", Canal 13
 http://45.232.210.1:8062/play/a088/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/chv.jpg" group-title="SD", CHV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/chv.jpg" group-title="SD", CHV
 http://45.232.210.1:8062/play/a087/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/mega.jpg" group-title="SD", Mega
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/mega.jpg" group-title="SD", Mega
 http://45.232.210.1:8062/play/a086/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tvn.jpg" group-title="SD", TVN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tvn.jpg" group-title="SD", TVN
 http://45.232.210.1:8062/play/a085/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/lared.jpg" group-title="SD", La Red
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/lared.jpg" group-title="SD", La Red
 http://45.232.210.1:8062/play/a084/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tv+.jpg" group-title="SD", TV+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tv+.jpg" group-title="SD", TV+
 http://45.232.210.1:8062/play/a07k/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/axn.jpg" group-title="SD", AXN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/axn.jpg" group-title="SD", AXN
 http://45.232.210.1:8062/play/a0b6/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/ccanal.jpg" group-title="SD", Cinecanal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/ccanal.jpg" group-title="SD", Cinecanal
 http://45.232.210.1:8062/play/a09c/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/cmax.jpg" group-title="SD", Cinemax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/cmax.jpg" group-title="SD", Cinemax
 http://45.232.210.1:8062/play/a0b4/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/starch.jpg" group-title="SD", Star Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/starch.jpg" group-title="SD", Star Channel
 http://45.232.210.1:8062/play/a09e/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/hbo.jpg" group-title="SD", HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbo.jpg" group-title="SD", HBO
 http://45.232.210.1:8062/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/hbo2.jpg" group-title="SD", HBO 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbo2.jpg" group-title="SD", HBO 2
 http://45.232.210.1:8062/play/a08f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/hbof.jpg" group-title="SD", HBO Family
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbof.jpg" group-title="SD", HBO Family
 http://45.232.210.1:8062/play/a08i/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/hbo+.jpg" group-title="SD", HBO Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbo+.jpg" group-title="SD", HBO Plus
 http://45.232.210.1:8062/play/a08g/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/fx.jpg" group-title="SD", FX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/fx.jpg" group-title="SD", FX
 http://45.232.210.1:8062/play/a0b8/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/hboxt.jpg" group-title="SD", HBO Xtreme
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hboxt.jpg" group-title="SD", HBO Xtreme
 http://45.232.210.1:8062/play/a08h/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/sonychannel.jpg" group-title="SD", Sony
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/sonychannel.jpg" group-title="SD", Sony
 http://45.232.210.1:8062/play/a0b5/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/space.jpg" group-title="SD", Space
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/space.jpg" group-title="SD", Space
 http://45.232.210.1:8062/play/a0b7/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tbs.jpg" group-title="SD", TBS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tbs.jpg" group-title="SD", TBS
 http://45.232.210.1:8062/play/a09y/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tcm.jpg" group-title="SD", TCM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tcm.jpg" group-title="SD", TCM
 http://45.232.210.1:8062/play/a09k/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tnt.jpg" group-title="SD", TNT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tnt.jpg" group-title="SD", TNT
 http://45.232.210.1:8062/play/a09n/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tlc.jpg" group-title="SD", TLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tlc.jpg" group-title="SD", TLC
 http://45.232.210.1:8062/play/a091/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/universal.jpg" group-title="SD", Universal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/universal.jpg" group-title="SD", Universal
 http://45.232.210.1:8062/play/a09d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/wbtv.jpg" group-title="SD", Warner
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/wbtv.jpg" group-title="SD", Warner
 http://45.232.210.1:8062/play/a08q/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/a&e.jpg" group-title="SD", AE Mundo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/a&e.jpg" group-title="SD", AE Mundo
 http://45.232.210.1:8062/play/a08y/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/aplanet.jpg" group-title="SD", Animal Planet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/aplanet.jpg" group-title="SD", Animal Planet
 http://45.232.210.1:8062/play/a08p/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/history.jpg" group-title="SD", History Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/history.jpg" group-title="SD", History Channel
 http://45.232.210.1:8062/play/a09b/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/h&h.jpg" group-title="SD", Home and Health
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/h&h.jpg" group-title="SD", Home and Health
 http://45.232.210.1:8062/play/a09z/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/discovery.jpg" group-title="SD", Discovery Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/discovery.jpg" group-title="SD", Discovery Channel
 http://45.232.210.1:8062/play/a08o/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/id.jpg" group-title="SD", Discovery ID
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/id.jpg" group-title="SD", Discovery ID
 http://45.232.210.1:8062/play/a09v/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/dkids.jpg" group-title="SD", Discovery Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/dkids.jpg" group-title="SD", Discovery Kids
 http://45.232.210.1:8062/play/a082/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/dturbo.jpg" group-title="SD", Discovery Turbo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/dturbo.jpg" group-title="SD", Discovery Turbo
 http://45.232.210.1:8062/play/a0bh/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tntsport.jpg" group-title="SD", TNT Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tntsport.jpg" group-title="SD", TNT Sports 3
 http://45.232.210.1:8062/play/a08x/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tntsporthd.jpg" group-title="HD", TNT Sports HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tntsporthd.jpg" group-title="HD", TNT Sports HD
 http://45.232.210.1:8062/play/a05l/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tntsport.jpg" group-title="SD", TNT Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tntsport.jpg" group-title="SD", TNT Sports 2
 http://45.232.210.1:8062/play/a08a/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/espn.jpg" group-title="SD", ESPN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/espn.jpg" group-title="SD", ESPN
 http://45.232.210.1:8062/play/a08t/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/espn2.jpg" group-title="SD", ESPN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/espn2.jpg" group-title="SD", ESPN 2
 http://45.232.210.1:8062/play/a08u/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/espn3.jpg" group-title="SD", ESPN 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/espn3.jpg" group-title="SD", ESPN 3
 http://45.232.210.1:8062/play/a0bj/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/espn4.jpg" group-title="SD", ESPN 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/espn4.jpg" group-title="SD", ESPN 4
 http://45.232.210.1:8062/play/a08s/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/foxsport1.jpg" group-title="SD", Fox Sports Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/foxsport1.jpg" group-title="SD", Fox Sports Premium
 http://45.232.210.1:8062/play/a08b/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/foxsport2.jpg" group-title="SD", Fox Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/foxsport2.jpg" group-title="SD", Fox Sports 2
 http://45.232.210.1:8062/play/a094/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/foxsport3.jpg" group-title="SD", Fox Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/foxsport3.jpg" group-title="SD", Fox Sports 3
 http://45.232.210.1:8062/play/a095/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/e!.jpg" group-title="SD", E Entertainment
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/e!.jpg" group-title="SD", E Entertainment
 http://45.232.210.1:8062/play/a08r/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/mtv.jpg" group-title="SD", MTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/mtv.jpg" group-title="SD", MTV
 http://45.232.210.1:8062/play/a09g/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/natgeo.jpg" group-title="SD", Nat Geo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/natgeo.jpg" group-title="SD", Nat Geo
 http://45.232.210.1:8062/play/a09a/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/cn.jpg" group-title="SD", Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/cn.jpg" group-title="SD", Cartoon Network
 http://45.232.210.1:8062/play/a09m/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/disney.jpg" group-title="SD", Disney Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/disney.jpg" group-title="SD", Disney Channel
 http://45.232.210.1:8062/play/a08n/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/disneyjr.jpg" group-title="SD", Disney Jr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/disneyjr.jpg" group-title="SD", Disney Jr
 http://45.232.210.1:8062/play/a08j/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/nickjr.jpg" group-title="SD", Nick Jr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/nickjr.jpg" group-title="SD", Nick Jr
 http://45.232.210.1:8062/play/a0bg/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/nickelodeon.jpg" group-title="SD", Nickelodeon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/nickelodeon.jpg" group-title="SD", Nickelodeon
 http://45.232.210.1:8062/play/a098/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/24h.jpg" group-title="SD", 24 Horas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/24h.jpg" group-title="SD", 24 Horas
 http://45.232.210.1:8062/play/a08l/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/cnnch.jpg" group-title="SD", CNN Chile
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/cnnch.jpg" group-title="SD", CNN Chile
 http://45.232.210.1:8062/play/a09j/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/cnnes.jpg" group-title="SD", CNN Espanol
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/cnnes.jpg" group-title="SD", CNN Espanol
 http://45.232.210.1:8062/play/a083/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/viax.jpg" group-title="SD", ViaX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/viax.jpg" group-title="SD", ViaX
 http://45.232.210.1:8062/play/a092/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tnt.jpg" group-title="HD", TNT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tnt.jpg" group-title="HD", TNT HD
 http://45.232.210.1:8062/play/tnthd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/chv.jpg" group-title="HD", CHV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/chv.jpg" group-title="HD", CHV HD
 http://45.232.210.1:8062/play/a07d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/c13.jpg" group-title="HD", CANAL 13 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/c13.jpg" group-title="HD", CANAL 13 HD
 http://45.232.210.1:8062/play/a07g/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/c13.jpg" group-title="HD", CANAL 13.2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/c13.jpg" group-title="HD", CANAL 13.2 HD
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/mega.jpg" group-title="HD", MEGA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/mega.jpg" group-title="HD", MEGA HD
 http://45.232.210.1:8062/play/a07f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/lared.jpg" group-title="HD", LA RED HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/lared.jpg" group-title="HD", LA RED HD
 http://45.232.210.1:8062/play/a07e/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/ntv.jpg" group-title="SD", NTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/ntv.jpg" group-title="SD", NTV
 http://45.232.210.1:8062/play/a0cl/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/tveduca.jpg" group-title="SD", TVEDUCA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tveduca.jpg" group-title="SD", TVEDUCA
 http://45.232.210.1:8062/play/a0c9/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/zl.jpg" group-title="SD", Zona Latina
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/zl.jpg" group-title="SD", Zona Latina
 http://45.232.210.1:8062/play/a09h/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/carolina.jpg" group-title="SD", Carolina (VIDEO)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/carolina.jpg" group-title="SD", Carolina (VIDEO)
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?uid=5CAo1mmnEq4rC3wqX8i3XH1x8X8FoF96&sid=vQSC2eaGDeqMIPppVID07c9gwTLoDeMF&pid=UDIJnsV2iP6mwfsukNxFt7e8LeuYmiwW&an=screen&at=web-app&av=v5.2.316&ref=https%3A%2F%2Fwww.carolina.cl%2F&res=0x0&without_cookies=false&listenerid=&dnt=true
 
 #EXTINF:-1,1040_MX PRIME
@@ -149,39 +149,39 @@ http://160.20.165.246:8000/play/a01j/index.m3u8
 http://160.20.165.246:8000/play/a01f/index.m3u8
 
 
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/carolina.jpg" group-title="Radios Chilenas", Carolina (99.3 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/carolina.jpg" group-title="Radios Chilenas", Carolina (99.3 FM)
 https://mdstrm.com/audio/637f68ddce4b1208597d8a86/live.m3u8?_=1680990615481&dnt=true&player=638e5d2c9cfc240853c4fb83&uid=5CAo1mmnEq4rC3wqX8i3XH1x8X8FoF96&sid=3J2b7x4wowMKel0b6YuTlQlnxhWvHXyc&pid=mtoKSizmA1I5tkpRz9oFdEcoWFP682mB&an=lightning-player&at=web-app&av=vv0.1.4&sc=0&ref=www.carolina.cl&res=1366x768
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/los40.jpg" group-title="Radios Chilenas", Los 40 Chile (101.7 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/los40.jpg" group-title="Radios Chilenas", Los 40 Chile (101.7 FM)
 https://26593.live.streamtheworld.com/LOS40_CHILEAAC.aac?csegid=12000&gdpr=0&dist=los40-web-live_streaming_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=eb902b77-e7f5-4aba-c897-0cc2498e235d
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/rdisney.jpg" group-title="Radios Chilenas", Radio Disney (95.3 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/rdisney.jpg" group-title="Radios Chilenas", Radio Disney (95.3 FM)
 https://26583.live.streamtheworld.com/DISNEY_CHI_SA_SC
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/activa.jpg" group-title="Radios Chilenas", Radio Activa (92.5 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/activa.jpg" group-title="Radios Chilenas", Radio Activa (92.5 FM)
 https://24503.live.streamtheworld.com/ACTIVA_SC
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/rock.jpg" group-title="Radios Chilenas", Rock and Pop (94.1 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/rock.jpg" group-title="Radios Chilenas", Rock and Pop (94.1 FM)
 https://26643.live.streamtheworld.com/ROCK_AND_POP_SC
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/futuro.jpg" group-title="Radios Chilenas", Futuro FM (88.9 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/futuro.jpg" group-title="Radios Chilenas", Futuro FM (88.9 FM)
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/ok.jpg" group-title="Radios Chilenas", FM Okey (89.9 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/ok.jpg" group-title="Radios Chilenas", FM Okey (89.9 FM)
 https://streaming.fmokey.cl/moviles.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/play.jpg" group-title="Radios Chilenas", Play FM (100.9 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/play.jpg" group-title="Radios Chilenas", Play FM (100.9 FM)
 https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/live.m3u8?_=1676855005331&dnt=true&player=6346e8b725bf4b08af242bfb&uid=2DeGWmpIxZMTUYynYdXdX5if5jjx8lkR&sid=b3WFpsImhDClI6r1UhqF00YKHXvxkjqL&pid=anJ5dxVJOhI7PSv7fpKtoRh8116GLecW&an=play-fm-app-web&at=web-app&av=vv0.1.4&sc=0&ds=5d28c78c1d9ef1550f8583c6&ref=playfm.cl&res=1366x768
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/dos.jpg" group-title="Radios Chilenas", FM Dos (98.5 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/dos.jpg" group-title="Radios Chilenas", FM Dos (98.5 FM)
 https://26643.live.streamtheworld.com/FMDOSAAC.aac?csegid=12000&gdpr=0&dist=fmdos_cl-web-live_streaming_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=630ad756-48d6-467b-e5e7-5ebe4449df51
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/imagina.jpg" group-title="Radios Chilenas", Imagina (88.1 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/imagina.jpg" group-title="Radios Chilenas", Imagina (88.1 FM)
 https://26673.live.streamtheworld.com/IMAGINA_SC
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/universo.jpg" group-title="Radios Chilenas", Universo (93.7 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/universo.jpg" group-title="Radios Chilenas", Universo (93.7 FM)
 https://unlimited3-cl.dps.live/universo/mp3/icecast.audio
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/digital.jpg" group-title="Radios Chilenas", Digital FM (91.1 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/digital.jpg" group-title="Radios Chilenas", Digital FM (91.1 FM)
 https://radio.digitalfm.cl:8000/valparaiso1
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/biobio.jpg" group-title="Radios Chilenas", Bio Bio Valparaiso (96.7 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/biobio.jpg" group-title="Radios Chilenas", Bio Bio Valparaiso (96.7 FM)
 https://unlimited3-cl.dps.live/biobiovalparaiso/aac/icecast.audio
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/agricultura.jpg" group-title="Radios Chilenas", Agricultura (92.1 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/agricultura.jpg" group-title="Radios Chilenas", Agricultura (92.1 FM)
 https://hls-audio-cl-2-isp.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/adn.jpg" group-title="Radios Chilenas", ADN (91.7 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/adn.jpg" group-title="Radios Chilenas", ADN (91.7 FM)
 https://18163.live.streamtheworld.com/ADNAAC.aac?csegid=12000&gdpr=0&dist=adn_cl-web-live_streaming_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=84263023-e643-4eb0-ab06-16e7a1a5588d
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/cooperativa.jpg" group-title="Radios Chilenas", Cooperativa (106.7 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/cooperativa.jpg" group-title="Radios Chilenas", Cooperativa (106.7 FM)
 https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/carnaval.jpg" group-title="Radios Chilenas", Carnaval Viña del Mar (98.1 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/carnaval.jpg" group-title="Radios Chilenas", Carnaval Viña del Mar (98.1 FM)
 https://sonando-us.digitalproserver.com/carnaval_vinadelmar.aac
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/corazon.jpg" group-title="Radios Chilenas", Corazón (101.3 FM)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/corazon.jpg" group-title="Radios Chilenas", Corazón (101.3 FM)
 https://22823.live.streamtheworld.com/CORAZON_SC
