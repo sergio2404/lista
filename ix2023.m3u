@@ -103,7 +103,7 @@ http://tv.iconex.cl:25461/hd/iconex/347
 http://tv.iconex.cl:25461/hd/iconex/337
 #EXTINF:0 type="stream" channelId="2639", Tooncast
 http://tv.iconex.cl:25461/hd/iconex/341
-#EXTINF:0 type="stream" channelId="-1", ETC HD
+#EXTINF:0 type="stream" tvg-logo="https://es.wikipedia.org/wiki/ETC_%28canal_de_televisi%C3%B3n%29#/media/Archivo:ETC_2016-actual.png", ETC HD
 http://tv.iconex.cl:25461/hd/iconex/329
 #EXTINF:0 type="stream" channelId="1191", Comedy Central HD
 http://tv.iconex.cl:25461/hd/iconex/275
@@ -117,7 +117,7 @@ http://tv.iconex.cl:25461/hd/iconex/345
 http://tv.iconex.cl:25461/hd/iconex/351
 #EXTINF:0 type="stream" channelId="3782", RCN Novelas
 http://tv.iconex.cl:25461/hd/iconex/233
-#EXTINF:0 type="stream" channelId="-1", TNT Novelas
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png", TNT Novelas
 http://tv.iconex.cl:25461/hd/iconex/234
 #EXTINF:0 type="stream" channelId="3228", TBS
 http://tv.iconex.cl:25461/hd/iconex/234
@@ -149,7 +149,7 @@ http://tv.iconex.cl:25461/hd/iconex/278
 http://tv.iconex.cl:25461/hd/iconex/335
 #EXTINF:0 type="stream" channelId="1418", HGTV HD
 http://tv.iconex.cl:25461/hd/iconex/342
-#EXTINF:0 type="stream" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.E-Entertainment-Logo.png.48ac164a4fda8a995b93d1917bb2fed2.png", E Entertainment
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg", E Entertainment
 http://tv.iconex.cl:25461/hd/iconex/244
 #EXTINF:0 type="stream" channelId="2409", El Trece Internacional
 http://tv.iconex.cl:25461/hd/iconex/339
@@ -201,7 +201,7 @@ http://tv.iconex.cl:25461/hd/iconex/260
 http://tv.iconex.cl:25461/hd/iconex/333
 #EXTINF:0 type="stream" channelId="1973", MTV
 http://tv.iconex.cl:25461/hd/iconex/261
-#EXTINF:0 type="stream" channelId="-1", ViaX
+#EXTINF:0 type="stream" tvg-logo="https://canalviax.com/wp-content/uploads/2022/12/verticallogo.png", ViaX
 http://tv.iconex.cl:25461/hd/iconex/262
 #EXTINF:0 type="stream" channelId="4750", Zona Latina
 http://tv.iconex.cl:25461/hd/iconex/263
