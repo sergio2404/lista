@@ -67,7 +67,7 @@ http://tv.iconex.cl:25461/hd/iconex/332
 http://tv.iconex.cl:25461/hd/iconex/320
 #EXTINF:0 type="stream" channelId="2147", Studio Universal HD
 http://tv.iconex.cl:25461/hd/iconex/316
-#EXTINF:0 type="stream" tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.615120486_CloverChannel.png.5b98947815588c78b3c43fe77e580fe9.png", Clover HD
+#EXTINF:0 type="stream" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es", Clover HD
 http://tv.iconex.cl:25461/hd/iconex/311
 #EXTINF:0 type="stream" channelId="3743", DHE HD
 http://tv.iconex.cl:25461/hd/iconex/242
