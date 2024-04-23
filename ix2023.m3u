@@ -103,7 +103,7 @@ http://tv.iconex.cl:25461/hd/iconex/347
 http://tv.iconex.cl:25461/hd/iconex/337
 #EXTINF:0 type="stream" channelId="2639", Tooncast
 http://tv.iconex.cl:25461/hd/iconex/341
-#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png", ETC HD
+#EXTINF:0 type="stream" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png", ETC HD
 http://tv.iconex.cl:25461/hd/iconex/329
 #EXTINF:0 type="stream" channelId="1191", Comedy Central HD
 http://tv.iconex.cl:25461/hd/iconex/275
