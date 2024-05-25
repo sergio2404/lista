@@ -271,7 +271,7 @@ http://tv.iconex.cl:25461/hd/iconex/350
 #EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" tvg-chno="108" group-title="Series" , NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
-#EXTINF:0, tvg-logo="https://www.pjud.cl/img/pjud_blanco.png" Poder Judicial TV
+#EXTINF:0, type="stream" tvg-logo="https://www.pjud.cl/img/pjud_blanco.png" , Poder Judicial TV
 https://unlimited1-cl-isp.dps.live/poderjudicial1/poderjudicial1.smil/poderjudicial1/livestream1/chunks.m3u8
 
 
