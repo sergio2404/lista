@@ -268,13 +268,14 @@ http://tv.iconex.cl:25461/hd/iconex/301
 #EXTINF:0 type="stream" channelId="3802", TyC Sports HD
 http://tv.iconex.cl:25461/hd/iconex/350
 
-#EXTINF:0, Poder Judicial TV
-https://unlimited1-cl-isp.dps.live/poderjudicial1/poderjudicial1.smil/poderjudicial1/livestream1/chunks.m3u8
-
 #EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" tvg-chno="108" group-title="Series" , NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/lista/main/logos/carolina.jpg" group-title="Radios Chilenas", Carolina (VIDEO)
+#EXTINF:0, tvg-logo="https://www.pjud.cl/img/pjud_blanco.png" Poder Judicial TV
+https://unlimited1-cl-isp.dps.live/poderjudicial1/poderjudicial1.smil/poderjudicial1/livestream1/chunks.m3u8
+
+
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/carolina.jpg" group-title="Radios Chilenas", Carolina (VIDEO)
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?uid=5CAo1mmnEq4rC3wqX8i3XH1x8X8FoF96&sid=vQSC2eaGDeqMIPppVID07c9gwTLoDeMF&pid=UDIJnsV2iP6mwfsukNxFt7e8LeuYmiwW&an=screen&at=web-app&av=v5.2.316&ref=https%3A%2F%2Fwww.carolina.cl%2F&res=0x0&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/carolina.jpg" group-title="Radios Chilenas", Carolina (99.3 FM)
 https://mdstrm.com/audio/637f68ddce4b1208597d8a86/live.m3u8
