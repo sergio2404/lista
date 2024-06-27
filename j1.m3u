@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" tvg-chno="108" group-title="Series" , NCIS
-/play/a06g/index.m3u8
+https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 #EXTINF:-1,13 C
 http://45.71.252.16:8000/play/a0ge/index.m3u8
 #EXTINF:-1,24 HORAS
