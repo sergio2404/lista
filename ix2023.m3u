@@ -290,8 +290,3 @@ https://24493.live.streamtheworld.com/FUTUROAAC.aac
 https://streaming.fmokey.cl/moviles.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/dos.jpg" group-title="Radios Chilenas", FM Dos (98.5 FM)
 https://24253.live.streamtheworld.com/FMDOSAAC.aac
-
-
-#EXTINF:0 type="stream" tvg-logo="https://www.pjud.cl/img/pjud_blanco.png" , Poder Judicial TV
-https://unlimited1-cl-isp.dps.live/poderjudicial1/poderjudicial1.smil/poderjudicial1/livestream1/chunks.m3u8
-
