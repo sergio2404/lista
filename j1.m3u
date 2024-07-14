@@ -2,6 +2,274 @@
 #EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" tvg-chno="108" group-title="Series" , NCIS
 https://jmp2.uk/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
+#EXTINF:0,A&E HD
+http://152.230.126.5:1075/play/a005
+#EXTINF:0,A&E HD (clone)
+http://152.230.126.5:1075/play/a05p
+#EXTINF:0,AMC HD
+http://152.230.126.5:1075/play/a02w
+#EXTINF:0,AMC HD (clone)
+http://152.230.126.5:1075/play/a06q
+#EXTINF:0,ATRES SERIES HD
+http://152.230.126.5:1075/play/a07h
+#EXTINF:0,AXN HD
+http://152.230.126.5:1075/play/a008
+#EXTINF:0,AXN HD (clone)
+http://152.230.126.5:1075/play/a05q
+#EXTINF:0,Adult Swim HD
+http://152.230.126.5:1075/play/a07f
+#EXTINF:0,Adult Swim HD (clone)
+http://152.230.126.5:1075/play/a07g
+#EXTINF:0,Animal Planet HD
+http://152.230.126.5:1075/play/a00q
+#EXTINF:0,Animal Planet HD (clone)
+http://152.230.126.5:1075/play/a06r
+#EXTINF:0,CHV HD
+http://152.230.126.5:1075/play/a010
+#EXTINF:0,CHV HD (clone)
+http://152.230.126.5:1075/play/a063
+#EXTINF:0,CNN Chile HD
+http://152.230.126.5:1075/play/a02t
+#EXTINF:0,CNN Chile HD (clone)
+http://152.230.126.5:1075/play/a05s
+#EXTINF:0,CNN Espanol
+http://152.230.126.5:1075/play/a07i
+#EXTINF:0,Canal 13 HD
+http://152.230.126.5:1075/play/a00s
+#EXTINF:0,Canal 13 HD (clone)
+http://152.230.126.5:1075/play/a074
+#EXTINF:0,Canal 24 Horas HD
+http://152.230.126.5:1075/play/a02y
+#EXTINF:0,Canal 24 Horas HD (clone)
+http://152.230.126.5:1075/play/a075
+#EXTINF:0,Cartoon Network HD
+http://152.230.126.5:1075/play/a00m
+#EXTINF:0,Cartoon Network HD (clone)
+http://152.230.126.5:1075/play/a06s
+#EXTINF:0,Cinecanal HD
+http://152.230.126.5:1075/play/a00k
+#EXTINF:0,Cinecanal HD (clone)
+http://152.230.126.5:1075/play/a06t
+#EXTINF:0,Cinemax
+http://152.230.126.5:1075/play/a050
+#EXTINF:0,Cinemax HD
+http://152.230.126.5:1075/play/a014
+#EXTINF:0,Cinemax HD (clone)
+http://152.230.126.5:1075/play/a064
+#EXTINF:0,Clover HD
+http://152.230.126.5:1075/play/a039
+#EXTINF:0,Clover HD (clone)
+http://152.230.126.5:1075/play/a05r
+#EXTINF:0,Comedy Central HD
+http://152.230.126.5:1075/play/a015
+#EXTINF:0,Comedy Central HD (clone)
+http://152.230.126.5:1075/play/a065
+#EXTINF:0,DHE HD
+http://152.230.126.5:1075/play/a00t
+#EXTINF:0,DHE HD (clone)
+http://152.230.126.5:1075/play/a076
+#EXTINF:0,Discovery H&H HD
+http://152.230.126.5:1075/play/a01e
+#EXTINF:0,Discovery H&H HD (clone)
+http://152.230.126.5:1075/play/a06f
+#EXTINF:0,Discovery HD
+http://152.230.126.5:1075/play/a00u
+#EXTINF:0,Discovery HD (clone)
+http://152.230.126.5:1075/play/a077
+#EXTINF:0,Discovery Kids
+http://152.230.126.5:1075/play/a04w
+#EXTINF:0,Discovery Kids HD
+http://152.230.126.5:1075/play/a01d
+#EXTINF:0,Discovery Kids HD (clone)
+http://152.230.126.5:1075/play/a06g
+#EXTINF:0,Discovery Theater HD
+http://152.230.126.5:1075/play/a01f
+#EXTINF:0,Discovery Theater HD (clone)
+http://152.230.126.5:1075/play/a06h
+#EXTINF:0,Discovery World HD
+http://152.230.126.5:1075/play/a00j
+#EXTINF:0,Discovery World HD (clone)
+http://152.230.126.5:1075/play/a06u
+#EXTINF:0,Disney HD
+http://152.230.126.5:1075/play/a012
+#EXTINF:0,Disney HD (clone)
+http://152.230.126.5:1075/play/a066
+#EXTINF:0,ESPN 2 HD
+http://152.230.126.5:1075/play/a00b
+#EXTINF:0,ESPN 2 HD (clone)
+http://152.230.126.5:1075/play/a05t
+#EXTINF:0,ESPN 3 HD
+http://152.230.126.5:1075/play/a031
+#EXTINF:0,ESPN 3 HD (clone)
+http://152.230.126.5:1075/play/a068
+#EXTINF:0,ESPN EXTRA HD
+http://152.230.126.5:1075/play/a02x
+#EXTINF:0,ESPN EXTRA HD (clone)
+http://152.230.126.5:1075/play/a06v
+#EXTINF:0,ESPN HD
+http://152.230.126.5:1075/play/a00d
+#EXTINF:0,ESPN HD
+http://152.230.126.5:1075/play/a049
+#EXTINF:0,ESPN HD (clone)
+http://152.230.126.5:1075/play/a06i
+#EXTINF:0,ESPN HD (clone)
+http://152.230.126.5:1075/play/a05u
+#EXTINF:0,El Gourmet HD
+http://152.230.126.5:1075/play/a018
+#EXTINF:0,El Gourmet HD (clone)
+http://152.230.126.5:1075/play/a067
+#EXTINF:0,FOX Sports 2 HD
+http://152.230.126.5:1075/play/a01j
+#EXTINF:0,FOX Sports 2 HD (clone)
+http://152.230.126.5:1075/play/a06j
+#EXTINF:0,FX HD
+http://152.230.126.5:1075/play/a01l
+#EXTINF:0,FX HD (clone)
+http://152.230.126.5:1075/play/a06k
+#EXTINF:0,Fox Sports 1 HD
+http://152.230.126.5:1075/play/a01m
+#EXTINF:0,Fox Sports 1 HD (clone)
+http://152.230.126.5:1075/play/a078
+#EXTINF:0,Fox Sports 3 HD
+http://152.230.126.5:1075/play/a032
+#EXTINF:0,Fox Sports 3 HD (clone)
+http://152.230.126.5:1075/play/a069
+#EXTINF:0,Golden T
+http://152.230.126.5:1075/play/a04k
+#EXTINF:0,Gourmet T
+http://152.230.126.5:1075/play/a04l
+#EXTINF:0,HBO 2 HD
+http://152.230.126.5:1075/play/a03o
+#EXTINF:0,HBO 2 HD (clone)
+http://152.230.126.5:1075/play/a06w
+#EXTINF:0,HBO Family HD
+http://152.230.126.5:1075/play/a03r
+#EXTINF:0,HBO HD
+http://152.230.126.5:1075/play/a00l
+#EXTINF:0,HBO HD (clone)
+http://152.230.126.5:1075/play/a06x
+#EXTINF:0,HBO POP HD
+http://152.230.126.5:1075/play/a02u
+#EXTINF:0,HBO POP HD (clone)
+http://152.230.126.5:1075/play/a05v
+#EXTINF:0,HBO XTREME HD
+http://152.230.126.5:1075/play/a03s
+#EXTINF:0,History 2 HD
+http://152.230.126.5:1075/play/a00v
+#EXTINF:0,History 2 HD (clone)
+http://152.230.126.5:1075/play/a079
+#EXTINF:0,History Channel HD
+http://152.230.126.5:1075/play/a004
+#EXTINF:0,History Channel HD (clone)
+http://152.230.126.5:1075/play/a05w
+#EXTINF:0,ID HD
+http://152.230.126.5:1075/play/a016
+#EXTINF:0,ID HD (clone)
+http://152.230.126.5:1075/play/a06a
+#EXTINF:0,Kanal D Drama HD
+http://152.230.126.5:1075/play/a037
+#EXTINF:0,Kanal D Drama HD (clone)
+http://152.230.126.5:1075/play/a06y
+#EXTINF:0,La Red HD
+http://152.230.126.5:1075/play/a00c
+#EXTINF:0,La Red HD (clone)
+http://152.230.126.5:1075/play/a05x
+#EXTINF:0,Love Nature HD
+http://152.230.126.5:1075/play/a038
+#EXTINF:0,Love Nature HD (clone)
+http://152.230.126.5:1075/play/a07a
+#EXTINF:0,MEGA HD
+http://152.230.126.5:1075/play/a00h
+#EXTINF:0,MEGA HD (clone)
+http://152.230.126.5:1075/play/a06z
+#EXTINF:0,MTV HD
+http://152.230.126.5:1075/play/a03t
+#EXTINF:0,MTV HD (clone)
+http://152.230.126.5:1075/play/a07b
+#EXTINF:0,MTV LIVE HD
+http://152.230.126.5:1075/play/a03p
+#EXTINF:0,MTV LIVE HD (clone)
+http://152.230.126.5:1075/play/a06l
+#EXTINF:0,NTV
+http://152.230.126.5:1075/play/a04x
+#EXTINF:0,NTV
+http://152.230.126.5:1075/play/a00f
+#EXTINF:0,NTV (clone)
+http://152.230.126.5:1075/play/a071
+#EXTINF:0,NTV T
+http://152.230.126.5:1075/play/a04j
+#EXTINF:0,Nat Geo HD
+http://152.230.126.5:1075/play/a00i
+#EXTINF:0,Nat Geo HD (clone)
+http://152.230.126.5:1075/play/a070
+#EXTINF:0,Nick HD
+http://152.230.126.5:1075/play/a03u
+#EXTINF:0,Nick HD (clone)
+http://152.230.126.5:1075/play/a05y
+#EXTINF:0,Paramount HD
+http://152.230.126.5:1075/play/a00n
+#EXTINF:0,Paramount HD (clone)
+http://152.230.126.5:1075/play/a072
+#EXTINF:0,Pasiones HD
+http://152.230.126.5:1075/play/a011
+#EXTINF:0,Pasiones HD (clone)
+http://152.230.126.5:1075/play/a06b
+#EXTINF:0,Pasiones T
+http://152.230.126.5:1075/play/a04i
+#EXTINF:0,STAR CHANNEL HD
+http://152.230.126.5:1075/play/a01h
+#EXTINF:0,STAR CHANNEL HD (clone)
+http://152.230.126.5:1075/play/a06m
+#EXTINF:0,Sony HD
+http://152.230.126.5:1075/play/a006
+#EXTINF:0,Sony HD (clone)
+http://152.230.126.5:1075/play/a05z
+#EXTINF:0,Space HD
+http://152.230.126.5:1075/play/a009
+#EXTINF:0,Space HD (clone)
+http://152.230.126.5:1075/play/a060
+#EXTINF:0,Studio Universal HD
+http://152.230.126.5:1075/play/a00o
+#EXTINF:0,Studio Universal HD (clone)
+http://152.230.126.5:1075/play/a073
+#EXTINF:0,Sun Channel HD
+http://152.230.126.5:1075/play/a01c
+#EXTINF:0,Sun Channel HD (clone)
+http://152.230.126.5:1075/play/a06n
+#EXTINF:0,Sun Channel T
+http://152.230.126.5:1075/play/a04h
+#EXTINF:0,TNT HD
+http://152.230.126.5:1075/play/a013
+#EXTINF:0,TNT HD (clone)
+http://152.230.126.5:1075/play/a06c
+#EXTINF:0,TNT SPORTS HD
+http://152.230.126.5:1075/play/a00a
+#EXTINF:0,TNT SPORTS HD (clone)
+http://152.230.126.5:1075/play/a061
+#EXTINF:0,TNT Series HD
+http://152.230.126.5:1075/play/a01k
+#EXTINF:0,TNT Series HD (clone)
+http://152.230.126.5:1075/play/a06o
+#EXTINF:0,TRUTV HD
+http://152.230.126.5:1075/play/a017
+#EXTINF:0,TRUTV HD (clone)
+http://152.230.126.5:1075/play/a06d
+#EXTINF:0,TV+ HD
+http://152.230.126.5:1075/play/a00g
+#EXTINF:0,TV+ HD (clone)
+http://152.230.126.5:1075/play/a07e
+#EXTINF:0,TVN HD
+http://152.230.126.5:1075/play/a00z
+#EXTINF:0,TVN HD (clone)
+http://152.230.126.5:1075/play/a06e
+#EXTINF:0,UNIVERSAL CHANNEL HD
+http://152.230.126.5:1075/play/a01i
+#EXTINF:0,UNIVERSAL CHANNEL HD (clone)
+http://152.230.126.5:1075/play/a06p
+#EXTINF:0,Warner Channel HD
+http://152.230.126.5:1075/play/a007
+#EXTINF:0,Warner Channel HD (clone)
+http://152.230.126.5:1075/play/a062
 
 #EXTINF:-1,AMC HD
 http://170.239.207.48:4050/play/CH13
