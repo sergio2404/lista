@@ -246,3 +246,109 @@ http://190.119.123.220:4000/play/willaxtv/index.m3u8
 http://190.119.123.220:4000/play/a00c/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://190.119.123.220:4000/play/a038/index.m3u8
+
+
+#EXTINF:-1,AMC HD
+http://170.239.207.48:4050/play/CH13
+#EXTINF:-1,ATRES SERIES HD
+http://170.239.207.48:4050/play/CH41
+#EXTINF:-1,AXN HD
+http://170.239.207.48:4050/play/CH18
+#EXTINF:-1,America TV HD
+http://170.239.207.48:4050/play/CH56
+#EXTINF:-1,CHV HD
+http://170.239.207.48:4050/play/CH64
+#EXTINF:-1,CNN Espaæol
+http://170.239.207.48:4050/play/CH29
+#EXTINF:-1,COSMOVISION
+http://170.239.207.48:4050/play/CH49
+#EXTINF:-1,Canal 1 HD
+http://170.239.207.48:4050/play/CH21
+#EXTINF:-1,Canal 13 HD
+http://170.239.207.48:4050/play/CH31
+#EXTINF:-1,Canal 24 Horas Chile HD
+http://170.239.207.48:4050/play/CH52
+#EXTINF:-1,Canal Institucional HD
+http://170.239.207.48:4050/play/CH22
+#EXTINF:-1,Canal TRO
+http://170.239.207.48:4050/play/CH38
+#EXTINF:-1,Caracol HD
+http://170.239.207.48:4050/play/CH2
+#EXTINF:-1,Cartoon Network HD
+http://170.239.207.48:4050/play/CH70
+#EXTINF:-1,City TV
+http://170.239.207.48:4050/play/CH20
+#EXTINF:-1,Clover HD
+http://170.239.207.48:4050/play/CH47
+#EXTINF:-1,Comedy Central HD
+http://170.239.207.48:4050/play/CH66
+#EXTINF:-1,Cristovisiðn
+http://170.239.207.48:4050/play/CH40
+#EXTINF:-1,E! HD
+http://170.239.207.48:4050/play/CH55
+#EXTINF:-1,ESPN 2 HD
+http://170.239.207.48:4050/play/CH5
+#EXTINF:-1,ESPN HD
+http://170.239.207.48:4050/play/CH67
+#EXTINF:-1,El Gourmet HD
+http://170.239.207.48:4050/play/CH9
+#EXTINF:-1,Enlace
+http://170.239.207.48:4050/play/CH8
+#EXTINF:-1,Europa Europa
+http://170.239.207.48:4050/play/CH15
+#EXTINF:-1,Film&Arts
+http://170.239.207.48:4050/play/CH14
+#EXTINF:-1,Fox Sports 1 HD
+http://170.239.207.48:4050/play/CH28
+#EXTINF:-1,GOLPERU HD
+http://170.239.207.48:4050/play/CH57
+#EXTINF:-1,Kanal D Drama HD
+http://170.239.207.48:4050/play/CH60
+#EXTINF:-1,La Red HD
+http://170.239.207.48:4050/play/CH65
+#EXTINF:-1,Las Estrellas HD
+http://170.239.207.48:4050/play/CH71
+#EXTINF:-1,Latina HD
+http://170.239.207.48:4050/play/CH58
+#EXTINF:-1,Lolly Kids HD
+http://170.239.207.48:4050/play/CH53
+#EXTINF:-1,Love Nature HD
+http://170.239.207.48:4050/play/CH54
+#EXTINF:-1,MARIA+VISION HD
+http://170.239.207.48:4050/play/CH7
+#EXTINF:-1,MEGA HD
+http://170.239.207.48:4050/play/CH12
+#EXTINF:-1,MTV LIVE HD
+http://170.239.207.48:4050/play/CH63
+#EXTINF:-1,NTV HD
+http://170.239.207.48:4050/play/CH61
+#EXTINF:-1,Nick HD
+http://170.239.207.48:4050/play/CH6
+#EXTINF:-1,Pasiones
+http://170.239.207.48:4050/play/CH73
+#EXTINF:-1,RCN HD
+http://170.239.207.48:4050/play/CH3
+#EXTINF:-1,STAR CHANNEL HD
+http://170.239.207.48:4050/play/CH4
+#EXTINF:-1,STAR TVE HD
+http://170.239.207.48:4050/play/CH62
+#EXTINF:-1,Señal Colombia HD
+http://170.239.207.48:4050/play/CH10
+#EXTINF:-1,TNT HD
+http://170.239.207.48:4050/play/CH16
+#EXTINF:-1,TV+ HD
+http://170.239.207.48:4050/play/CH11
+#EXTINF:-1,TVN HD
+http://170.239.207.48:4050/play/CH17
+#EXTINF:-1,Teleantioquia
+http://170.239.207.48:4050/play/CH19
+#EXTINF:-1,Telecafe
+http://170.239.207.48:4050/play/CH39
+#EXTINF:-1,Telecaribe
+http://170.239.207.48:4050/play/CH23
+#EXTINF:-1,Telepacifico
+http://170.239.207.48:4050/play/CH69
+#EXTINF:-1,TyC Sports HD
+http://170.239.207.48:4050/play/CH59
+#EXTINF:-1,Win Sports+ HD
+http://170.239.207.48:4050/play/CH1
