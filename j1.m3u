@@ -2,376 +2,201 @@
 #EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" tvg-chno="108" group-title="Series" , NCIS
 https://jmp2.uk/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
-#EXTINF:0,A&E HD
-http://152.230.126.5:1075/play/a005
-#EXTINF:0,A&E HD (clone)
-http://152.230.126.5:1075/play/a05p
-#EXTINF:0,AMC HD
-http://152.230.126.5:1075/play/a02w
-#EXTINF:0,AMC HD (clone)
-http://152.230.126.5:1075/play/a06q
-#EXTINF:0,ATRES SERIES HD
-http://152.230.126.5:1075/play/a07h
-#EXTINF:0,AXN HD
-http://152.230.126.5:1075/play/a008
-#EXTINF:0,AXN HD (clone)
-http://152.230.126.5:1075/play/a05q
-#EXTINF:0,Adult Swim HD
-http://152.230.126.5:1075/play/a07f
-#EXTINF:0,Adult Swim HD (clone)
-http://152.230.126.5:1075/play/a07g
-#EXTINF:0,Animal Planet HD
-http://152.230.126.5:1075/play/a00q
-#EXTINF:0,Animal Planet HD (clone)
-http://152.230.126.5:1075/play/a06r
-#EXTINF:0,CHV HD
-http://152.230.126.5:1075/play/a010
-#EXTINF:0,CHV HD (clone)
-http://152.230.126.5:1075/play/a063
-#EXTINF:0,CNN Chile HD
-http://152.230.126.5:1075/play/a02t
-#EXTINF:0,CNN Chile HD (clone)
-http://152.230.126.5:1075/play/a05s
-#EXTINF:0,CNN Espanol
-http://152.230.126.5:1075/play/a07i
-#EXTINF:0,Canal 13 HD
-http://152.230.126.5:1075/play/a00s
-#EXTINF:0,Canal 13 HD (clone)
-http://152.230.126.5:1075/play/a074
-#EXTINF:0,Canal 24 Horas HD
-http://152.230.126.5:1075/play/a02y
-#EXTINF:0,Canal 24 Horas HD (clone)
-http://152.230.126.5:1075/play/a075
-#EXTINF:0,Cartoon Network HD
-http://152.230.126.5:1075/play/a00m
-#EXTINF:0,Cartoon Network HD (clone)
-http://152.230.126.5:1075/play/a06s
-#EXTINF:0,Cinecanal HD
-http://152.230.126.5:1075/play/a00k
-#EXTINF:0,Cinecanal HD (clone)
-http://152.230.126.5:1075/play/a06t
-#EXTINF:0,Cinemax
-http://152.230.126.5:1075/play/a050
-#EXTINF:0,Cinemax HD
-http://152.230.126.5:1075/play/a014
-#EXTINF:0,Cinemax HD (clone)
-http://152.230.126.5:1075/play/a064
-#EXTINF:0,Clover HD
-http://152.230.126.5:1075/play/a039
-#EXTINF:0,Clover HD (clone)
-http://152.230.126.5:1075/play/a05r
-#EXTINF:0,Comedy Central HD
-http://152.230.126.5:1075/play/a015
-#EXTINF:0,Comedy Central HD (clone)
-http://152.230.126.5:1075/play/a065
-#EXTINF:0,DHE HD
-http://152.230.126.5:1075/play/a00t
-#EXTINF:0,DHE HD (clone)
-http://152.230.126.5:1075/play/a076
-#EXTINF:0,Discovery H&H HD
-http://152.230.126.5:1075/play/a01e
-#EXTINF:0,Discovery H&H HD (clone)
-http://152.230.126.5:1075/play/a06f
-#EXTINF:0,Discovery HD
-http://152.230.126.5:1075/play/a00u
-#EXTINF:0,Discovery HD (clone)
-http://152.230.126.5:1075/play/a077
-#EXTINF:0,Discovery Kids
-http://152.230.126.5:1075/play/a04w
-#EXTINF:0,Discovery Kids HD
-http://152.230.126.5:1075/play/a01d
-#EXTINF:0,Discovery Kids HD (clone)
-http://152.230.126.5:1075/play/a06g
-#EXTINF:0,Discovery Theater HD
-http://152.230.126.5:1075/play/a01f
-#EXTINF:0,Discovery Theater HD (clone)
-http://152.230.126.5:1075/play/a06h
-#EXTINF:0,Discovery World HD
-http://152.230.126.5:1075/play/a00j
-#EXTINF:0,Discovery World HD (clone)
-http://152.230.126.5:1075/play/a06u
-#EXTINF:0,Disney HD
-http://152.230.126.5:1075/play/a012
-#EXTINF:0,Disney HD (clone)
-http://152.230.126.5:1075/play/a066
-#EXTINF:0,ESPN 2 HD
-http://152.230.126.5:1075/play/a00b
-#EXTINF:0,ESPN 2 HD (clone)
-http://152.230.126.5:1075/play/a05t
-#EXTINF:0,ESPN 3 HD
-http://152.230.126.5:1075/play/a031
-#EXTINF:0,ESPN 3 HD (clone)
-http://152.230.126.5:1075/play/a068
-#EXTINF:0,ESPN EXTRA HD
-http://152.230.126.5:1075/play/a02x
-#EXTINF:0,ESPN EXTRA HD (clone)
-http://152.230.126.5:1075/play/a06v
-#EXTINF:0,ESPN HD
-http://152.230.126.5:1075/play/a00d
-#EXTINF:0,ESPN HD
-http://152.230.126.5:1075/play/a049
-#EXTINF:0,ESPN HD (clone)
-http://152.230.126.5:1075/play/a06i
-#EXTINF:0,ESPN HD (clone)
-http://152.230.126.5:1075/play/a05u
-#EXTINF:0,El Gourmet HD
-http://152.230.126.5:1075/play/a018
-#EXTINF:0,El Gourmet HD (clone)
-http://152.230.126.5:1075/play/a067
-#EXTINF:0,FOX Sports 2 HD
-http://152.230.126.5:1075/play/a01j
-#EXTINF:0,FOX Sports 2 HD (clone)
-http://152.230.126.5:1075/play/a06j
-#EXTINF:0,FX HD
-http://152.230.126.5:1075/play/a01l
-#EXTINF:0,FX HD (clone)
-http://152.230.126.5:1075/play/a06k
-#EXTINF:0,Fox Sports 1 HD
-http://152.230.126.5:1075/play/a01m
-#EXTINF:0,Fox Sports 1 HD (clone)
-http://152.230.126.5:1075/play/a078
-#EXTINF:0,Fox Sports 3 HD
-http://152.230.126.5:1075/play/a032
-#EXTINF:0,Fox Sports 3 HD (clone)
-http://152.230.126.5:1075/play/a069
-#EXTINF:0,Golden T
-http://152.230.126.5:1075/play/a04k
-#EXTINF:0,Gourmet T
-http://152.230.126.5:1075/play/a04l
-#EXTINF:0,HBO 2 HD
-http://152.230.126.5:1075/play/a03o
-#EXTINF:0,HBO 2 HD (clone)
-http://152.230.126.5:1075/play/a06w
-#EXTINF:0,HBO Family HD
-http://152.230.126.5:1075/play/a03r
-#EXTINF:0,HBO HD
-http://152.230.126.5:1075/play/a00l
-#EXTINF:0,HBO HD (clone)
-http://152.230.126.5:1075/play/a06x
-#EXTINF:0,HBO POP HD
-http://152.230.126.5:1075/play/a02u
-#EXTINF:0,HBO POP HD (clone)
-http://152.230.126.5:1075/play/a05v
-#EXTINF:0,HBO XTREME HD
-http://152.230.126.5:1075/play/a03s
-#EXTINF:0,History 2 HD
-http://152.230.126.5:1075/play/a00v
-#EXTINF:0,History 2 HD (clone)
-http://152.230.126.5:1075/play/a079
-#EXTINF:0,History Channel HD
-http://152.230.126.5:1075/play/a004
-#EXTINF:0,History Channel HD (clone)
-http://152.230.126.5:1075/play/a05w
-#EXTINF:0,ID HD
-http://152.230.126.5:1075/play/a016
-#EXTINF:0,ID HD (clone)
-http://152.230.126.5:1075/play/a06a
-#EXTINF:0,Kanal D Drama HD
-http://152.230.126.5:1075/play/a037
-#EXTINF:0,Kanal D Drama HD (clone)
-http://152.230.126.5:1075/play/a06y
-#EXTINF:0,La Red HD
-http://152.230.126.5:1075/play/a00c
-#EXTINF:0,La Red HD (clone)
-http://152.230.126.5:1075/play/a05x
-#EXTINF:0,Love Nature HD
-http://152.230.126.5:1075/play/a038
-#EXTINF:0,Love Nature HD (clone)
-http://152.230.126.5:1075/play/a07a
-#EXTINF:0,MEGA HD
-http://152.230.126.5:1075/play/a00h
-#EXTINF:0,MEGA HD (clone)
-http://152.230.126.5:1075/play/a06z
-#EXTINF:0,MTV HD
-http://152.230.126.5:1075/play/a03t
-#EXTINF:0,MTV HD (clone)
-http://152.230.126.5:1075/play/a07b
-#EXTINF:0,MTV LIVE HD
-http://152.230.126.5:1075/play/a03p
-#EXTINF:0,MTV LIVE HD (clone)
-http://152.230.126.5:1075/play/a06l
-#EXTINF:0,NTV
-http://152.230.126.5:1075/play/a04x
-#EXTINF:0,NTV
-http://152.230.126.5:1075/play/a00f
-#EXTINF:0,NTV (clone)
-http://152.230.126.5:1075/play/a071
-#EXTINF:0,NTV T
-http://152.230.126.5:1075/play/a04j
-#EXTINF:0,Nat Geo HD
-http://152.230.126.5:1075/play/a00i
-#EXTINF:0,Nat Geo HD (clone)
-http://152.230.126.5:1075/play/a070
-#EXTINF:0,Nick HD
-http://152.230.126.5:1075/play/a03u
-#EXTINF:0,Nick HD (clone)
-http://152.230.126.5:1075/play/a05y
-#EXTINF:0,Paramount HD
-http://152.230.126.5:1075/play/a00n
-#EXTINF:0,Paramount HD (clone)
-http://152.230.126.5:1075/play/a072
-#EXTINF:0,Pasiones HD
-http://152.230.126.5:1075/play/a011
-#EXTINF:0,Pasiones HD (clone)
-http://152.230.126.5:1075/play/a06b
-#EXTINF:0,Pasiones T
-http://152.230.126.5:1075/play/a04i
-#EXTINF:0,STAR CHANNEL HD
-http://152.230.126.5:1075/play/a01h
-#EXTINF:0,STAR CHANNEL HD (clone)
-http://152.230.126.5:1075/play/a06m
-#EXTINF:0,Sony HD
-http://152.230.126.5:1075/play/a006
-#EXTINF:0,Sony HD (clone)
-http://152.230.126.5:1075/play/a05z
-#EXTINF:0,Space HD
-http://152.230.126.5:1075/play/a009
-#EXTINF:0,Space HD (clone)
-http://152.230.126.5:1075/play/a060
-#EXTINF:0,Studio Universal HD
-http://152.230.126.5:1075/play/a00o
-#EXTINF:0,Studio Universal HD (clone)
-http://152.230.126.5:1075/play/a073
-#EXTINF:0,Sun Channel HD
-http://152.230.126.5:1075/play/a01c
-#EXTINF:0,Sun Channel HD (clone)
-http://152.230.126.5:1075/play/a06n
-#EXTINF:0,Sun Channel T
-http://152.230.126.5:1075/play/a04h
-#EXTINF:0,TNT HD
-http://152.230.126.5:1075/play/a013
-#EXTINF:0,TNT HD (clone)
-http://152.230.126.5:1075/play/a06c
-#EXTINF:0,TNT SPORTS HD
-http://152.230.126.5:1075/play/a00a
-#EXTINF:0,TNT SPORTS HD (clone)
-http://152.230.126.5:1075/play/a061
-#EXTINF:0,TNT Series HD
-http://152.230.126.5:1075/play/a01k
-#EXTINF:0,TNT Series HD (clone)
-http://152.230.126.5:1075/play/a06o
-#EXTINF:0,TRUTV HD
-http://152.230.126.5:1075/play/a017
-#EXTINF:0,TRUTV HD (clone)
-http://152.230.126.5:1075/play/a06d
-#EXTINF:0,TV+ HD
-http://152.230.126.5:1075/play/a00g
-#EXTINF:0,TV+ HD (clone)
-http://152.230.126.5:1075/play/a07e
-#EXTINF:0,TVN HD
-http://152.230.126.5:1075/play/a00z
-#EXTINF:0,TVN HD (clone)
-http://152.230.126.5:1075/play/a06e
-#EXTINF:0,UNIVERSAL CHANNEL HD
-http://152.230.126.5:1075/play/a01i
-#EXTINF:0,UNIVERSAL CHANNEL HD (clone)
-http://152.230.126.5:1075/play/a06p
-#EXTINF:0,Warner Channel HD
-http://152.230.126.5:1075/play/a007
-#EXTINF:0,Warner Channel HD (clone)
-http://152.230.126.5:1075/play/a062
-
-#EXTINF:-1,AMC HD
-http://170.239.207.48:4050/play/CH13
-#EXTINF:-1,ATRES SERIES HD
-http://170.239.207.48:4050/play/CH41
-#EXTINF:-1,AXN HD
-http://170.239.207.48:4050/play/CH18
-#EXTINF:-1,America TV HD
-http://170.239.207.48:4050/play/CH56
-#EXTINF:-1,CHV HD
-http://170.239.207.48:4050/play/CH64
-#EXTINF:-1,CNN Espaæol
-http://170.239.207.48:4050/play/CH29
-#EXTINF:-1,COSMOVISION
-http://170.239.207.48:4050/play/CH49
-#EXTINF:-1,Canal 1 HD
-http://170.239.207.48:4050/play/CH21
-#EXTINF:-1,Canal 13 HD
-http://170.239.207.48:4050/play/CH31
-#EXTINF:-1,Canal 24 Horas Chile HD
-http://170.239.207.48:4050/play/CH52
-#EXTINF:-1,Canal Institucional HD
-http://170.239.207.48:4050/play/CH22
-#EXTINF:-1,Canal TRO
-http://170.239.207.48:4050/play/CH38
-#EXTINF:-1,Caracol HD
-http://170.239.207.48:4050/play/CH2
-#EXTINF:-1,Cartoon Network HD
-http://170.239.207.48:4050/play/CH70
-#EXTINF:-1,City TV
-http://170.239.207.48:4050/play/CH20
-#EXTINF:-1,Clover HD
-http://170.239.207.48:4050/play/CH47
-#EXTINF:-1,Comedy Central HD
-http://170.239.207.48:4050/play/CH66
-#EXTINF:-1,Cristovisiðn
-http://170.239.207.48:4050/play/CH40
-#EXTINF:-1,E! HD
-http://170.239.207.48:4050/play/CH55
-#EXTINF:-1,ESPN 2 HD
-http://170.239.207.48:4050/play/CH5
-#EXTINF:-1,ESPN HD
-http://170.239.207.48:4050/play/CH67
-#EXTINF:-1,El Gourmet HD
-http://170.239.207.48:4050/play/CH9
-#EXTINF:-1,Enlace
-http://170.239.207.48:4050/play/CH8
-#EXTINF:-1,Europa Europa
-http://170.239.207.48:4050/play/CH15
-#EXTINF:-1,Film&Arts
-http://170.239.207.48:4050/play/CH14
-#EXTINF:-1,Fox Sports 1 HD
-http://170.239.207.48:4050/play/CH28
-#EXTINF:-1,GOLPERU HD
-http://170.239.207.48:4050/play/CH57
-#EXTINF:-1,Kanal D Drama HD
-http://170.239.207.48:4050/play/CH60
-#EXTINF:-1,La Red HD
-http://170.239.207.48:4050/play/CH65
-#EXTINF:-1,Las Estrellas HD
-http://170.239.207.48:4050/play/CH71
-#EXTINF:-1,Latina HD
-http://170.239.207.48:4050/play/CH58
-#EXTINF:-1,Lolly Kids HD
-http://170.239.207.48:4050/play/CH53
-#EXTINF:-1,Love Nature HD
-http://170.239.207.48:4050/play/CH54
-#EXTINF:-1,MARIA+VISION HD
-http://170.239.207.48:4050/play/CH7
-#EXTINF:-1,MEGA HD
-http://170.239.207.48:4050/play/CH12
-#EXTINF:-1,MTV LIVE HD
-http://170.239.207.48:4050/play/CH63
-#EXTINF:-1,NTV HD
-http://170.239.207.48:4050/play/CH61
-#EXTINF:-1,Nick HD
-http://170.239.207.48:4050/play/CH6
-#EXTINF:-1,Pasiones
-http://170.239.207.48:4050/play/CH73
-#EXTINF:-1,RCN HD
-http://170.239.207.48:4050/play/CH3
-#EXTINF:-1,STAR CHANNEL HD
-http://170.239.207.48:4050/play/CH4
-#EXTINF:-1,STAR TVE HD
-http://170.239.207.48:4050/play/CH62
-#EXTINF:-1,Señal Colombia HD
-http://170.239.207.48:4050/play/CH10
-#EXTINF:-1,TNT HD
-http://170.239.207.48:4050/play/CH16
-#EXTINF:-1,TV+ HD
-http://170.239.207.48:4050/play/CH11
-#EXTINF:-1,TVN HD
-http://170.239.207.48:4050/play/CH17
-#EXTINF:-1,Teleantioquia
-http://170.239.207.48:4050/play/CH19
-#EXTINF:-1,Telecafe
-http://170.239.207.48:4050/play/CH39
-#EXTINF:-1,Telecaribe
-http://170.239.207.48:4050/play/CH23
-#EXTINF:-1,Telepacifico
-http://170.239.207.48:4050/play/CH69
-#EXTINF:-1,TyC Sports HD
-http://170.239.207.48:4050/play/CH59
-#EXTINF:-1,Win Sports+ HD
-http://170.239.207.48:4050/play/CH1
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a08c.png",ESPN 4 HD
+http://177.93.41.134:4000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a090.png",ESPN HD
+http://177.93.41.134:4000/play/a090/index.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a06b.png",A&E HD
+http://177.93.41.134:4000/play/a06b/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a08p.png",Caracol HD
+http://177.93.41.134:4000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a03m.png",RCN HD
+http://177.93.41.134:4000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a00z.png",CANAL TRECE
+http://177.93.41.134:4000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a010.png",CANAL TRECE +
+http://177.93.41.134:4000/play/a010/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a06i.png",Win Sports HD
+http://177.93.41.134:4000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a03l.png",ESPN 3 HD
+http://177.93.41.134:4000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a01y.png",FOX Sports 2 HD
+http://177.93.41.134:4000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a01b.png",Fox Sports 3 HD
+http://177.93.41.134:4000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a01m.png",Discovery Kids HD
+http://177.93.41.134:4000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a03o.png",Disney HD
+http://177.93.41.134:4000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a01d.png",Cinemax HD
+http://177.93.41.134:4000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a019.png",TNT HD
+http://177.93.41.134:4000/play/a019/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a01g.png",UNIVERSAL CHANNEL HD
+http://177.93.41.134:4000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a031.png",History Channel HD
+http://177.93.41.134:4000/play/a031/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0bd.png",AE Mundo
+http://177.93.41.134:4000/play/a0bd/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0dq.png",AMC HD
+http://177.93.41.134:4000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a03z.png",AXN HD
+http://177.93.41.134:4000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0b5.png",Animal Planet
+http://177.93.41.134:4000/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0e1.png",Animal Planet HD
+http://177.93.41.134:4000/play/a0e1/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0ey.png",Canal 1 HD
+http://177.93.41.134:4000/play/a0ey/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0bm.png",Canal 24 Horas HD
+http://177.93.41.134:4000/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0d5.png",Canal Caracol
+http://177.93.41.134:4000/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0bg.png",Canal Estrellas
+http://177.93.41.134:4000/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0d9.png",Canal Institucional
+http://177.93.41.134:4000/play/a0d9/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0d6.png",Canal RCN
+http://177.93.41.134:4000/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0d3.png",Canal Uno
+http://177.93.41.134:4000/play/a0d3/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0da.png",Canal del Congreso
+http://177.93.41.134:4000/play/a0da/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0dl.png",Capital
+http://177.93.41.134:4000/play/a0dl/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0du.png",Cartoon Network HD
+http://177.93.41.134:4000/play/a0du/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0f9.png",Cinecanal
+http://177.93.41.134:4000/play/a0f9/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0dp.png",Cinecanal HD
+http://177.93.41.134:4000/play/a0dp/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0dk.png",City TV
+http://177.93.41.134:4000/play/a0dk/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0bk.png",Comedy Central HD
+http://177.93.41.134:4000/play/a0bk/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0bq.png",DHE HD
+http://177.93.41.134:4000/play/a0bq/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0b4.png",Discovery Channel
+http://177.93.41.134:4000/play/a0b4/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a064.png",Discovery H&H HD
+http://177.93.41.134:4000/play/a064/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a08s.png",Discovery HD
+http://177.93.41.134:4000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a08b.png",Discovery Theater HD
+http://177.93.41.134:4000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0do.png",Discovery World HD
+http://177.93.41.134:4000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0b3.png",Disney Channel
+http://177.93.41.134:4000/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0b7.png",E Entertainment
+http://177.93.41.134:4000/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0ez.png",E! HD
+http://177.93.41.134:4000/play/a0ez/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0ba.png",ESPN
+http://177.93.41.134:4000/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a06j.png",ESPN 2 HD
+http://177.93.41.134:4000/play/a06j/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0b9.png",ESPN 2 Latin
+http://177.93.41.134:4000/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0dr.png",ESPN 4HD
+http://177.93.41.134:4000/play/a0dr/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0e5.png",ESPN 5HD
+http://177.93.41.134:4000/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0e6.png",ESPN 7HD
+http://177.93.41.134:4000/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0de.png",ESPN CO
+http://177.93.41.134:4000/play/a0de/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0f5.png",ET Canal El Tiempo
+http://177.93.41.134:4000/play/a0f5/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a06s.png",El Gourmet HD
+http://177.93.41.134:4000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0f2.png",ElCanaldelFutbol HD
+http://177.93.41.134:4000/play/a0f2/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a065.png",FX HD
+http://177.93.41.134:4000/play/a065/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a08t.png",Fox Sports 1 HD
+http://177.93.41.134:4000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0bh.png",Fox Sports 2
+http://177.93.41.134:4000/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0bi.png",Fox Sports 3
+http://177.93.41.134:4000/play/a0bi/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0f8.png",Golden Edge
+http://177.93.41.134:4000/play/a0f8/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0ew.png",Golden HD
+http://177.93.41.134:4000/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0dz.png",HBO 2 HD
+http://177.93.41.134:4000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a08u.png",HBO Family HD
+http://177.93.41.134:4000/play/a08u/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0ds.png",HBO HD
+http://177.93.41.134:4000/play/a0ds/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a06d.png",HBO POP HD
+http://177.93.41.134:4000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a08v.png",HBO XTREME HD
+http://177.93.41.134:4000/play/a08v/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a06q.png",ID HD
+http://177.93.41.134:4000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0dt.png",Kanal D Drama HD
+http://177.93.41.134:4000/play/a0dt/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a08r.png",Las Estrellas HD
+http://177.93.41.134:4000/play/a08r/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0f0.png",Latina HD
+http://177.93.41.134:4000/play/a0f0/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0bo.png",Lolly Kids HD
+http://177.93.41.134:4000/play/a0bo/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0bp.png",Love Nature HD
+http://177.93.41.134:4000/play/a0bp/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0bn.png",MTV HD
+http://177.93.41.134:4000/play/a0bn/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0e4.png",MTV LIVE HD
+http://177.93.41.134:4000/play/a0e4/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0dn.png",Nat Geo HD
+http://177.93.41.134:4000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a046.png",Nick HD
+http://177.93.41.134:4000/play/a046/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0dv.png",Paramount HD
+http://177.93.41.134:4000/play/a0dv/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a06o.png",Pasiones HD
+http://177.93.41.134:4000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a04c.png",STAR CHANNEL HD
+http://177.93.41.134:4000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0dx.png",STAR TVE HD
+http://177.93.41.134:4000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0db.png",Senal Colombia
+http://177.93.41.134:4000/play/a0db/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0ev.png",Seæal Colombia HD
+http://177.93.41.134:4000/play/a0ev/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a03x.png",Sony HD
+http://177.93.41.134:4000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a04y.png",Space HD
+http://177.93.41.134:4000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0dw.png",Studio Universal HD
+http://177.93.41.134:4000/play/a0dw/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0e2.png",Sun Channel HD
+http://177.93.41.134:4000/play/a0e2/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0be.png",TLC
+http://177.93.41.134:4000/play/a0be/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a09y.png",TNT Novelas HD
+http://177.93.41.134:4000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0ea.png",TNT Series HD
+http://177.93.41.134:4000/play/a0ea/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0di.png",TRO
+http://177.93.41.134:4000/play/a0di/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0dj.png",Teleislas
+http://177.93.41.134:4000/play/a0dj/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0bj.png",Telemundo
+http://177.93.41.134:4000/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0f1.png",TyC Sports HD
+http://177.93.41.134:4000/play/a0f1/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0bf.png",ViaX
+http://177.93.41.134:4000/play/a0bf/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0b6.png",Warner
+http://177.93.41.134:4000/play/a0b6/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a06c.png",Warner Channel HD
+http://177.93.41.134:4000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0f6.png",Win Sports+
+http://177.93.41.134:4000/play/a0f6/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0e0.png",Win Sports+ HD
+http://177.93.41.134:4000/play/a0e0/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a0dh.png",Zoom
+http://177.93.41.134:4000/play/a0dh/index.m3u8
