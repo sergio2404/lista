@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml"
+#EXTSIZE: Medium
 #EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" tvg-chno="1" group-title="Pluto TV" , Descubriendo Pluto TV
 https://jmp2.uk/PlutoTV/5e793a7cfbdf780007f7eb75-alt.m3u8
 
