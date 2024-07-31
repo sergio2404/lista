@@ -1,7 +1,7 @@
-#EXTM3U
+#EXTM3U size="large"
 #EXTINF:0 type="playlist", Exterma
 https://bit.ly/3mkvdSR
-#EXTINF:0 type="playlist", Iconex
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/JD6jTbbH6qKs2QhSOIdEPcKGbOhHrK1LDHas_WzbnmP8cOLzStJyn0usiIE3drV6Iik=w240-h480-rw", Iconex
 https://bit.ly/3GwV7tx
-#EXTINF:0 tvg-logo="http://example.com/logos/docs.png", type="playlist", PlutoTV
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/JD6jTbbH6qKs2QhSOIdEPcKGbOhHrK1LDHas_WzbnmP8cOLzStJyn0usiIE3drV6Iik=w240-h480-rw", PlutoTV
 https://i.mjh.nz/PlutoTV/mx.m3u8
