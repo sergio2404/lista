@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0 type="playlist", Exterma
+https://bit.ly/3mkvdSR
+#EXTINF:0 type="playlist", Iconex
+https://bit.ly/3GwV7tx
+#EXTINF:0 tvg-logo="http://example.com/logos/docs.png", type="playlist", PlutoTV
+https://i.mjh.nz/PlutoTV/mx.m3u8
