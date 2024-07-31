@@ -5,3 +5,5 @@ https://bit.ly/3GwV7tx
 https://bit.ly/43kJOOC
 #EXTINF:0 type="playlist", PlutoTV
 https://raw.githubusercontent.com/sergio2404/lista/main/PlutoTV.m3u8
+#EXTINF:0 type="playlist", Peliculas
+https://raw.githubusercontent.com/sergio2404/lista/main/Peli.m3u
