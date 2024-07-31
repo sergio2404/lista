@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U size="medium"
 #EXTINF:0 type="stream" channelId="67", TLC
 http://tv.iconex.cl:25461/hd/iconex/343
 #EXTINF:0 type="stream" channelId="3986", Canal 13 HD
