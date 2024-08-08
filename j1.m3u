@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" tvg-chno="108" group-title="Series" , NCIS
 https://jmp2.uk/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Megatiempo.svg/revision/latest?cb=20240404180729", MegaTiempo
-https://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8?uid=aCBa7bNLGtblv8zKwcEnWujuThFWMxeV&sid=yWfW4G61VLnVNqL4f6OsJoEGn4VTVBnn&pid=LbkoaVn314K1MkKte3r715kKOpj5R0A4&an=screen&at=web-app&av=v6.0.30&ref=https%3A%2F%2Fwww.megatiempo.cl%2F&res=580x326&without_cookies=false&listenerid=&dnt=true&access_token=TApI5VTuETvWRm3cvsSn0vZwUWsDkp3jpxVijtYpxxbUcRTYx5KAp1TmiXGaQ7XYP7ujdI39Duo&adInsertionSessionId=95f5b26c-6c38-4862-a1e0-19a3e951e332
 
 #EXTINF:-1,A&E HD
 http://177.222.108.82:2500/play/a0hb/index.m3u8
