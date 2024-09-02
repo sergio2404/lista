@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" tvg-chno="108" group-title="Series" , NCIS
 https://stitcher.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c06cc2c9-6948-11ef-a676-d6d75b16b468
-
 #EXTINF:-1,A&E HD-IK1605-OK
 http://191.52.214.5:8000/play/a01s/index.m3u8
 #EXTINF:-1,AMC HD-IK1633-OK
