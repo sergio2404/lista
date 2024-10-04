@@ -81,33 +81,3 @@ http://191.52.214.5:8000/play/a024/index.m3u8
 http://191.52.214.5:8000/play/a059/index.m3u8
 #EXTINF:-1,Warner Channel HD-IK1631-HD
 http://191.52.214.5:8000/play/a01u/index.m3u8
-
-
-
-#EXTINF:-1,CHV Noticias (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
-
-#EXTINF:-1,MegaTV (480p)
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
-
-
-
-
-#EXTINF:-1,SECRETO EN EL LAGO - Capítulo 1
-https://www.youtube.com/embed/r33D_17i1KM
-
-#EXTINF:-1,SECRETO EN EL LAGO - Capítulo 1
-https://www.youtube.com/live/lxrfVUnyO6g?si=X9zeVNx8KtavJg4a
-
-~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
-
-
-Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
-https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
-
-Gazi TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png |
-https://www.youtube.com/channel/UCXuHIkEezOy_b1pnkN0-TIg/live
-
-24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
-https://www.youtube.com/c/24OnLive/live
