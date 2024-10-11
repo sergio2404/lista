@@ -290,3 +290,28 @@ https://24493.live.streamtheworld.com/FUTUROAAC.aac
 https://streaming.fmokey.cl/moviles.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/dos.jpg" group-title="Radios Chilenas", FM Dos (98.5 FM)
 https://24253.live.streamtheworld.com/FMDOSAAC.aac
+
+
+#EXTINF:-1 tvg-id="6047fabfce6e8e00070bcc9f" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="Música" tvg-chno="1502", MTV Biggest Pop
+https://stitcher.pluto.tv/stitch/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c06cc2c9-6948-11ef-a676-d6d75b16b468
+
+#EXTINF:-1 tvg-id="66a11a21a79dea0008aa90ca" tvg-name="MTV Classic" tvg-logo="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png" group-title="Música" tvg-chno="1503", MTV Classic
+https://stitcher.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c06cc2c9-6948-11ef-a676-d6d75b16b468
+
+#EXTINF:-1 tvg-id="66a01b52a4ee27000808ea36" tvg-name="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png" group-title="Música" tvg-chno="1504", MTV Rocks
+https://stitcher.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c06cc2c9-6948-11ef-a676-d6d75b16b468
+
+#EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="Música" tvg-chno="1505", MTV Spankin' New
+https://stitcher.pluto.tv/stitch/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c06cc2c9-6948-11ef-a676-d6d75b16b468
+
+#EXTINF:-1 tvg-id="62b218fc511d4b00070ddc0c" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Música" tvg-chno="1507", MTV Flow Latino
+https://stitcher.pluto.tv/stitch/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c06cc2c9-6948-11ef-a676-d6d75b16b468
+
+#EXTINF:-1 tvg-id="66a01adf46762a00081ee3dc" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/66a01adf46762a00081ee3dc/colorLogoPNG.png" group-title="Música" tvg-chno="1511", Yo! MTV
+https://stitcher.pluto.tv/stitch/hls/channel/66a01adf46762a00081ee3dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c06cc2c9-6948-11ef-a676-d6d75b16b468
+
+#EXTINF:-1 tvg-id="5f85ca40eda1b10007b967cd" tvg-name="Conciertos por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Música" tvg-chno="1520", Conciertos por Stingray
+https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c06cc2c9-6948-11ef-a676-d6d75b16b468
+
+#EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-name="Karaoke por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" tvg-chno="1525", Karaoke por Stingray
+https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c06cc2c9-6948-11ef-a676-d6d75b16b468
