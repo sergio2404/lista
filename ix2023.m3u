@@ -272,14 +272,12 @@ http://tv.iconex.cl:25461/hd/iconex/350
 https://stitcher.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c06cc2c9-6948-11ef-a676-d6d75b16b468
 
 
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/carolina.jpg" group-title="Radios Chilenas", Carolina (VIDEO)
-https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?uid=5CAo1mmnEq4rC3wqX8i3XH1x8X8FoF96&sid=vQSC2eaGDeqMIPppVID07c9gwTLoDeMF&pid=UDIJnsV2iP6mwfsukNxFt7e8LeuYmiwW&an=screen&at=web-app&av=v5.2.316&ref=https%3A%2F%2Fwww.carolina.cl%2F&res=0x0&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/carolina.jpg" group-title="Radios Chilenas", Carolina (99.3 FM)
 https://mdstrm.com/audio/637f68ddce4b1208597d8a86/live.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/los40.jpg" group-title="Radios Chilenas", Los 40 Chile (101.7 FM)
 https://24363.live.streamtheworld.com/LOS40_CHILEAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/rdisney.jpg" group-title="Radios Chilenas", Radio Disney (95.3 FM)
-https://27283.live.streamtheworld.com/DISNEY_CHI_SA_ADP
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_CHI_SA_ADP.m3u8?dist=web-radiodisney
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/activa.jpg" group-title="Radios Chilenas", Radio Activa (92.5 FM)
 https://27403.live.streamtheworld.com/ACTIVAAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/rock.jpg" group-title="Radios Chilenas", Rock and Pop (94.1 FM)
@@ -289,7 +287,9 @@ https://24493.live.streamtheworld.com/FUTUROAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/ok.jpg" group-title="Radios Chilenas", FM Okey (89.9 FM)
 https://streaming.fmokey.cl/moviles.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/dos.jpg" group-title="Radios Chilenas", FM Dos (98.5 FM)
-https://24253.live.streamtheworld.com/FMDOSAAC.aac
+https://19803.live.streamtheworld.com/FMDOSAAC.aac
+#EXTINF:-1 radio="true" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh985EExm91gdhA4yXSf5RrXrlDKQFvyw_ykqQnZ_b56JXHnxEcYDkzElwQwXQXEtQa-QNUKKYZbBw1EPzbK0BwL9iGgGy4S_mxusGsV9JyjuQLZt5N9jVRa46XQf0kd-FWM0QmBKKpXuIU-DOLgC6L0nCRNBYfxhejKsKdPHe0dXtWgHg2zT_Gu1jQTA=s216" group-title="Radios Chilenas", ViralFM
+https://stream-176.zeno.fm/rxaeekxigkbuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyeGFlZWt4aWdrYnV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjM5OGlQQ1J1UzNpWHEtcnJoNU85YnciLCJpYXQiOjE3Mjk0NjgzMDUsImV4cCI6MTcyOTQ2ODM2NX0.719M3nnq0N0qpegZlvwEPG_ud6g7axC2tlvvNmK_o5s
 
 
 #EXTINF:-1 tvg-id="6047fabfce6e8e00070bcc9f" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="Música" tvg-chno="1502", MTV Biggest Pop
