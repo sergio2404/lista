@@ -1,12 +1,52 @@
 #EXTM3U
 #EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" tvg-chno="108" group-title="Series" , NCIS
 https://stitcher.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c06cc2c9-6948-11ef-a676-d6d75b16b468
-#EXTINF:-1,A&E HD-IK1605-OK
-http://191.52.214.5:8000/play/a01s/index.m3u8
-#EXTINF:-1,AMC HD-IK1633-OK
-http://191.52.214.5:8000/play/a02x/index.m3u8
-#EXTINF:-1,ATRES SERIES HD-IK1616-OK
-http://191.52.214.5:8000/play/a029/index.m3u8
+#EXTINF:-1,CANAL 13 HD
+http://190.121.42.18:8000/play/a00b/index.m3u8
+#EXTINF:-1,CDO PREMIUM HD
+http://190.121.42.18:8000/play/a019/index.m3u8
+#EXTINF:-1,CHILEVISION HD
+http://190.121.42.18:8000/play/a011/index.m3u8
+#EXTINF:-1,CINE FAMILIAR
+http://190.121.42.18:8000/play/a017/index.m3u8
+#EXTINF:-1,CINE PREMIUM
+http://190.121.42.18:8000/play/a015/index.m3u8
+#EXTINF:-1,COMEDY
+http://190.121.42.18:8000/play/a01b/index.m3u8
+#EXTINF:-1,DEPELICULAS
+http://190.121.42.18:8000/play/a016/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://190.121.42.18:8000/play/a014/index.m3u8
+#EXTINF:-1,FUNBOX
+http://190.121.42.18:8000/play/a00s/index.m3u8
+#EXTINF:-1,HGTV
+http://190.121.42.18:8000/play/a013/index.m3u8
+#EXTINF:-1,MEGA HD
+http://190.121.42.18:8000/play/a012/index.m3u8
+#EXTINF:-1,MEGA2
+http://190.121.42.18:8000/play/a00c/index.m3u8
+#EXTINF:-1,MOVIEPLAY
+http://190.121.42.18:8000/play/a01f/index.m3u8
+#EXTINF:-1,NATGEO
+http://190.121.42.18:8000/play/a01e/index.m3u8
+#EXTINF:-1,NEXOPLAY
+http://190.121.42.18:8000/play/a009/index.m3u8
+#EXTINF:-1,SAN NICOLAS
+http://190.121.42.18:8000/play/a01g/index.m3u8
+#EXTINF:-1,T13 EN VIVO
+http://190.121.42.18:8000/play/a00v/index.m3u8
+#EXTINF:-1,TELENOVELAS
+http://190.121.42.18:8000/play/a01a/index.m3u8
+#EXTINF:-1,TELETRAK
+http://190.121.42.18:8000/play/a01d/index.m3u8
+#EXTINF:-1,TOONCAST
+http://190.121.42.18:8000/play/a00t/index.m3u8
+#EXTINF:-1,TVN HD
+http://190.121.42.18:8000/play/a008/index.m3u8
+#EXTINF:-1,ZOOMOO
+http://190.121.42.18:8000/play/a01k/index.m3u8
+#EXTINF:-1,golden
+http://190.121.42.18:8000/play/a01j/index.m3u8
 #EXTINF:-1,AXN HD-IK1617-OK
 http://191.52.214.5:8000/play/a01v/index.m3u8
 #EXTINF:-1,Animal Planet HD-IK1601-OK
