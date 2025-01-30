@@ -1,4 +1,6 @@
 #EXTM3U size="medium"
+#EXTINF:0 tvg-logo="https://www.posterscine.com/media/catalog/product/cache/1c91d037a1f0ef180108abb0973795cc/p/o/poster_regreso_al_futuro_3_muestra.png" type="video" description="2018", Dimensión Paralela
+https://www.youtube.com/embed/vEus8NJaJ44?si=ljilB09bR8rmLIPD
 #EXTINF:0 tvg-logo="https://www.posterscine.com/media/catalog/product/cache/1c91d037a1f0ef180108abb0973795cc/p/o/poster_regreso_al_futuro_eici_n_americana_1985.png" type="video" description="1985", Regreso Al Futuro I
 https://ia601600.us.archive.org/9/items/regreso-al-futuro-i-1985/Regreso%20al%20futuro%20I%20%281985%29.ia.mp4?cnt=0
 #EXTINF:0 tvg-logo="https://www.posterscine.com/media/catalog/product/cache/1c91d037a1f0ef180108abb0973795cc/p/o/poster_regreso_al_futuro_2.png" type="video" description="1989", Regreso Al Futuro II
