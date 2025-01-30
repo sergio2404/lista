@@ -1,17 +1,17 @@
 #EXTM3U size="medium"
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/carolina.jpg" group-title="Radios Chilenas", Carolina (99.3 FM)
 https://mdstrm.com/audio/637f68ddce4b1208597d8a86/live.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/los40.jpg" group-title="Radios Chilenas", Los 40 Chile (101.7 FM)
-https://27433.live.streamtheworld.com/LOS40_CHILEAAC.aac
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/dos.jpg" group-title="Radios Chilenas", FM Dos (98.5 FM)
+https://24413.live.streamtheworld.com/FMDOSAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/rdisney.jpg" group-title="Radios Chilenas", Radio Disney (95.3 FM)
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_CHI_SA_ADP.m3u8?dist=web-radiodisney
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/activa.jpg" group-title="Radios Chilenas", Radio Activa (92.5 FM)
 https://27403.live.streamtheworld.com/ACTIVAAAC.aac
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/ok.jpg" group-title="Radios Chilenas", FM Okey (89.9 FM)
+https://streaming.fmokey.cl/moviles.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/los40.jpg" group-title="Radios Chilenas", Los 40 Chile (101.7 FM)
+https://27433.live.streamtheworld.com/LOS40_CHILEAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/rock.jpg" group-title="Radios Chilenas", Rock and Pop (94.1 FM)
 https://26523.live.streamtheworld.com/ROCK_AND_POPAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/futuro.jpg" group-title="Radios Chilenas", Futuro FM (88.9 FM)
 https://27363.live.streamtheworld.com/FUTUROAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/ok.jpg" group-title="Radios Chilenas", FM Okey (89.9 FM)
-https://streaming.fmokey.cl/moviles.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/dos.jpg" group-title="Radios Chilenas", FM Dos (98.5 FM)
-https://19803.live.streamtheworld.com/FMDOSAAC.aac
