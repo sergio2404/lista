@@ -324,3 +324,7 @@ https://stream.skarnetchile.com:19360/spectrumchannel/spectrumchannel.m3u8?Playl
 
 #EXTINF:-1 tvg-id="1629" tvg-name="Radio Zona 90.3" tvg-logo="https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png", Radio Zona 90.3 ✪ | CL
 https://premium.tvcontrolcp.com:19360/radiozona/radiozona.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="1629" tvg-name="Radio Zona 90.3" tvg-logo="https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png", Camara Viña del Mar - Av Perú
+https://www.youtube.com/embed/SUUjJxQpDSY?si=pjIbQz3e7zww2RAq&autoplay=1&mute=1;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
