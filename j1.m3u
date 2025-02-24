@@ -13,14 +13,6 @@ http://190.121.42.18:8000/play/a00c/index.m3u8
 http://190.121.42.18:8000/play/a008/index.m3u8
 
 
-#EXTINF:0,CDO PREMIUM HD
-http://190.121.42.18:8000/play/a019
-#EXTINF:0,CINE FAMILIAR
-http://190.121.42.18:8000/play/a017
-#EXTINF:0,CINE PREMIUM
-http://190.121.42.18:8000/play/a015
-#EXTINF:-1,MOVIEPLAY
-http://190.121.42.18:8000/play/a01f/index.m3u8
 #EXTINF:-1,MiMusica HD K-POP
 http://191.52.214.5:8000/play/a06d/index.m3u8
 #EXTINF:-1,MiMusica HD Reggaeton
