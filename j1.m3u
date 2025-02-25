@@ -2,20 +2,23 @@
 #EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" tvg-chno="108" group-title="Series" , NCIS
 https://stitcher.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c06cc2c9-6948-11ef-a676-d6d75b16b468
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/c13.jpg",CANAL 13 HD
-http://190.121.42.18:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/chv.jpg",CHILEVISION HD
-http://190.121.42.18:8000/play/a011/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/mega.jpg",MEGA HD
-http://190.121.42.18:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/mega.jpg",MEGA2
-http://190.121.42.18:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tvn.jpg",TVN HD
-http://190.121.42.18:8000/play/a008/index.m3u8
-
-
-#EXTINF:11,123 TV
 #EXTVLCOPT:network-caching=1000
-http://179.63.36.2:8000/play/a0lb/index.m3u8
+http://179.63.36.2:8000/play/a0qc/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/chv.jpg",CHILEVISION HD
+#EXTVLCOPT:network-caching=1000
+http://179.63.36.2:8000/play/a0od/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/mega.jpg",MEGA HD
+#EXTVLCOPT:network-caching=1000
+http://179.63.36.2:8000/play/a0pv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tvn.jpg",TVN HD
+#EXTVLCOPT:network-caching=1000
+http://179.63.36.2:8000/play/a0oc/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tv+.jpg",TVN HD
+#EXTVLCOPT:network-caching=1000
+http://179.63.36.2:8000/play/a0jd/index.m3u8
+
+
+
 #EXTINF:0,A&E HD
 #EXTVLCOPT:network-caching=1000
 http://179.63.36.2:8000/play/a0ny/index.m3u8
