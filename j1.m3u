@@ -13,7 +13,7 @@ http://179.63.36.2:8000/play/a0pv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tvn.jpg",TVN HD
 #EXTVLCOPT:network-caching=1000
 http://179.63.36.2:8000/play/a0oc/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tv+.jpg",TVN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tv+.jpg",TV+ HD
 #EXTVLCOPT:network-caching=1000
 http://179.63.36.2:8000/play/a0jd/index.m3u8
 
