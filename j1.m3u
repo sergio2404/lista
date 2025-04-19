@@ -282,11 +282,3 @@ http://190.107.20.43:6004/play/a0b4
 http://190.107.20.43:6004/play/a06d
 #EXTINF:-1,Win Sports
 http://190.107.20.43:6004/play/a0da
-
-
-#EXTINF:-1,MiMusica HD K-POP
-http://191.52.214.5:8000/play/a06d/index.m3u8
-#EXTINF:-1,MiMusica HD Reggaeton
-http://191.52.214.5:8000/play/a06c/index.m3u8
-#EXTINF:-1,MiMusica HD Salsa
-http://191.52.214.5:8000/play/a06b/index.m3u8
