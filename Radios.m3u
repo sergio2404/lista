@@ -4,7 +4,7 @@ https://mdstrm.com/audio/637f68ddce4b1208597d8a86/live.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/dos.jpg" group-title="Radios Chilenas", FM Dos (98.5 FM)
 https://24413.live.streamtheworld.com/FMDOSAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/rdisney.jpg" group-title="Radios Chilenas", Radio Disney (95.3 FM)
-https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_CHI_SA_ADP.m3u8?dist=web-radiodisney
+https://cl-a9-p-e-pt11-audio.cdn.mdstrm.com/live-audio-aw/67fe714d82a1ac0e129ae3cc/playlist.m3u8?listeningSessionID=6814e7f268d7cb2b_5456169_5MRXAfJp_Y2wtYTktcC1lLXB0MTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000000oyaR&downloadSessionID=0&aid=53bc2bcae41e2d9c662e1ba7&dist=web-radiodisney&pid=HxStnWag4fxDkXbBG0kXc9QhN0uuKXfj&sid=lbcEaMjHK7CwNHk0aSIbjcBDWcJZoq7C&uid=QYmfeMkV6k9Lw27L6K5fYJz7WSF5715K&es=cl-a9-p-e-pt11-audio.cdn.mdstrm.com&ote=1751743131250&ot=8lLGDzvujH5NJ2r2LqzRYw&proto=https&pz=us&cP=128000&awCollectionId=53bc2bcae41e2d9c662e1ba7&liveId=67fe714d82a1ac0e129ae3cc&referer=https%3A%2F%2Femisora.cl%2F&listenerId=QYmfeMkV6k9Lw27L6K5fYJz7WSF5715K
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/activa.jpg" group-title="Radios Chilenas", Radio Activa (92.5 FM)
 https://27403.live.streamtheworld.com/ACTIVAAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/ok.jpg" group-title="Radios Chilenas", FM Okey (89.9 FM)
