@@ -19,12 +19,8 @@ http://152.230.229.66:8000/play/a00s/index.m3u8
 http://152.230.229.66:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="-",CNN Chile
 http://152.230.229.66:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="-",RTC
-http://152.230.229.66:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="-",Hospicio TV
 http://152.230.229.66:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="-",Iquique TV
-http://152.230.229.66:8000/play/a04c/index.m3u8
 #EXTINF:-1 group-title="-",Baby First
 http://152.230.229.66:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="-",Cartoon Network
@@ -35,8 +31,6 @@ http://152.230.229.66:8000/play/a008/index.m3u8
 http://152.230.229.66:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="-",Disney Jr
 http://152.230.229.66:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="-",Nick Jr
-http://152.230.229.66:8000/play/a033/index.m3u8
 #EXTINF:-1 group-title="-",Nickelodeon
 http://152.230.229.66:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="-",AE Mundo
@@ -59,12 +53,6 @@ http://152.230.229.66:8000/play/a022/index.m3u8
 http://152.230.229.66:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="-",E Entertainment
 http://152.230.229.66:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="-",Enlace
-http://152.230.229.66:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="-",Esne
-http://152.230.229.66:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="-",France 24
-http://152.230.229.66:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="-",Home and Health
 http://152.230.229.66:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="-",Lifetime
