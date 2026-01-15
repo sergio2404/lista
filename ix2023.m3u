@@ -63,7 +63,7 @@ http://tv.iconex.cl:25461/hd/iconex/348
 http://tv.iconex.cl:25461/hd/iconex/324
 #EXTINF:0 type="stream" channelId="2638", I-Sat
 http://tv.iconex.cl:25461/hd/iconex/218
-#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/800px-Star_Channel_2021.png", STAR HD
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Star_logo.svg", STAR HD
 http://tv.iconex.cl:25461/hd/iconex/307
 #EXTINF:0 type="stream" channelId="3077", Kanal D Drama HD
 http://tv.iconex.cl:25461/hd/iconex/332
