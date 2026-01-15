@@ -46,6 +46,8 @@ http://tv.iconex.cl:25461/hd/iconex/273
 #EXTINF:0 type="stream" channelId="2888", Cinemax HD
 http://tv.iconex.cl:25461/hd/iconex/274
 #EXTINF:0 type="stream" channelId="2903", Warner HD
+http://tv.iconex.cl:25461/hd/iconex/218
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Star_logo.svg", STAR HD
 http://tv.iconex.cl:25461/hd/iconex/325
 #EXTINF:0 type="stream" channelId="530", Sony HD
 http://tv.iconex.cl:25461/hd/iconex/313
@@ -62,8 +64,6 @@ http://tv.iconex.cl:25461/hd/iconex/348
 #EXTINF:0 type="stream" channelId="3317", Universal HD
 http://tv.iconex.cl:25461/hd/iconex/324
 #EXTINF:0 type="stream" channelId="2638", I-Sat
-http://tv.iconex.cl:25461/hd/iconex/218
-#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Star_logo.svg", STAR HD
 http://tv.iconex.cl:25461/hd/iconex/307
 #EXTINF:0 type="stream" channelId="3077", Kanal D Drama HD
 http://tv.iconex.cl:25461/hd/iconex/332
