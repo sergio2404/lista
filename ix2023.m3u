@@ -48,8 +48,7 @@ http://tv.iconex.cl:25461/hd/iconex/274
 #EXTINF:0 type="stream" channelId="2903", Warner HD
 http://tv.iconex.cl:25461/hd/iconex/325
 #EXTINF:0 type="stream" tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/Star-Logo.png", STAR HD
-http://tv.iconex.cl:25461/hd/iconex/307
-#EXTINF:0 type="stream" channelId="530", Sony HD
+#EXTINF:0 type="stream" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Sony_Channel_2023.png/revision/latest?cb=20230828233601&path-prefix=es", Sony Channel HD
 http://tv.iconex.cl:25461/hd/iconex/313
 #EXTINF:0 type="stream" channelId="2503", A&E HD
 http://tv.iconex.cl:25461/hd/iconex/264
