@@ -5,7 +5,7 @@ http://tv.iconex.cl:25461/hd/iconex/270
 http://tv.iconex.cl:25461/hd/iconex/268
 #EXTINF:0 type="stream" channelId="3985", Mega HD
 http://tv.iconex.cl:25461/hd/iconex/300
-#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotipo_de_TVN_HD_%282016-2020%29.png/800px-Logotipo_de_TVN_HD_%282016-2020%29.png", TVN HD
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile_%282004-2016%29.png", TVN HD
 http://tv.iconex.cl:25461/hd/iconex/363
 #EXTINF:0 type="stream" channelId="1745", La Red HD
 http://tv.iconex.cl:25461/hd/iconex/299
