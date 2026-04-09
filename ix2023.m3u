@@ -281,7 +281,7 @@ https://streaming.fmokey.cl/fmokey?_hdr=0
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/los40.jpg" group-title="Radios Chilenas", Los 40 Chile (101.7 FM)
 https://13693.live.streamtheworld.com/LOS40_CHILEAAC.aac?csegid=12000&gdpr=0&dist=los40-web-live_streaming_play&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=cf4391c1-ad90-4ac2-bb07-b00e1efcf306
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/rock.jpg" group-title="Radios Chilenas", Rock and Pop (94.1 FM)
-https://26523.live.streamtheworld.com/ROCK_AND_POPAAC.aac
+https://24423.live.streamtheworld.com/ROCK_AND_POPAAC.aac?csegid=2000&dist=rockandpopchile-web-tod-permanente&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=e50e64c4-25bb-4fc1-c411-283b96452c93
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/futuro.jpg" group-title="Radios Chilenas", Futuro FM (88.9 FM)
 https://27363.live.streamtheworld.com/FUTUROAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/dulce.jpg" group-title="Radios Chilenas", Dulce FM (97.9 FM)
