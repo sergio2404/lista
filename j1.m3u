@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/"c13.jpg,Canal 13 HD
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/c13.jpg",Canal 13 HD
 http://45.181.122.46:8090/play/a00w
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/chv.jpg",CHV HD
 http://45.181.122.46:8090/play/a01o
@@ -19,7 +19,7 @@ http://45.181.122.46:8090/play/a01n
 http://45.181.122.46:8090/play/a02n
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/a&e.jpg",A&E HD
 http://45.181.122.46:8090/play/a00d
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",AMC HD
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/amc.jpg",AMC HD
 http://45.181.122.46:8090/play/a027
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/axn.jpg",AXN HD
 http://45.181.122.46:8090/play/a00g
@@ -27,9 +27,9 @@ http://45.181.122.46:8090/play/a00g
 http://45.181.122.46:8090/play/a026
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/fx.jpg",FX HD
 http://45.181.122.46:8090/play/a01l
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",Golden Edge
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/edge.jpg",Golden Edge
 http://45.181.122.46:8090/play/a038
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",Golden HD
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/golden.jpg",Golden HD
 http://45.181.122.46:8090/play/a019
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbo2.jpg",HBO 2
 http://45.181.122.46:8090/play/a043
@@ -39,7 +39,7 @@ http://45.181.122.46:8090/play/a04e
 http://45.181.122.46:8090/play/a017
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbo.jpg",HBO HD
 http://45.181.122.46:8090/play/a029
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",HBO POP HD
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbopop.jpg",HBO POP HD
 http://45.181.122.46:8090/play/a00j
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbo+.jpg",HBO Plus
 http://45.181.122.46:8090/play/a039
@@ -47,7 +47,7 @@ http://45.181.122.46:8090/play/a039
 http://45.181.122.46:8090/play/a04f
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hboxt.jpg",HBO XTREME HD
 http://45.181.122.46:8090/play/a018
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",Paramount HD
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/paramount.jpg",Paramount HD
 http://45.181.122.46:8090/play/a02c
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/starch.jpg",STAR CHANNEL HD
 http://45.181.122.46:8090/play/a03n
@@ -57,26 +57,20 @@ http://45.181.122.46:8090/play/a00e
 http://45.181.122.46:8090/play/a00h
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tnt.jpg",TNT HD
 http://45.181.122.46:8090/play/a01s
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",TNT Series HD
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tntseries.jpg",TNT Series HD
 http://45.181.122.46:8090/play/a01k
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/wbtv.jpg",Warner Channel HD
 http://45.181.122.46:8090/play/a00f
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",UNIVERSAL CHANNEL HD
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/universal.jpg",UNIVERSAL CHANNEL HD
 http://45.181.122.46:8090/play/a01h
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",Clover
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/clover.jpg",Clover
 http://45.181.122.46:8090/play/a03z
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",Comedy Central HD
-http://45.181.122.46:8090/play/a01z
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/h&h.jpg",Discovery H&H HD
 http://45.181.122.46:8090/play/a01f
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/discovery.jpg",Discovery HD
 http://45.181.122.46:8090/play/a014
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/dkids.jpg",Discovery Kids HD
 http://45.181.122.46:8090/play/a01e
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",Discovery Theater HD
-http://45.181.122.46:8090/play/a01g
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",Discovery World HD
-http://45.181.122.46:8090/play/a025
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/disney.jpg",Disney HD
 http://45.181.122.46:8090/play/a01q
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/espn2.jpg",ESPN 2 HD
@@ -95,10 +89,6 @@ http://45.181.122.46:8090/play/a01j
 http://45.181.122.46:8090/play/a01m
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/espn.jpg",ESPN Premium HD
 http://45.181.122.46:8090/play/a015
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",El Gourmet HD
-http://45.181.122.46:8090/play/a021
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",Food Network HD
-http://45.181.122.46:8090/play/a01c
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/history.jpg",History 2
 http://45.181.122.46:8090/play/a031
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/history.jpg",History Channel HD
@@ -119,8 +109,6 @@ http://45.181.122.46:8090/play/a011
 http://45.181.122.46:8090/play/a024
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/nickjr.jpg",Nick HD
 http://45.181.122.46:8090/play/a00m
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/",Nick Music
-http://45.181.122.46:8090/play/a034
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tntsport.jpg",TNT SPORTS
 http://45.181.122.46:8090/play/a04m
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tntsport.jpg",TNT SPORTS
