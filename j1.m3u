@@ -3,10 +3,6 @@
 http://45.181.122.46:8090/play/a00w
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/chv.jpg",CHV HD
 http://45.181.122.46:8090/play/a01o
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/lared.jpg",La Red HD
-http://45.181.122.46:8090/play/a00n
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/lared.jpg",La Red HD
-http://45.181.122.46:8090/play/a03w
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/mega.jpg",MEGA HD
 http://45.181.122.46:8090/play/a023
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/mega.jpg",MEGA HD
@@ -15,6 +11,10 @@ http://45.181.122.46:8090/play/a04l
 http://45.181.122.46:8090/play/a04j
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tvn.jpg",TVN HD
 http://45.181.122.46:8090/play/a01n
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/lared.jpg",La Red HD
+http://45.181.122.46:8090/play/a00n
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/lared.jpg",La Red HD
+http://45.181.122.46:8090/play/a03w
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/c13.jpg",13C
 http://45.181.122.46:8090/play/a02n
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/a&e.jpg",A&E HD
