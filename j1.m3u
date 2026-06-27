@@ -33,8 +33,6 @@ http://45.181.122.46:8090/play/a038
 http://45.181.122.46:8090/play/a019
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbo2.jpg",HBO 2
 http://45.181.122.46:8090/play/a043
-#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbo2.jpg",HBO 2
-http://45.181.122.46:8090/play/a04e
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbof.jpg",HBO Family HD
 http://45.181.122.46:8090/play/a017
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbo.jpg",HBO HD
