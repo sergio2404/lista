@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/c13.jpg",Canal 13 HD
-https://dai.google.com/linear/hls/pa/event/nthipJzGQY-A-N0t6xCZhA/stream/2d7e5cf2-f89c-462a-903a-d3929b798a68:SCL2/master.m3u8
+https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist_2000_20260905T000801_45477.ts?dpssid=h6cl124299029577ac74d4867171aa5bfc86666bd93616&sid=bh6cl99219361002650dc85c75e5f54a38d5367a97caab&ref=&ndvc=0&platform=
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/chv.jpg",CHV HD
-https://jireh-24-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?dpssid=b216640365996a9b59baae6b3&sid=ba5t1l1xb211589527026a9b59baae6b0&ndvc=1
+https://jireh-25-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist_500.m3u8?dpssid=b221233842326a9b5c6c058bd&sid=ba5t1l1xb217623726306a9b5c6c058ba&ndvc=1
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/mega.jpg",MEGA HD
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?nimblesessionid=525070556
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tv+.jpg",TV+ HD
 https://jireh-14-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?dpssid=bdfacc7e2e1e1817cc5171d6bf6e9cb4&sid=ba5t1l1xb25816761026a9b5a2ce75c4&ndvc=0
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tvn.jpg",TVN HD
