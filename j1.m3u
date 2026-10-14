@@ -49,11 +49,11 @@ http://tv.iconex.cl:25461/hd/iconex/325
 http://tv.iconex.cl:25461/hd/iconex/307
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/sonychannel.jpg", Sony Channel HD
 http://tv.iconex.cl:25461/hd/iconex/313
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/sonychannel.jpg", A&E HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/a&e.jpg", A&E HD
 http://tv.iconex.cl:25461/hd/iconex/264
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/sonychannel.jpg", AXN HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/axn.jpg", AXN HD
 http://tv.iconex.cl:25461/hd/iconex/266
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/sonychannel.jpg", Space HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/space.jpg", Space HD
 http://tv.iconex.cl:25461/hd/iconex/314
 #EXTINF:0 type="stream" channelId="3765", Golden Plus HD
 http://tv.iconex.cl:25461/hd/iconex/294
