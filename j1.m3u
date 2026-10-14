@@ -21,39 +21,39 @@ http://tv.iconex.cl:25461/hd/iconex/271
 http://tv.iconex.cl:25461/hd/iconex/269
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/cnnes.jpg", CNN Español
 http://tv.iconex.cl:25461/hd/iconex/338
-#EXTINF:0 type="stream" channelId="4036", Paramount HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/paramount.jpg", Paramount HD
 http://tv.iconex.cl:25461/hd/iconex/304
-#EXTINF:0 type="stream" channelId="361", HBO POP HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbopop.jpg", HBO POP HD
 http://tv.iconex.cl:25461/hd/iconex/296
-#EXTINF:0 type="stream" channelId="1330", HBO HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbo.jpg", HBO HD
 http://tv.iconex.cl:25461/hd/iconex/295
-#EXTINF:0 type="stream" channelId="935", HBO 2
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbo2.jpg", HBO 2
 http://tv.iconex.cl:25461/hd/iconex/211
-#EXTINF:0 type="stream" channelId="2584", HBO Family
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbof.jpg", HBO Family
 http://tv.iconex.cl:25461/hd/iconex/212
-#EXTINF:0 type="stream" channelId="2587", HBO Xtreme
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hboxt.jpg", HBO Xtreme
 http://tv.iconex.cl:25461/hd/iconex/214
-#EXTINF:0 type="stream" channelId="2585", HBO Plus
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbo+.jpg", HBO Plus
 http://tv.iconex.cl:25461/hd/iconex/213
-#EXTINF:0 type="stream" channelId="2900", TNT HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tnt.jpg", TNT HD
 http://tv.iconex.cl:25461/hd/iconex/318
-#EXTINF:0 type="stream" channelId="1304", FX HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/fx.jpg", FX HD
 http://tv.iconex.cl:25461/hd/iconex/289
-#EXTINF:0 type="stream" channelId="284", Cinecanal HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/ccanal.jpg", Cinecanal HD
 http://tv.iconex.cl:25461/hd/iconex/273
-#EXTINF:0 type="stream" channelId="2888", Cinemax HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/cmax.jpg", Cinemax HD
 http://tv.iconex.cl:25461/hd/iconex/274
-#EXTINF:0 type="stream" channelId="2903", Warner HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/wbtv.jpg", Warner HD
 http://tv.iconex.cl:25461/hd/iconex/325
-#EXTINF:0 type="stream" tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/Star-Logo.png", STAR HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/starch.jpg", STAR HD
 http://tv.iconex.cl:25461/hd/iconex/307
-#EXTINF:0 type="stream" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Sony_Channel_2023.png/revision/latest?cb=20230828233601&path-prefix=es", Sony Channel HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/sonychannel.jpg", Sony Channel HD
 http://tv.iconex.cl:25461/hd/iconex/313
-#EXTINF:0 type="stream" channelId="2503", A&E HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/sonychannel.jpg", A&E HD
 http://tv.iconex.cl:25461/hd/iconex/264
-#EXTINF:0 type="stream" channelId="2246", AXN HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/sonychannel.jpg", AXN HD
 http://tv.iconex.cl:25461/hd/iconex/266
-#EXTINF:0 type="stream" channelId="2896", Space HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/sonychannel.jpg", Space HD
 http://tv.iconex.cl:25461/hd/iconex/314
 #EXTINF:0 type="stream" channelId="3765", Golden Plus HD
 http://tv.iconex.cl:25461/hd/iconex/294
