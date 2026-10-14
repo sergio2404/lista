@@ -21,7 +21,7 @@ http://tv.iconex.cl:25461/hd/iconex/271
 http://tv.iconex.cl:25461/hd/iconex/269
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/cnnes.jpg", CNN Español
 http://tv.iconex.cl:25461/hd/iconex/338
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/paramount.jpg", Paramount HD
+#EXTINF:0 type="stream" tvg-logo="https://logospng.org/download/paramount-plus/paramount-plus-1536.png", Paramount HD
 http://tv.iconex.cl:25461/hd/iconex/304
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/hbopop.jpg", HBO POP HD
 http://tv.iconex.cl:25461/hd/iconex/296
