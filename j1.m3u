@@ -40,7 +40,7 @@ http://tv.iconex.cl:25461/hd/iconex/318
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/fx.jpg", FX HD
 http://tv.iconex.cl:25461/hd/iconex/289
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/ccanal.jpg", Cinecanal HD
-http://tv.iconex.cl:25461/hd/iconex/273
+http://tv.iconex.cl:25461/hd/iconex/217
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/cmax.jpg", Cinemax HD
 http://tv.iconex.cl:25461/hd/iconex/274
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/wbtv.jpg", Warner HD
@@ -218,11 +218,11 @@ http://tv.iconex.cl:25461/hd/iconex/209
 #EXTINF:0 type="stream" channelId="1330", HBO
 http://tv.iconex.cl:25461/hd/iconex/210
 #EXTINF:0 type="stream" channelId="1052", TNT
-http://tv.iconex.cl:25461/hd/iconex/215
+http://tv.iconex.cl:25461/hd/iconex/217
 #EXTINF:0 type="stream" channelId="64", Cinecanal
 http://tv.iconex.cl:25461/hd/iconex/216
 #EXTINF:0 type="stream" channelId="1326", Cinemax
-http://tv.iconex.cl:25461/hd/iconex/217
+http://tv.iconex.cl:25461/hd/iconex/243
 #EXTINF:0 type="stream" channelId="188", Sony
 http://tv.iconex.cl:25461/hd/iconex/220
 #EXTINF:0 type="stream" channelId="187", Universal
