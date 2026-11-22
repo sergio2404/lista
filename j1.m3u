@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:2 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/c13.jpg", group-title="TV Nacionales", Canal 13 HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/c13.jpg", Canal 13 HD
 http://tv.iconex.cl:25461/hd/iconex/270
-#EXTINF:2 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/chv.jpg", group-title="TV Nacionales", CHV HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/chv.jpg", CHV HD
 http://tv.iconex.cl:25461/hd/iconex/268
-#EXTINF:2 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/mega.jpg", group-title="TV Nacionales", Mega HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/mega.jpg", Mega HD
 http://tv.iconex.cl:25461/hd/iconex/300
-#EXTINF:2 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tvn.jpg", group-title="TV Nacionales", TVN HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tvn.jpg", TVN HD
 http://tv.iconex.cl:25461/hd/iconex/363
-#EXTINF:2 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/lared.jpg", group-title="TV Nacionales", La Red HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/lared.jpg", La Red HD
 http://tv.iconex.cl:25461/hd/iconex/299
-#EXTINF:2 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tv+.jpg", group-title="TV Nacionales", TV+ HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tv+.jpg", TV+ HD
 http://tv.iconex.cl:25461/hd/iconex/322
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tlc.jpg", TLC
 http://tv.iconex.cl:25461/hd/iconex/343
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/h&h.jpg", Discovery H&H HD
 http://tv.iconex.cl:25461/hd/iconex/277
-#EXTINF:2 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tvn.jpg", group-title="TV Nacionales", 24 Horas HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/tvn.jpg", 24 Horas HD
 http://tv.iconex.cl:25461/hd/iconex/271
-#EXTINF:2 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/cnnch.jpg", group-title="TV Nacionales", CNN Chile HD
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/cnnch.jpg", CNN Chile HD
 http://tv.iconex.cl:25461/hd/iconex/269
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/sergio2404/jpg/main/logos/cnnes.jpg", CNN Español
 http://tv.iconex.cl:25461/hd/iconex/338
@@ -197,9 +197,9 @@ http://tv.iconex.cl:25461/hd/iconex/260
 http://tv.iconex.cl:25461/hd/iconex/333
 #EXTINF:0 type="stream" channelId="1973", MTV
 http://tv.iconex.cl:25461/hd/iconex/261
-#EXTINF:2 type="stream" tvg-logo="https://canalviax.com/wp-content/uploads/2022/12/verticallogo.png", group-title="TV Nacionales", ViaX
+#EXTINF:0 type="stream" tvg-logo="https://canalviax.com/wp-content/uploads/2022/12/verticallogo.png", ViaX
 http://tv.iconex.cl:25461/hd/iconex/262
-#EXTINF:2 type="stream" channelId="4750", group-title="TV Nacionales", Zona Latina
+#EXTINF:0 type="stream" channelId="4750", Zona Latina
 http://tv.iconex.cl:25461/hd/iconex/263
 #EXTINF:0 type="stream" channelId="152", CNN Chile
 http://tv.iconex.cl:25461/hd/iconex/327
